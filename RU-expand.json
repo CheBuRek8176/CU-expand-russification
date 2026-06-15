@@ -2,7 +2,7 @@
     "zametka1488": "[ВЕЛИКИЙ АВТОРСКИЙ КОММЕНТАРИЙ (18.01.26)] признаюсь честно, я (чебурек), немного спёр переводы из гитхаба и плейграунда, в основном - из того, что делали takashi wolf, deimos w, noctis, kimki и feks под v5pt5, но примерно 75% (в частности - почти все реплики Экспи (в плане игрового перса, не торгаша) [обновление от 28.01: уже и торгаша, а ещё Милки]) делал сам ввиду корявости их переводов, скоро постараюсь сам дочистить и самостоятельно перевести то, что спёр. ещё я пару строк спёр у перевода от takashi wolf и fluffy. [обновление от 25.02: основная причина «воровства» - моя НЕВЕРОЯТНАЯ лень, в особенности - касательно перевода больших стен текста (вроде Э-КПК и заметок), порой они ВООБЩЕ не поддаются хоть сколько-то осмысленному переводу. но почти все те заметки, что были добавлены с 5.0.1 по 5.1, я переводил сам] [обновление от 13.05.26: всё-таки, я решился перевести весь этот свиздец. по большей части я ориентировался на свои (не)знания английского и лишь В ИСКЛЮЧИТЕЛЬНЫХ случаях подсматривал (но не воровал) чужие переводы (с официального репо)] большое спасибо рокетуссу за тест на ошибки (их было МНОГО, первая версия запустилась только с 4(!) раза. я уже промолчу про тот, что был под v5.0.3 - 8, сука, попыток... 8!!!) и поиск оЧеПяток. также спс пропеллеру (моему лучшему другу), булаге (кстати, у него в оригинале ника оЧеПятка, он булЫга), доктору вазелину, дэй1икст и комару за те же заслуги. (кстати, пропеллер хочет создать свой руссификатор; учитывая, что у него шизофрения и он питается клеем-ПВА в перемешку с клеем-моментом и порошковым термоклеем, несложно догадаться, какая задница там будет происходить)) [обновление от 07.05.26: он сделал его на треть, а затем забил. но играет в мп мод он с ним. и, кста, качество перевода: гоблинский]). изначально, руссификатор должен был выйти чуть ли ни под v5pt4, но в октябре-ноябре у меня почти не было времени из-за подготовки к экзаменам, делал где-то с середины октября 25-го + я делал ВЕСЬ руссификатор с телефона (кстати, очень древнего, LeEco Le2 аж 2016 года) через редактор в цх проводнике, из-за кривого сенсора я допускал дофигище опечаток, а затем весь декабрь-январь фиксил их. а затем орсон в середине февраля ФИГАК - обнова 5.0.1. спс за понимание. если чё, мой ник в тг CheBuRek8176,если есть вопросы, пиши, не стесняйся))",
     "poshalkopodskazka": "крч, я (чебурек) вместе с рокетуссом по приколу по всему руссификатору запихал пасхалки - в игре их не встретишь, только тута))",
     "name": "Русский<color=\"green\">+</color>",
-    "description": "Неофициальный \"расширенный\" руссификатор от <color=\"yellow\">CheBuRek8176</color>. В тестировании участвовали <color=\"orange\">Roketuss</color>, <color=#00FFFF>PROPELLER22869</color>, <color=#00FFFF>Bylaga</color>, <color=#ffffff>dok_vazelin</color>, <color=\"green\">Day1xt</color> и <color=#ff00ff>Komarok</color>. Переводы могут содержать неточности, минимальное искажение изначального смысла, опечатки или устареть.\n\n<color=\"green\">Этот руссификатор содержит множество подсказок, советов и более подробное описание всего, что имеет его - специально для новичков! Также, немного более подробно описан лор (предыстория) \"Серой Планеты\" и персонажей, а ещё добавлено множество новых реплик для последних и несколько неочевидных отсылок.</color><color=\"orange\">\n\nТекущая версия руссификатора: </color><color=\"yellow\">7.0.1.1</color>\n<color=\"green\">Основные изменения:</color>\n-Переведён первый текстовик на Э-КПК\n-Добавлена (частичная) поддержка мультиплеер-мода!\n-Исправлены опечатки и логические ошибки в записках, интерфейсе и репликах\n-Стеногрыз был переименован в пескопыта\n-Пара мелких изменений\n\n<color=#ff00ff>К сожалению, некоторые шрифты, которые используются игрой, не дружат с кириллицей, поэтому в некоторых местах может встречаться корявое отображение текста.</color>\n\nСсылки:\n<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color> - официальный репозиторий в GitHub\n<color=\"blue\">https://github.com/CheBuRek8176/CU-expand-russification</color> - репозиторий <color=\"yellow\">CheBuRek8176</color> с другими переводами (которых пока нету :) ) и возможностью обновления этого\n<color=\"blue\">https://t.me/CasualtiesUnknown_ScavPrototype</color> - наш <color=#66e0ff>Telegram</color>-канал\n<color=\"blue\">https://t.me/+T4LYQM0mT4s1MDBi</color> - наша <color=#66e0ff>Telegram</color>-группа\nДля перехода по ссылке рекомендуется зайти внутрь файла руссификатора и скопировать её оттуда.\n\n<size=200%><color=#00f4ff>СПАСИБО ЗА 500+ ПРОСМОТРОВ ЗА 4 ДНЯ!",
+    "description": "Неофициальный \"расширенный\" руссификатор от <color=\"yellow\">CheBuRek8176</color>. В тестировании участвовали <color=\"orange\">Roketuss</color>, <color=#00FFFF>PROPELLER22869</color>, <color=#00FFFF>Bylaga</color>, <color=#ffffff>dok_vazelin</color>, <color=\"green\">Day1xt</color> и <color=#ff00ff>Komarok</color>. В поиске опечаток участвовали: <color=#6e00ff>bibas_x2 (Монь Ферр)</color>. Переводы могут содержать неточности, минимальное искажение изначального смысла, опечатки или устареть.\n\n<color=\"green\">Этот руссификатор содержит множество подсказок, советов и более подробное описание всего, что имеет его - специально для новичков! Также, немного более подробно описан лор (предыстория) \"Серой Планеты\" и персонажей, а ещё добавлено множество новых реплик для последних и несколько неочевидных отсылок.</color><color=\"orange\">\n\nТекущая версия руссификатора: </color><color=\"yellow\">7.0.1.2</color>\n<color=\"green\">Основные изменения:</color>\n-Переведено ещё несколько текстовиков на Э-КПК\n-Исправлено несколько корявых переводов\n-Исправлены опечатки и логические ошибки в интерфейсе\n-<color=#6e00ff>bibas_x2 (Монь Ферр)</color> сообщил о мелких проблемах с вылезающим текстом и отсутствующих переводах на один из режимов микрофонов, за что ему огромное спасибо. Это обновление исправляет только первое, и то не полностью, но в следующем все проблемы с мультиплеером (возможно) будут исправлены.\n-Изменены названия некоторых растений и грибов с 6-7 слоя (НЕ СПАМЬТЕ ПРО ЭТИ ДВЕ ЦИФРЫ, ЭТО СОВПАДЕНИЕ)\n-Произведена замена парочки em-dash-ей, оставшихся от самых ранних версий, на нормальное тире\n\n<color=#ff00ff>К сожалению, некоторые шрифты, которые используются игрой, не дружат с кириллицей, поэтому в некоторых местах может встречаться корявое отображение текста.</color>\n\nСсылки:\n<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color> - официальный репозиторий в GitHub\n<color=\"blue\">https://github.com/CheBuRek8176/CU-expand-russification</color> - репозиторий <color=\"yellow\">CheBuRek8176</color> с другими переводами (которых пока нету :) ) и возможностью обновления этого\n<color=\"blue\">https://t.me/CasualtiesUnknown_ScavPrototype</color> - наш <color=#66e0ff>Telegram</color>-канал\n<color=\"blue\">https://t.me/+T4LYQM0mT4s1MDBi</color> - наша <color=#66e0ff>Telegram</color>-группа\nДля перехода по ссылке рекомендуется зайти внутрь файла руссификатора и скопировать её оттуда.\n\n<size=150%><color=#00f4ff>СПАСИБО ЗА 1000+ ПРОСМОТРОВ ЗА 10 ДНЕЙ!",
     "main": {
         "bandage": "Бинт",
         "bandagedsc": "Рулон ткани, используемый для замедления кровотечения, стабилизации переломов и заживления кожи. Не влияет на целостность мышц. Немного снижает боль.",
@@ -361,8 +361,8 @@
         "hoodiedsc": "Чёрная, очень большая и тёплая толстовка. В ней есть небольшой карман. Ткань довольно легко рвётся - хватит на 0,5-2 слоя, хотя она имеет очень малый естественный износ - если быть очень аккуратным - то на все 3-6 слоёв.",
         "metabolismchip": "Чип метаболизма",
         "metabolismchipdsc": "Чип, который немного повышает метаболизм, что способствует ускоренному восстановлению конечностей за счет повышенного голода.",
-        "xalorissponge": "Губка Ксалориса",
-        "xalorisspongedsc": "Оторванный, сморщенный споровый мешок Ксалориса. Можно использовать на конечности, чтобы противодействовать инфекции, или съесть ради питательной ценности. Его споры могут повлиять на твою иммунную систему.",
+        "xalorissponge": "Кусок Губчатника",
+        "xalorisspongedsc": "Оторванный, сморщенный споровый мешок Губчатника, похожий на губку. Можно использовать на конечности, чтобы противодействовать инфекции, или съесть ради питательной ценности. Его споры могут повлиять на твою иммунную систему.",
         "jetpack": "Реактивный ранец",
         "jetpackdsc": "Устройство, надеваемое как рюкзак, использующее реактивные двигатели для полёта в воздухе. Иногда его для удобства называют \"джет-паком\". Имеет ограниченное топливо и хуже работает во влажном состоянии. Удерживай (W) для использования. Также имеет маленький карман для хранения вещей.",
         "dynamite": "Динамит",
@@ -450,7 +450,7 @@
         "sneakersdsc": "Пара белых кроссовок, которые совершенно не предназначены для того, чтобы надевать их на твои ноги. Если тебе каким-то образом удастся втиснуть в них свои лапы, они обеспечат защиту от осколков стекла.",
         "tacticalboots": "Тактические ботинки",
         "tacticalbootsdsc": "Пара тяжёлых синтетических ботинок для защиты твоих лап от самых разных травм.",
-        "frigiantfruit": "Фрукт фригианта",
+        "frigiantfruit": "Фрукт Ледястения",
         "frigiantfruitdsc": "Очень холодный, твёрдый и стекловидный фрукт. Вкусный, но имеет свойство сильно тебя охлаждать. Хорошо подумай, стоит ли его есть, учитывая местную температуру. Портится буквально на глазах - в особенности во влажном состоянии.",
         "helluce": "Адский лист",
         "hellucedsc": "Сухой, фиолетовый лист с грубой текстурой, похожий на траву. Часто используется как средство от некоторых недугов - помогает при тошноте, немного ослабляет потерю слуха и может уменьшить внутреннее кровотечение. Используй с осторожностью и (по возможности) с ледяным компрессом - может КРАЙНЕ сильно повысить температуру тела.",
@@ -593,21 +593,21 @@
         "climbingropeextendeddsc": "Длинная и прочная верёвка. Встань рядом и используй (W), чтобы вскарапкаться.",
         "glowshroom": "Светогриб",
         "glowshroomdsc": "Слегка радиоактивный и поразительно яркий.",
-        "mushroomtree": "Грибное дерево",
-        "mushroomtreedsc": "Выглядит биолюминесцентным.",
+        "mushroomtree": "Древогриб",
+        "mushroomtreedsc": "Огромный гриб, похожий на дерево. Выглядит биолюминесцентным.",
         "drillpod": "Буровая установка",
         "drillpoddsc": "Используется для транспортировки кого-либо на большие расстояния сквозь твёрдую землю. Хотя она и не в рабочем состоянии, ты можешь заставить её работать, если принесёшь набор для ремонта. Может быть использован для перемещения на 2 слоя вниз.",
         "drillpoddscfixed": "Используется для транспортировки кого-либо на большие расстояния сквозь твёрдую землю.\n\nЗаберись внутрь, чтобы мгновенно переместиться на 2 слоя вниз. Может вызвать частичную потерю слуха, так как звукоизоляция повреждена.",
         "drillpodbroken": "Сломанная буровая установка",
         "drillpodbrokendsc": "Сломана без возможности починки. Если очень хочешь, можешь разобрать на металлолом.",
-        "frigiant": "Фригиант",
+        "frigiant": "Ледястение",
         "frigiantdsc": "Ледяное стекловидное растение. На нём висит сферическая луковица.",
         "snowstrider": "Снежный страйдер",
         "snowstriderdsc": "Крупное, пушистое существо, которое охотится в холодных регионах этой пещерной системы. Его толстый мех сохраняет его в тепле.",
         "spaceheater": "Ионный обогреватель",
         "spaceheaterdsc": "Устройство, сильно нагревающее область вокруг себя. Может вызвать лёгкую лучевую болезнь, если находиться слишком близко слишком долго.",
-        "xaloris": "Ксалорис",
-        "xalorisdsc": "Губчатый и колючий папоротник, который нагревает воздух вокруг себя, чтобы распространять споры. Отгоняет холод, но слишком долгое вдыхание спор может навредить твоей иммунной системе.",
+        "xaloris": "Губчатник",
+        "xalorisdsc": "Губчатый и колючий папоротник, который нагревает воздух вокруг себя, чтобы распространять споры. Отгоняет холод, но слишком долгое вдыхание спор может навредить твоей иммунной системе и вызвать сепсис.",
         "lifepodheater": "Обогреватель спасательной капсулы",
         "lifepodheaterdsc": "Сохраняет внутри приятную и уютную температуру.",
         "tutorialcraftingbutton": "Кнопка сброса",
@@ -1094,7 +1094,7 @@
         "badsleepdsc": "Твоя спина совсем не одобряет место, где ты спал. В следующий раз попробуй выбрать менее жёсткую поверхность, например, гравий, глину, почву, песок, листву или резину. Уровень сознания временно снижен.",
         "laststanddsc": "<i>Ты не собираешься сдаться так просто. Что-то глубоко внутри тебя заставляет идти до конца.</i> Мозг значительно повреждён из-за недавнего отсутствия активности сердца, но большая часть остальных показателей статуса здоровья немного приближена к нормальным. Помни - с этого момента <color=\"red\">у тебя больше нет права на ошибку</color>!",
         "dirty1dsc": "Подумай о том, чтобы ополоснуться. Для этого подойдёт достаточно глубокая лужа с грунтовой водой, весьма тяжело добываемое мыло или душ в спасательных капсулах. Если ты рисковый - можешь попытаться активировать гейзер и внезапно не отправиться на пару десятков метров вниз. Вероятно, другим выжившим не понравится тесный контакт с тобой, пока ты в таком виде. (<>%)",
-        "dirty2dsc": "Тебе, может, и всё равно на отсутствие гигиены, но твоей иммунной системе и другим выжившим — точно нет. Найди способ смыть грязь - в крайнем случае, можно хоть в гейзере помыться. (<>%)",
+        "dirty2dsc": "Тебе, может, и всё равно на отсутствие гигиены, но твоей иммунной системе и другим выжившим - точно нет. Найди способ смыть грязь - в крайнем случае, можно хоть в гейзере помыться. (<>%)",
         "adrenalinedsc": "Ты испытываешь адреналин из-за страха, боли или чего-то ещё. Боль заметно притупилась, а ты находишься в состоянии повышенной готовности.",
         "tachycardiadsc": "Твой сердечный ритм кажется аномально высоким.",
         "bradycardiadsc": "Твой сердечный ритм кажется аномально низким.",
@@ -1974,9 +1974,9 @@
         "endscreenunknown": "НЕИЗВЕСТНО",
         "endscreenphysical": "ФИЗИЧЕСКОЕ СОСТОЯНИЕ:",
         "endscreendeceased": "ПОГИБ",
-        "endscreenmental": "ПОСЛЕДНЕЕ ЗАПИСАННОЕ ПСИХ. СОСТОЯНИЕ:",
-        "endscreendepth": "ГЛУБИНА: НА ",
-        "endscreendepthres": " М.",
+        "endscreenmental": "ПОСЛЕДНЕЕ ЗАРЕГ. ПСИХ. СОСТ.:",
+        "endscreendepth": "ДОСТИГНУТА ГЛУБИНА:",
+        "endscreendepthres": " М. ЗА ",
         "endscreencalories": "КАЛОРИЙ ЗАТРАЧЕНО:",
         "endscreenmainmenu": "ВЕРНУТЬСЯ В ГЛ. МЕНЮ",
         "endscreenclipboard": "СКОПИРОВАТЬ В БУФ. ОБМЕНА",
@@ -2013,7 +2013,7 @@
         "moodrange9": "Ликующий",
         "moodrange10": "В экстазе",
         "moodrangewiped": "Опустошённый",
-        "moodrangeyethopeful": ", и всё же полный надежд...",
+        "moodrangeyethopeful": ",\nи всё же полный надежд...",
         "wiki": "Вики игры",
         "discord": "Сервер в Discord",
         "translations": "Репозиторий переводов (GitHub)",
@@ -2240,16 +2240,16 @@
         "krokosha_coop_voicechat_deny_mindwipe": "Ты не можешь говорить: у тебя стёрт разум.",
         "krokosha_coop_voicechat_deny_unconscious": "Ты не можешь говорить: ты без сознания.",
         "krokosha_coop_on_plr_sleep": " уснул(-а).",
-        "krokosha_coop_wake_up": "Разбудить",
+        "krokosha_coop_wake_up": "Проснуться",
         "krokosha_coop_item_unreachable": "Предмет недосягаем.",
         "krokosha_coop_plr_unreachable": "Игрок недосягаем.",
-        "krokosha_coop_plrint_woundview": "Открыть панель\nздоровья",
+        "krokosha_coop_plrint_woundview": "Открыть\nпанель\nздоровья",
         "krokosha_coop_plrint_woundview_tooltip": "Открыть панель здоровья.\n<color=\"yellow\">Совет</color>: ты можешь навестись на игрока и нажать (R) для просмотра его панели здоровья.",
         "krokosha_coop_plrint_req_woundview": "Просмотр панели здоровья игрока {0}",
         "krokosha_coop_plrint_inventory": "Открыть\nинвентарь",
         "krokosha_coop_plrint_inv_allowed": "Стащи его (её) вещи!\n<color=\"yellow\">Совет</color>: ты можешь навестись на игрока и нажать (O), чтобы открыть его инвентарь.\n<color=\"orange\">Примечание</color>: ты можешь только брать вещи других игроков, но не класть свои.",
        "krokosha_coop_plrint_inv_no": "Не удалось открыть инвентарь: он(-а) в сознании.",
-       "krokosha_coop_plrint_useitem": "Использовать\nпредмет",
+       "krokosha_coop_plrint_useitem": "Использ.\nпредмет",
        "krokosha_coop_plrint_useitem_wearable": "Надеть",
        "krokosha_coop_plrint_useitem_food": "Накормить",
        "krokosha_coop_plrint_useitem_water": "Напоить",
@@ -2263,7 +2263,7 @@
        "krokosha_coop_plrint_piggyback_no": "У него (неё) сейчас есть проблемы посерьезнее.",
        "krokosha_coop_piggyback_stop": "Слезть со спины",
        "krokosha_coop_carry_stop": "Перестать нести",
-       "krokosha_coop_plr_not_sleeping": " проснулся(-ась). ",
+       "krokosha_coop_plr_not_sleeping": " не спит. ",
        "krokosha_coop_plr_sleeping_count": "Игроков спит: ",
        "krokosha_coop_plrint_push": "Толкнуть",
        "krokosha_coop_plrint_push_tooltip": "Сделай это у обрыва :)\n<color=\"yellow\">Совет</color>: ты можешь сделать это, наведясь на игрока и нажав (F).",
@@ -2277,7 +2277,7 @@
        "krokosha_coop_plr_finished_layer": "{0} дошёл (дошла) до конца слоя.",
        "krokosha_coop_everyone_is_dead": "Все погибли.",
        "krokosha_coop_everyone_is_dead_host": "Все погибли. Выйди в главное меню и начни забег заново.",
-       "krokosha_coop_obj_not_net_registered": "Произошла рассинхронизация между клиентом и сервером.\n(попробуй ещё раз)",
+       "krokosha_coop_obj_not_net_registered": "Произошла рассинхр. между клиентом и сервером. (попробуй ещё раз)",
        "krokosha_coop_ur_too_weak": "Ты слишком слаб",
        "krokosha_coop_plr_dead": "Он(-а) погиб(-ла).",
        "krokosha_coop_trader_buy_deny": "СЕРВЕР: не удалось обменять.",
@@ -2344,7 +2344,7 @@
        "krokosha_coop_mmct_directconnecttitle": "Прямое подключение по IP",
        "krokosha_coop_mmct_gotorunsettings": "Перейти в меню настр. забега",
        "krokosha_coop_mmct_colornotvalid": "Несуществ. HEX-код!",
-       "krokosha_coop_mmct_colortoodark": "Цвет сл тёмный!",
+       "krokosha_coop_mmct_colortoodark": "Цвет сл. тёмный!",
        "krokosha_coop_mmct_plrs": "Игроки",
        "krokosha_coop_mmct_rules": "Правила",
        "krokosha_coop_mmct_search": "Поиск:",
@@ -2408,7 +2408,7 @@
        "krokosha_coop_mmst_button_deactivate_mp_desc": "ЭТО ПЕРЕЗАПУСТИТ ИГРУ!\nПосле перезапуска игра вернётся в ванильное состояние.\nМод можно будет включить обратно кнопкой \"MP MOD\" в левом нижнем углу.\nЭТО ПОЗВОЛИТ ИГРАТЬ В ОДИНОЧНОЙ ИГРЕ!",
        "krokosha_coop_mmst_button_deactivate_mp_desc_disabled": "Ты уже находишься в игре.",
        "krokosha_coop_mainmenu_mp_button_tooltip_lastresort_disable_mod": "Принудительно отключить мультиплеер-мод",
-       "krokosha_coop_mainmenu_mp_button_tooltip_lastresort_enable_mod": "Включить мультиплеер-мод. (Это перезапустит игру!)",
+       "krokosha_coop_mainmenu_mp_button_tooltip_lastresort_enable_mod": "Включить мультиплеер-мод. (Это перезап. игру!)",
        "krokosha_coop_freecam_keybindalert": "Используй стрелки для перемещения.",
        "krokosha_coop_rule_desc_sv_cheats": "Разблокировать на сервере все консольные команды.",
        "krokosha_coop_rule_desc_Teams": "Игроки с никнеймами одного цвета считаются командой.\nМеханика отставания работает только внутри твоей команды.\nPVP работает только против других команд.",
@@ -2449,7 +2449,7 @@
        "krokosha_coop_mmsb_empty": "Список пуст :(\nНажми \"Обновить\"",
        "krokosha_coop_mmsb_lobbybadver": "Несовместимая версия!",
        "krokosha_coop_mmsb_lobbyjoin": "Присоединиться",
-       "krokosha_coop_mmsb_lobbyjoin_alreadyjoined": "Вы уже на сервере.",
+       "krokosha_coop_mmsb_lobbyjoin_alreadyjoined": "Ты уже на сервере.",
        "krokosha_coop_mmsb_lobbyjoin_locked": "Забег на этом сервере уже запущен.",
        "krokosha_coop_mmsb_sort": "Сортировка: ",
        "krokosha_coop_mmsb_lobby_islocked": "Имеется пароль.",
@@ -2473,7 +2473,7 @@
        "krokosha_coop_mmst_button_checkupdate": "Проверить обновления",
        "krokosha_coop_mmst_button_checkupdate_desc": "Автоматически установить новую версию MP-мода, если она доступна.",
        "krokosha_coop_setting_bugreport_delayscreenshot": "Задержка скриншота",
-       "krokosha_coop_setting_bugreport_delayscreenshot_desc": "Нажмите \"Отправить баг-репорт\", чтобы перейти в режим скриншота.\nЗатем нажмите F1, чтобы сделать снимок и отправить отчёт.",
+       "krokosha_coop_setting_bugreport_delayscreenshot_desc": "Нажми \"Отправить баг-репорт\", чтобы перейти в режим скриншота.\nЗатем нажми F1, чтобы сделать снимок и отправить отчёт.",
        "krokosha_coop_mmst_bugreport": "Баг-репорт",
        "krokosha_coop_mmbr_send_tooltip": "",
        "krokosha_coop_mmbr_send_tooltip_desc": "Пожалуйста, будь вежлив.\nНе спамь одним и тем же снова и снова.",
@@ -4488,7 +4488,7 @@
                 "...О... Боже... П... пожалуйста... Не делай так... Я не хочу терять тебя...",
                 "ХВАТИТ! НЕТ! Не делай так... Пожалуйста... Мне больно смотреть на это..."
             ],
-            "braindamageresponse": [
+            "braindamagedresponse": [
                 "Ты звучишь... не очень хорошо.",
                 "...Чего?",
 
@@ -4739,7 +4739,7 @@
 
                 "Я тебя впустил сюда только для того, чтобы ты попытался совершить самоубийство на моих глазах?"
             ],
-            "braindamageresponse": [
+            "braindamagedresponse": [
                 "Ты явно не здоров. Как минимум, твоя голова - точно.",
                 "Делаю ставку, что у тебя сотрясение мозга - если и не сейчас, то оно будет скоро."
             ],
@@ -4965,12 +4965,14 @@
             "selfharmresponse": [
                 "Пачиму др-руг больна? Дрр-руг злой?"
             ],
-            "braindamageresponse": [
+            "braindamagedresponse": [
                 "Дю-на сагласин.",
                 ".........?"
             ],
             "hotresponse": [
-                "Дю-на никогда ни жарка! Дю-на любит типло..."
+                "Дю-на никогда ни жарка! Дю-на любит типло...",
+
+                "Дрр-руг... Жар-рка..? Странна... Дю-на хар-рашо"
             ],
             "coldresponse": [
                 "Дю-на бояца холод... Комната тио-оплый! Дрр-руг астаца с Дюна..."
@@ -5519,26 +5521,27 @@
     ],
     "pdaNotes": [
         {
-            "Item1": "[ОТЧЁТ О БИОМЕТРИИ - 25##-11-19-18-49-58-4587]\n<>\nКЛАСС СУЩНОСТИ: Биологический\nПОДКЛАСС СУЩНОСТИ: Са́виан\nВИД СУЩНОСТИ: Эксперимент\n<>\n[СОДЕРЖАНИЕ]\n\nБиологически-стабильная версия нашего новейшего проекта уже готова.\nПохоже, что на ментальном уровне от нашего изначального человека-добровольца ничего не осталось и не останется, не говоря уже и про остальных использованных субъектов.\nНе смотря на это, они быстро учатся и не сопротивляются.\n<>\nКомбинация ДНК вызвала необычно низкий рост Эксперимента по сравнению с людьми, а также малую мышечную и жировую массу.\nОднако, плотность его мышц и костей вышла намного выше ожидаемой. Вероятно, это приведёт к тому, что особь будет значительно лучше переносить физические травмы... И не сможет нормально плавать.\nУ него есть три отростка в задней части головы, по форме похожие на ушной хрящ. Почему-то он имеет структуру ушей наподобие той, что имеют представители птичьих - должно быть, их ДНК каким-то образом попала в ДНК Эксперимента в процессе сплайсинга.\nОн имеет тонкую шерсть, а также розовато-желтоватую плоть, что видно на ранах и внутренней части рта.\nЕго \"руки\" напоминают нечто среднее межу лапами собакообразного и руками человека. Я уверен, что одному из моих коллег понравятся эти лапы-\nПо какой-то неизвестной причине, у него остались биолюминисцентные глаза от наших более ранних прототипов. Нам ещё предстоит исследовать влияние этого на его зрение.\n<>\nВскоре мы клонируем эту особь 30 раз для проведения деструктивного тестирования на этих клонах. Мы оставим несколько особей, чтобы они могли разможаться естественным образом. В добавок, засчёт этого мы сэкономим на ресурсах.\n\n[КОНЕЦ]",
+            "Item1": "[ОТЧЁТ О БИОМЕТРИИ - 25##-11-19-18-49-58-4587]\n<>\nКЛАСС ОТЧЁТА: Биологический\nПОДКЛАСС ОТЧЁТА: Са́виан\nНАЗВАНИЕ ОТЧЁТА: Эксперимент\n<>\n[СОДЕРЖАНИЕ]\n\nБиологически-стабильная версия нашего новейшего проекта уже готова.\nПохоже, что на ментальном уровне от нашего изначального человека-добровольца ничего не осталось и не останется, не говоря уже и про остальных использованных субъектов.\nНе смотря на это, они быстро учатся и не сопротивляются.\n<>\nКомбинация ДНК вызвала необычно низкий рост Эксперимента по сравнению с людьми, а также малую мышечную и жировую массу.\nОднако, плотность его мышц и костей вышла намного выше ожидаемой. Вероятно, это приведёт к тому, что особь будет значительно лучше переносить физические травмы... И не сможет нормально плавать.\nУ него есть три отростка в задней части головы, по форме похожие на ушной хрящ. Почему-то он имеет структуру ушей наподобие той, что имеют представители птичьих - должно быть, их ДНК каким-то образом попала в ДНК Эксперимента в процессе сплайсинга.\nОн имеет тонкую шерсть, а также розовато-желтоватую плоть, что видно на ранах и внутренней части рта.\nЕго \"руки\" напоминают нечто среднее межу лапами собакообразного и руками человека. Я уверен, что одному из моих коллег понравятся эти лапы-\nПо какой-то неизвестной причине, у него остались биолюминисцентные глаза от наших более ранних прототипов. Нам ещё предстоит исследовать влияние этого на его зрение.\n<>\nВскоре мы клонируем эту особь 30 раз для проведения деструктивного тестирования на этих клонах. Мы оставим несколько особей, чтобы они могли разможаться естественным образом. В добавок, засчёт этого мы сэкономим на ресурсах.\n\n[КОНЕЦ]",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 25##-12-26-14-27-52-0189]\n<>\nSUBJECT: Announcement on befriending Sawians\nFROM: Project Manager\nTO: All Employees\n<>\n[CONTENTS]\n\nDear staff,\n\nIt has come to our attention that one of our employees had been consistently meeting up with a SAW-03 and disclosing private information to it. Not only was this an egregious breach of confidentiality, but having such relationships with the specimens is completely unacceptable. The scientist in question was swiftly terminated and the SAW-03 committed suicide shortly after.\n\nDo YOU have any Sawian friends? We are closing in on you. It's not too late to turn back. But if we catch you befriending them, you will meet the same fate.\n\nYours in good faith,\nProject Manager\n\n[END]",
+            "Item1": "[EMAIL - 25##-12-26-14-27-52-0189]\n<>\nТЕМА: Объявление по поводу дружбы с Са́вианами\nОТ: Руководитель Проекта\nКОМУ: Всем сотрудникам\n<>\n[СОДЕРЖАНИЕ]\n\nУважаемые сотрудники,\n\nНедавно было выяснено, что один из наших сотрудников регулярно встречался с особью SAW-03 и передавал ему личную информацию. Это не просто наигрубейшее нарушение конфиденциальности, такого рода отношения с особями впринципе недопустимы. Сотрудник был уволен в кратчайшие сроки, а SAW-03 вскоре совершил самоубийство.\n\nА у ВАС есть друзья среди Са́вианов? Рано или поздно мы в любом случае об этом узнаем. Ещё не поздно одуматься и бросить дружбу. Но если мы узнаем о том, что Вы этого ещё не сделали, Вас постигнет та же участь.\n\nС уважением,\nРуководитель Проекта\n\n[КОНЕЦ]",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 25##-12-29-13-10-50-0119]\n<>\nSUBJECT: Too late for your questions\nFROM: Researcher\nTO: Psychologist\n<>\n[CONTENTS]\n\nI am writing to let you know that all of the Sawians that rioted last week have ALREADY been euthanized, so I'm afraid you will not be able to get your questions in.\n\nThey were already interviewed thoroughly, and they confessed that everything they knew came from that SAW-03, so the mystery is solved. Concerningly, some of the scientists they killed were their own handlers, and they admitted to targeting them on purpose. \n\nI heard security will be tightened up, so hopefully this mess will not happen again.\n\nRegards,\nResearcher\n\n[END]",
+            "Item1": "[EMAIL - 25##-12-29-13-10-50-0119]\n<>\nТЕМА: Вы опоздали с вопросами\nОТ: Исследователь\nКОМУ: Психолог\n<>\n[СОДЕРЖАНИЕ]\n\nЯ пишу, чтобы передать вам, что все Са́вианы, устроившие беспорядок на прошлой неделе, УЖЕ были устранены, так что вы врядли сможете задать свои вопросы по этому поводу.\n\nОни были тщательно опрошены, и они признали, что они узнавали всё от того SAW-03, так что тайна была раскрыта. Из важного, среди пострадавших учёных были и кураторы Са́вианов, последние, к слову, признали, что они целились именно на них. \n\nТакже, я слышал, что охрана была усилена, и я надеюсь, что такого больше происходить не будет.\n\nС уважением,\nИсследователь\n\n[КОНЕЦ]",
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-04-01-15-29-18-1058]\n<>\nENTITY CLASS: Biological\nENTITY SUBCLASS: Sawian\nENTITY NAME: Meat-Consumption Report\n<>\n[CONTENTS]\n\nReduction of Corporate Waste Objective\n<>\n32 Sawians were recruited randomly among those at our site fro<corrupt:0xFFFFFF> Baseline characteristics were: 25 SAW-01, 4 SAW-03, 3 SAW-12. The subjects were randomly assigned to 8 groups of 4 subjects each. Each group were subject to one choice in three types of conditions: consuming Sawian or Terran meat, consuming raw or as soup, and observing or being ignorant of the source of the meat.\n\nMeat was sourced from the Indicent on [25##-12-30].\n<>\nWhile the SAW-01 and SAW-03 in all groups which consumed the Sawian meat, regardless of whether they observed the source of the meat, displayed extreme negative emotion upon consumption, the SAW-12 did not display the same negative emotions. No Sawians which consumed the terran meat displayed negative emotions, presumably as they did not recognize the meat as their own, although complaints were raised about eating noncooked food. No Sawians which consumed the meat in soup form displayed negative emotions, even if they had observed the source.\n\nThe SAW-12 displayed an aberrant apathy towards consuming raw Sawian meat, as expected. We might be able to repurpose discarded specimens as food for any SAW-12s on site.\n\n[END]",
+            "Item1": "[ОТЧЁТ О БИОМЕТРИИ - 25##-04-01-15-29-18-1058]\n<>\nКЛАСС ОТЧЁТА: Биологический\nПОДКЛАСС ОТЧЁТА: Са́виан\nНАЗВАНИЕ ОТЧЁТА: Отчёт о потреблении мяса\n<>\n[СОДЕРЖАНИЕ]\n\nЦель: сокращение количества отходов\n<>\n32 Са́виана были были случайным образом отобраны со всего объекта и<corrupt:0xFFFFFF> Изначальное соотношение: 25 SAW-01, 4 SAW-03, 3 SAW-12. Особи были распределены на 8 групп по 4 в каждой. Каждая группа должна была выбрать одно из двух в трёх типах условий: употребление мяса Са́виана или Землянина, в сыром виде или в виде супа, и знание или незнание источника мяса.\n\nСамо мясо было получено после Инцидента [25##-12-30].\n<>\nВ то время, как SAW-01 и SAW-03 из всех групп, употребляя мясо Са́вианов, в независимости от знания или незнания источника, проявляли крайне негативные эмоции, со всеми SAW-12 такого не происходило. Никто из Са́вианов не проявлял негатива при потреблении мяса Землянина, вероятно, потому что, они не узнавали в нём своё собственное, хотя некоторые жаловались, что оно было сырым. Также, негатива не было при потреблении мяса в виде супа, даже если Са́вианы знали, от кого это мясо.\n\nВсем SAW-12 было совершенно всё равно на то, что им давали мясо Са́вианов, как и ожидалось. В целом, мы можем скармливать неподходящих особей всем SAW-12 на объекте.\n\n[КОНЕЦ]",
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-08-0002]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-01 \"Experiment\"\nCOUNT: [Undefined]\n- The final prototype of our first giant breakthrough in bioengineering.\nA refined DNA-Spliced combination of one of our testing rats and an employee along with their pet.\nCanine. Small and relatively frail. Cowardly and fearful. Not very useful as anything other than fodder.\n<>\nENTITY NAME: SAW-02 \"Orange\"\nCOUNT: 52082\n- A mutated version of the SAW-01. Large, brutish, dumb and with four arms. Good for dumb labor and any physically strenuous testing where death is inadvised.\n<>\nENTITY NAME: SAW-03 \"Milky\"\nCOUNT: 32184\n- Mutated SAW-01 spliced with unspecified marine DNA. Tiny, arrogant but intelligent. Excellent vision properties. Good for mental labor.\n<>\nENTITY NAME: SAW-04 \"Leapy\"\nCOUNT: 2046\n- Mutated SAW-01 spliced with moss DNA. It took a while to get this one in a somewhat functioning state. Their comparitively quick onset of cancer renders them neigh useless for labor. Also a flight risk.\n<>\nENTITY NAME: SAW-05 \"Chompy\"\nCOUNT: 6084\n- Mutated SAW-03 spliced with \"Shark\" DNA. Carnivorous and aquatic. No fur. Oddly friendly. Good for solving conflicts when violence is undesirable. Their large tail encumbers them heavily, confirming our long standing theories.\n- Sharks were a species of predatory marine fish. They are extinct, but their DNA was kept for scientific purposes.\n<>\nENTITY NAME: SAW-06 \"Roza\"\nCOUNT: 7848\n- Mutated SAW-01 spliced with \"Snow Strider\" DNA. Oddly low body temperature. Volatile and prone to irritation, but docile when not threatened. Encumbering tail. Has conventionally feminine creatures, likely as a result of the Snow Strider mix interacting with earth DNA.\n- See <corrupt:0xFFF853> for further detail on \"Snow Stiders\".\n\n[PAGE 1 OF 2]",
+            "Item1": "[ОТЧЁТ О БИОМЕТРИИ - 25##-04-08-09-06-08-0002]\n<>\nИНДЕКС БАЗЫ ДАННЫХ: Реестр Проекта \"Са́виан\"\nПОДИНДЕКС БАЗЫ ДАННЫХ: Виды\n<>\n[СОДЕРЖАНИЕ]\n\n[ДЛЯ ВСЕХ ВИДОВ В РЕЕСТРЕ]\n- ПЕРЕОПРЕДЕЛЕНИЕ ТИПА ОТЧЁТА: Шаблон\n- КЛАСС ОТЧЁТА: Биологический\n- ПОДКЛАСС ОТЧЁТА: Са́виан\n<>\nВИД СУЩНОСТИ: SAW-01 \"Эсперимент\"\nЧИСЛЕННОСТЬ: [Не удалось определить]\n- Финальный прототип нашего первого огромного прорыва в биоинженерии.\nОбработанная комбинация ДНК, полученная в результате сплайсинга ДНК одной из наших лабораторных крыс и сотрудника вместе с его питомцем.\nСобакообразный (Псовый). Малого роста и весьма хрупок. Труслив и пуглив. Полезен разве что в качестве пушечного мяса.\n<>\nВИД СУЩНОСТИ: SAW-02 \"Орэндж\"\nЧИСЛЕННОСТЬ: 52082\n- Мутированная версия SAW-01. Весьма крупный, грубый, с четырьмя \"руками\" и тот ещё идиот. Полезен для тупой работы и физически напряжённого тестирования, где смерть нежелательна.\n<>\nВИД СУЩНОСТИ: SAW-03 \"Милки\"\nЧИСЛЕННОСТЬ: 32184\n- Мутировавший SAW-01 со вставленной ДНК неопределённого морского животного. Крайне малого роста и высокомерен, но умён. Отлично видит в темноте. Хорош для умственной работы.\n<>\nВИД СУЩНОСТИ: SAW-04 \"Липи\"\nЧИСЛЕННОСТЬ: 2046\n- Мутировавший SAW-01 со вставленной ДНК представителя мховых. Пришлось немало помучаться, чтобы особь была хоть сколько-то жизнеспособной. Его быстроразвивающийся рак делает его бесполезным для работы. Постоянно пытается сбежать от нас.\n<>\nВИД СУЩНОСТИ: SAW-05 \"Чомпи\"\nЧИСЛЕННОСТЬ: 6084\n- Мутировавший SAW-03 со вставленной ДНК \"Акулы\"*. Водоплавающий; по типу питания - хищник. Не имеет шерсти. Что странно, он оказался дружелюбным. Хорош для решения конфликтов мирным путём. Его огромный хвост сильно мешает ему двигаться на суше, подтверждая наши давнии теории.\n*Акулы - это род, включавший в себя хищных морских рыб. Они вымерли, но их ДНК была сохранена для научных целей.\n<>\nВИД СУЩНОСТИ: SAW-06 \"Роза\"\nЧИСЛЕННОСТЬ: 7848\n- Мутировавший SAW-01 со вставленной ДНК \"Снежного Страйдера\"**. Имеет необычайно низкую температуру тела. Психически нестабильна и склонна к раздражению, но остаётся послушной и крайне дружелюбной, если ей не угрожать. Её хвост немного мешает двигаться. Имеет ярко выраженные женские черты, по видимости в результате взаимодействия ДНК Снежного Страйдера с ДНК земного животного.\n**Для подробностей о \"Снежном Страйдере\" см. <corrupt:0xFFF853>.\n\n[СТР. 1 ИЗ 2]",
             "Item2": ""
         },
         {
+            "zametka": "бля, я не успел 15.06 перевести, так что жди следующую обнову",
             "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-19-3953]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-07 \"Voyager\"\nCOUNT: 3604\n- Mutated SAW-01 with spliced feline DNA. Prominent asshole. They hate other species for whatever reason, but hold us in high regard. Highly agile, but they aren't much of a flight risk. They like hiding, much to the detriment of our testing procedures.\n<>\nENTITY NAME: SAW-08 \"Baron\"\nCOUNT: 73\n- Mutated SAW-02 spliced with <corrupt:0xFFDED0> DNA. Towering. About twice the size of a human being. Extremely powerful, yet emotionally stable. While not a flight risk, keeping them under tighter protocol is recommended. Their size makes them hard to both clone and reproduce - avoid killing if possible.\n<>\nENTITY NAME: <corrupt:0xFFFFEA>\nCOUNT: 3067\n- Mutated SAW-03 spliced with insectoid DNA. Hollow bones. Oddly bright pink fur color. Has wing-like appendages and insectoid features. They tend to act like pricks, though seemingly not maliciously. Their look seems to attract the gaze of other sawians.\n<>\nENTITY NAME: SAW-10 \"Crystal\"\nCOUNT: 2360\n- Mutated SAW-06 spliced with lizard DNA. Has hard, crystal-like growths all over it. Long, extremely sticky tongue, durable enough to hold their body weight. They seem to enjoy hanging from ceilings for some reason. Mental testing is yet to be done, but they seem somewhat arrogant. Same feminine features as SAW-06.\n<>\nENTITY NAME: SAW-11 \"Velvet\"\nCOUNT: 158\n- Mutated SAW-06 spliced with arthropod DNA. Looks conventionally spider-like. Very little testing has been done on them, as usually creep employees out, both via behaviour and physical appearance. Strict protocol is required - an unfortunate janitor is reported to have been seduced into coming in contact with a SAW-11. His half-eaten corpse was found hours later, with visible blood marks around all SAW-11's stored in the same unit.\n<>\nENTITY NAME: SAW-12 \"Dune\"\nCOUNT: 1839\n- Mutated SAW-05 spliced with arthropod DNA. STRICT PROTOCOL IS NECCESARY - Multiple employee and sawian murders have been reported. Only come in contact at a distance and with a lethal weapon. Do not let their appearance decieve you. They have cannibalistic tendencies and neigh-insatiable hunger. Their very poor intelligence only accentuates that fact. A vast majority of their population is planned to be deported to <corrupt:0xFF0011> to ensure continued safety of our employees, as eliminating all of them is not viable.\n<>\nENTITY NAME: SAW-13 \"Shelly\"\nCOUNT: 784\n- Mutated SAW-10 spliced with arthropod DNA. Do not fear their appearance - SAW-10's are generally docile. They lack a mouth and seemingly feed off of the background radiation. They are unable to speak, but seemingly have relatively high intelligence. Employees that know Universal Sign Language are recommended to conduct their testing. Their shell limits their reproduction, but cloning them is still relatively easy. Limit destructive testing if possible.\n<>\n[PAGE 2 OF 2]",
             "Item2": ""
         },
@@ -5631,6 +5634,7 @@
         "Пытаешься отложить неминуемое?",
         "Не расслабляйся",
         "Надеюсь, это просто рефлекс на то, что только что произошло.",
-        "Тебе просто стало интересно, что я ещё могу сказать?"
+        "Тебе просто стало интересно, что я ещё могу сказать?",
+        "Я всё видел."
     ]
 }
