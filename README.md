@@ -45,6 +45,7 @@
 ## Ссылки на совместимые с руссификатором моды:
 
 - [Krokosha's Multiplayer Mod](https://github.com/Krokosha666/cas-unk-krokosha-multiplayer-coop) - Мультиплеер-мод; частичная совместимость (для версии мода v3.1.2)
+- [Gunsaw Genetics](https://www.nexusmods.com/scavprototype/mods/324) - (Запланировано) Мод на персонажей из Gunsaw, пока несовместим с мультиплеером и находится в разработке
 
 ## Доска почёта
 ### Тестеры ранних версий руссификатора (для v5pt4-v5.1):
