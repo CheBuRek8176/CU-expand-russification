@@ -3,8 +3,8 @@
     "poshalkopodskazka": "крч, я (чебурек) вместе с рокетуссом по приколу по всему русификатору запихал пасхалки - в игре их не встретишь, только тута))",
     "name": "Русский<color=\"green\">+</color> (0.4.0-pre-13)",
     "komar":"komarok сменил ник на vt-2",
-    "description": "Неофициальный \"расширенный\" русификатор от <color=\"yellow\">CheBuRek8176</color> и <color=#ffbbbb>Strag (он же - Вояджер)</color>, включающий в себя дополненные описания, лор игры, новые реплики персонажей и неочевидные отсылки. В тестировании участвовали <color=\"orange\">Roketuss</color>, Nagi Seishiro <color=\"green\">Day1xt</color> и <color=#ff00ff>Vt-2</color>. Свой вклад внёс: <color=#6e00ff>bibas_x2 (Монь Ферр)</color>. Переводы могут содержать неточности, минимальное искажение изначального смысла, опечатки или устареть.<color=\"orange\">\n\nТекущая версия руссификатора: </color><color=\"yellow\">7.7.9.0-pretesting-15 (0.4.0-pre15)</color>\n<color=\"green\">Основные изменения:</color>\n-Русификатор обновлён и теперь работает с \"Обновлением прогресса\". Однако, это версия будет работать и с 7 версией\n-Обновлены описания шоколада, шоколадного молока, изотоника (ранее - спорт-напитка), кофе, энергетика, газировки, некоторых других предметов и жидкостей, а также некоторых статусов\n-У нас новый разработчик - <color=#ffbbbb>Strag (он же - Вояджер)</color>! Его переводы будут дополнительно отделены табом в файле русификатора\n-Фикс опечаток и корявых переводов\n\n<color=#ff00ff>К сожалению, некоторые шрифты, которые используются игрой, не дружат с кириллицей, поэтому в некоторых местах может встречаться корявое отображение текста.</color>\n\n<size=150%><color=#00f4ff>РЕКОМЕНДУЕТСЯ РЕГУЛЯРНО ПРОВЕРЯТЬ РЕПОЗИТОРИЙ/СТРАНИЦУ РУСИФИКАТОРА НА НАЛИЧИЕ ОБНОВЛЕНИЙ! (новые версии уже в разработке)",
-	"version": "7.7.9",
+    "description": "Неофициальный \"расширенный\" русификатор от <color=\"yellow\">CheBuRek8176</color> и <color=#ffbbbb>Strag (он же - Вояджер)</color>, включающий в себя дополненные описания, лор игры, новые реплики персонажей и неочевидные отсылки. В тестировании участвовали <color=\"orange\">Roketuss</color>, Nagi Seishiro <color=\"green\">Day1xt</color> и <color=#ff00ff>Vt-2</color>. Свой вклад внёс: <color=#6e00ff>bibas_x2 (Монь Ферр)</color>. Переводы могут содержать неточности, минимальное искажение изначального смысла, опечатки или устареть.<color=\"orange\">\n\nТекущая версия руссификатора: </color><color=\"yellow\">7.7.9.0-pretesting-15 (0.4.0-pre15)</color>\n<color=\"green\">Основные изменения:</color>\n-Русификатор обновлён и теперь работает с \"Обновлением прогресса\". Однако, это версия будет работать и с 7 версией\n-Обновлены описания шоколада, шоколадного молока, изотоника (ранее - спорт-напитка), кофе, энергетика, газировки, некоторых других предметов и жидкостей, а также некоторых статусов\n-У нас новый разработчик - <color=#ffbbbb>Strag (он же - Вояджер)</color>! Его переводы будут дополнительно отделены табом в файле русификатора\n-Фикс опечаток и корявых переводов\n\n<color=#ff00ff>К сожалению, некоторые шрифты, которые используются игрой, не дружат с кириллицей, поэтому в некоторых местах может встречаться корявое отображение текста.</color>\n\n<size=150%><color=#ff0000>РУСИФИКАТОР НЕСОВМЕСТИМ С 7-Й ВЕРСИЕЙ!!! СКАЧАЙ БОЛЕЕ СТАРУЮ ВЕРСИЮ НА ГИТХАБЕ!!!",
+	"version": "1.0-Pre3",
     "main": {
         "bandage": "Бинт",
         "bandagedsc": "Рулон ткани, используемый для замедления кровотечения, стабилизации переломов и заживления кожи. Не влияет на целостность мышц. Немного снижает боль.",
@@ -58,6 +58,8 @@
         "aeddsc": "Автоматический Внешний Дефибриллятор. Это электронное устройство, устанавливающее наличие угрожающей жизни аритмии и используемое для её лечения за счёт электрических разрядов. Используется на грудной клетке. В сравнении с обычным дефибриллятором, не требует знаний о работе с ним, но тратит больше времени и электроэнергии. Может восстановить работу сердца, если наступила асистола, пускай и не гарантированно.",
         "manualdefibrillator": "Дефибриллятор",
         "manualdefibrillatordsc": "Дефибриллятор с ручной настройкой мощности разряда. Это электронное устройство, используемое для стабилизации сердечного ритма, если он угрожает жизни. Используется на грудной клетке. Конкректно этот является дефибриллятором с ручной настройкой и требует знаний о том, как им пользоваться. В сравнении с А.В.Д., тратит меньше времени и электроэнергии, но гарантия, что он поможет, отсутствует. Чем выше твой уровень <color=\"green\">ИНТ</color>, тем проще будет процесс настройки. На максимальной мощности, пускай и не гарантированно, но может восстановить работу сердца, если наступила асистола.\n\n<color=\"yellow\">Совет</color>: необходимая мощность разряда зависит от того, насколько нестабилен сердечный ритм. На начальных этапах аритмии поможет слабый удар, при фибрилляции - более сильный.",
+		"minifleshrebuilder": "Mini flesh rebuilder",
+        "minifleshrebuilderdsc": "An experimental medical device that uses samples of flesh in order to heal traumatic injuries. If filled with three pieces of yellow flesh, can rebuild missing facial features. Also a mediocre light source!",
         "antidepressants": "Флакон под антидепрессанты",
         "antidepressantsdsc": "Флакончик объёмом 140 мл под таблетки. Дозировка - 20 мл. На этикетке с информацией о передозировке указано 50 мл.",
         "antibiotics": "Флакон под антибиотики",
@@ -220,6 +222,8 @@
         "exposedcoredsc": "Непроросшие остатки того, что когда-то было живым. В целом, ты можешь его съесть ради питательной ценности и воды. <i>Он выглядит так, будто превращается во что-то...</i>",
         "foliage": "Листва",
         "foliagedsc": "Обычная инопланетная растительность. Едва съедобна, имеет отвратительный вкус. Может вызвать тошноту. Быстро портится. Часто используется в базовом крафте.",
+		"redfoliage": "Red foliage",
+        "redfoliagedsc": "You have more important things to think about. That said, it does look quite pretty!",
         "foliagemeal": "Лиственный салат",
         "foliagemealdsc": "Хорошо приготовленное блюдо из жареной листвы и сока растений. Имеет нейтральный вкус. Быстро портится, сытный, но совсем не калорийный.",
         "dryfoliage": "Высушенная листва",
@@ -260,27 +264,27 @@
         "titaniumpickaxe": "Титановая кирка",
         "titaniumpickaxedsc": "Хорошо сделанный инструмент, изготовленный из кованого титана. Невероятно прочный и эффективный в раскопках, но не очень пригодный в бою.",
         "titaniummultitool": "Титановый мультитул",
-        "titaniummultitooldsc": "Небольшой, но прочный инструмент для крафта в виде довольно увесистого молотка с острым, как бритва, лезвием внутри рукоятки. Для раскопок и боя он бесполезен, но его хватит надолго для различных рецептов в крафте, а ещё он лёгкий.\n\n<color=\"red\">Можно использовать для ампутации сильно инфицированных конечностей на панели здоровья.",
+        "titaniummultitooldsc": "Небольшой, но прочный инструмент для крафта в виде довольно увесистого молотка с острым, как бритва, лезвием внутри рукоятки. Для раскопок и боя он бесполезен, но его хватит надолго для различных рецептов в крафте, а ещё он лёгкий.\n\n<color=\"red\">Можно использовать для ампутации конечностей на панели здоровья.",
         "titaniummachete": "Титановый мачете",
-        "titaniummachetedsc": "Крайне эффективный и долговечный инструмент. Он очень острый и им легко наносить сильные удары. Лезвие было термически обработано, поэтому оно долго будет держать свою остроту. В крайнем случае можно использовать для раскопок.\n\n<color=\"red\">Можно использовать для ампутации сильно инфицированных конечностей на панели здоровья",
+        "titaniummachetedsc": "Крайне эффективный и долговечный инструмент. Он очень острый и им легко наносить сильные удары. Лезвие было термически обработано, поэтому оно долго будет держать свою остроту. В крайнем случае можно использовать для раскопок.\n\n<color=\"red\">Можно использовать для ампутации конечностей на панели здоровья",
         "sledgehammer": "Кувалда",
-        "sledgehammerdsc": "Инструмент, представляющий из себя большую плоскую головку из металла, прикреплённую к длинной рукоятке. Не предназначена для копания, хоть и наносит немалый урон; имеет огромную отдачу.\n\n<color=\"yellow\">Совет</color>: если ты попытаешься ударить под себя и в этот момент прыгнешь - высота прыжка выйдет намного выше.",
+        "sledgehammerdsc": "Инструмент, представляющий из себя большую плоскую головку из металла, прикреплённую к длинной рукоятке. Не предназначена для копания, хоть и наносит немалый урон; имеет огромную отдачу. <i>Ты слышал, что ими кидаются в реки...</i>\n\n<color=\"yellow\">Совет</color>: если ты попытаешься ударить под себя и в этот момент прыгнешь - высота прыжка выйдет намного выше.",
         "woodpickaxe": "Деревянная кирка",
         "woodpickaxedsc": "Кирка, сделанная из крайне разочаровывающего материала. Эффективна в раскопках, но довольно медлительная и хрупкая.",
         "wooddiggingtool": "Деревянный инструмент для копания",
         "wooddiggingtooldsc": "Кусок заточенного дерева на палке. Копает чуть лучше когтей.",
         "machete": "Мачете",
-        "machetedsc": "Большой, широкий клинок из металла с деревянной рукояткой. Тебе неловко держать его в лапах.\n\n<color=\"red\">Можно использовать для ампутации сильно инфицированных конечностей на панели здоровья",
+        "machetedsc": "Большой, широкий клинок из металла с деревянной рукояткой. Тебе неловко держать его в лапах.\n\n<color=\"red\">Можно использовать для ампутации конечностей на панели здоровья",
         "crudecleaver": "Грубый тесак",
-        "crudecleaverdsc": "Сделан из куска металла, прибитого гвоздём к рукоятке. Неплохо подходит для крафта. Тебе неловко держать его в лапах.\n\n<color=\"red\">Можно использовать для ампутации сильно инфицированных конечностей на панели здоровья",
+        "crudecleaverdsc": "Сделан из куска металла, прибитого гвоздём к рукоятке. Неплохо подходит для крафта. Тебе неловко держать его в лапах.\n\n<color=\"red\">Можно использовать для ампутации конечностей на панели здоровья",
         "sickle": "Металлический серп",
-        "sickledsc": "Металлический инструмент с изогнутым лезвием, предназначенный для сбора урожая и срезания растительности.\n\n<color=\"red\">Можно использовать для ампутации сильно инфицированных конечностей на панели здоровья",
+        "sickledsc": "Металлический инструмент с изогнутым лезвием, предназначенный для сбора урожая и срезания растительности.\n\n<color=\"red\">Можно использовать для ампутации конечностей на панели здоровья",
         "woodsickle": "Деревянный серп",
         "woodsickledsc": "Деревянный инструмент с изогнутым лезвием, предназначенный для сбора урожая и срезания растительности.\n\n<color=\"red\">Можно импользовать для ампутации сильно инфицированных конечностей на панели здоровья",
         "rake": "Грабли",
         "rakedsc": "Используются для размягчения почвы и иных целей. Не особо эффективны для разрушения чего-то твёрже глины. С ними ты почувствуешь себя фермером!",
         "claws": "Набор когтей",
-        "clawsdsc": "Несмотря на схожесть с игрушкой, они ужасающе прочны и остры. Ты точно будешь выглядеть круто, держа их в лапах. Копают чуть эффективнее и быстрее твоих собственных.\n\n<color=\"red\">Можно использовать для ампутации сильно инфицированных конечностей на панели здоровья",
+        "clawsdsc": "Несмотря на схожесть с игрушкой, они ужасающе прочны и остры. Ты точно будешь выглядеть круто, держа их в лапах. Копают чуть эффективнее и быстрее твоих собственных.\n\n<color=\"red\">Можно использовать для ампутации конечностей на панели здоровья",
         "trowel": "Садовая лопатка",
         "troweldsc": "Примитивный садовый инструмент, изготовленный из дерева и металла. Наверное, лучше, чем использовать когти.",
         "woodtrowel": "Деревянная садовая лопатка",
@@ -394,6 +398,8 @@
         "carcasssplintdsc": "Твёрдая длинная трубка, сделанная из нескольких соединённых хитинов. Служит неплохой импровизированной шиной для лечения переломов и вывихов.",
         "terrainscanner": "Сканер местности",
         "terrainscannerdsc": "Показывает крайне низкокачественную \"карту\" местности под твоими ногами. Рельеф подсвечивается <color=\"green\">зелёным</color>, твёрдые объекты - <color=\"red\">красным</color>. Ты находишься в верхнем углу \"карты\". Нижняя часть \"карты\" находится 24-мя метрами ниже тебя. Может быть немного неточным.",
+		"nanotechscanner": "Nano-tech scanner",
+        "nanotechscannerdsc": "A device that detects the specific tech-signatures of various body chips, showing their general location. Only works when in the main inventory. There's some info about the chips written on the side, use to read it.",
         "geigercounter": "Счётчик Гейгера",
         "geigercounterdsc": "Электронное устройство, используемое для обнаружения и измерения количества радиации за счёт \"трубки Гейгера-Мюллера\", которая и улавливает излучение. Используй, чтобы включить/выключить. Очень похожая штука встроена в твой чип, поэтому если не сломан, то от счётчика будет мало толка",
         "handcrank": "Динамо-машина",
@@ -415,7 +421,7 @@
         "tweezers": "Пинцет",
         "tweezersdsc": "Простая пара металлических пинцетов. Позволяет чисто и безболезненно удалять осколки из конечностей.",
         "lockpickingkit": "Набор отмычек",
-        "lockpickingkitdsc": "Небольшой набор инструментов, способный эффективно взламывать любые замки. Держи его в основном инвентаре во время взлома замка, чтобы использовать. Требует не менее 10-го уровня <color=\"green\">ИНТ</color> для использования; чем выше уровень <color=\"green\">ИНТ</color> - тем выше будет эффективность.",
+        "lockpickingkitdsc": "Небольшой набор инструментов, способный эффективно взламывать любые замки. Используется автоматически при попытке взлома замка. Требует не менее 10-го уровня <color=\"green\">ИНТ</color> для использования; чем выше уровень <color=\"green\">ИНТ</color> - тем выше будет эффективность.",
         "icepack": "Ледяной компресс",
         "icepackdsc": "Холодный пакет, наполненный самоохлаждающимся гелем. Ускоряет заживление мышц, облегчает боль и немного снижает температуру тела. Самостоятельно охлаждается со временем.",
         "cryogeniccore": "Криогенное ядро",
@@ -546,7 +552,7 @@
         "bundleofwires": "Пучок проводов",
         "bundleofwiresdsc": "Пучок аккуратно соединенных медных проводов с чем-то вроде изоляции вокруг них. Используется при изготовлении электроники.",
         "flimsyknife": "Хлипкий нож",
-        "flimsyknifedsc": "Маленький, тупой, хрупкий нож. Может использоваться для элементарного крафтинга. В бою практически бесполезен. Крайне рекомендован в начале экспедиции. \n\n<color=\"red\">Можно использовать для ампутации сильно инфицированных конечностей на панели здоровья",
+        "flimsyknifedsc": "Маленький, тупой, хрупкий нож. Может использоваться для элементарного крафтинга. В бою практически бесполезен. Крайне рекомендован в начале экспедиции. \n\n<color=\"red\">Можно использовать для ампутации конечностей на панели здоровья",
         "craftingbottle": "Временная бутылка",
         "craftingbottledsc": "Импровизированнная литровая бутылка, сделанная из попавшегося под лапу разнообразного хлама и обрезков. Её нельзя наполнять снова, она развалится, когда будет опустошена или через несколько минут. Лучше перелить содержимое в другую ёмкость, пока она ещё может держать жидкость.",
         "nondescriptcan": "Неподписанная консервная банка",
@@ -587,7 +593,13 @@
         "woodsandals": "Деревянные сандалии",
         "woodsandalsdsc": "Две деревянные панели, привязанные верёвкой к твоим лапам. Далеко не самые удобные, зато защитят от осколков стекла... если повезёт - больше одного раза!",
         "minibarrel": "Мини-бочка",
-        "minibarreldsc": "Небольшая промышленная бочка, предназначенная для хранения жидкостей. Чрезвычайно тяжёлая и непрактичная в использовании. Как ни странно, но её масса не зависит от наличия, количества и рода жидкости(-ей) внутри. <i>Иногда может содержать весьма интересные смеси жидкостей...</i>"
+        "minibarreldsc": "Небольшая промышленная бочка, предназначенная для хранения жидкостей. Чрезвычайно тяжёлая и непрактичная в использовании. Как ни странно, но её масса не зависит от наличия, количества и рода жидкости(-ей) внутри. <i>Иногда может содержать весьма интересные смеси жидкостей...</i>",
+		"peglimb": "Peg limb",
+        "peglimbdsc": "A makeshift wooden prosthesis to replace lost extremities. Less efficient than a normal limb and prone to breaking. Repaired with wood scraps. Use on the thorax/abdomen to attach. 7 INT is needed to attach reliably.",
+        "steelprosthesis": "Steel prosthesis",
+        "steelprosthesisdsc": "A metal prosthesis to replace lost extremities. Equal to a normal limb in most ways. Repaired with steel scraps. Use on the thorax/abdomen to attach. 10 INT is needed to attach reliably.",
+        "peo": "P.E.O. limb",
+        "peodsc": "Prosthetic Enhanced Operation limb. Better than a normal limb in almost every way. Repaired with titanium sheets. Use on the thorax/abdomen to attach. 14 INT is needed to attach reliably."
     },
     "buildings": {
         "animalcorpse": "Труп животного",
@@ -705,6 +717,8 @@
         "LifePodLightdsc": "Внутри лампочка - ты, вероятно, можешь попробовать стащить её, пока никто не видит.",
         "medcrate": "Медицинская коробка",
         "medcratedsc": "В ней находятся медикаменты. Взломать будет непросто.",
+		"techball": "Tech-Ball",
+        "techballdsc": "It looks like it's malfunctioning..? You could open it.",
         "rechargingstation": "Станция подзарядки",
         "rechargingstationdsc": "Станция, используемая для подзарядки батареек. Принимает любые их виды и, по-видимому, хранит в себе бесконечное количество энергии. Используй, чтобы вставить батарейку из основной руки, затем перетащи её обратно на себя.\n\n<i>Похоже, что в нём есть музыкальный плеер, чтобы скрасить ожидание подзарядки... Иронично, но в нём нет батарейки.",
         "hydreed": "Гидрида",
@@ -759,6 +773,9 @@
         "spikestabberdscused": "Похоже, теперь он безвреден. Можно разобрать (на деле - скорее, разломать) на металлолом.",
         "stoneplant": "Камнерост",
         "stoneplantdsc": "Это комок твёрдого, камнеподобного материала, на поверхности которого прилипли зелёные капли.",
+		"fan": "Old machinery",
+        "fandsc": "The blades look sharp, but flimsy.",
+        "fandsc2": "Not so scary now.",
         "TurbulentCrystal": "Турбулентный кристалл",
         "TurbulentCrystaldsc": "Слегка дрожит.",
         "turret": "Турель",
@@ -830,7 +847,9 @@
         "grabbershroom": "Хватогриб",
         "grabbershroomdsc": "Ты изо всех сил пытаешься понять, как гриб может это делать. Что делать с ним? То же, что и с хваторостом - оставить его в покое.",
         "terminal": "Терминал",
-        "terminaldsc": "Старый компьютерный терминал.\n\n<color=\"yellow\">Совет</color>: пропиши команду <color=#ffffff>help</color>, чтобы увидеть список команд."
+        "terminaldsc": "Старый компьютерный терминал.\n\n<color=\"yellow\">Совет</color>: пропиши команду <color=#ffffff>help</color>, чтобы увидеть список команд.",
+		"macrofleshrebuilder": "Macro flesh rebuilder",
+        "macrofleshrebuilderdsc": "Some kind of sophisticated surgical device. You can probably figure out how to use it."
     },
     "moodles": {
         "braindamage4": "В коме",
@@ -1005,6 +1024,13 @@
         "impendingdoom": "Ощущение надвигающейся гибели",
         "horrified": "В УЖАСЕ",
         "focused": "СФОКУСИРОВАН",
+        "prosthesis": "Prosthetic limb",
+        "loosescrews": "Loose screws",
+        "bentprosthesis": "Bent prosthesis",
+        "materialloss": "Critical material loss",
+
+
+		
         "braindamage4dsc": ".........\n\nКора больших полушарий больше не работает из-за её повреждения, что полностью исключает возможность вернуться в сознание. Удачи.",
         "braindamage3dsc": "<i>реальность .. перестала иметь смысл...</i> Катастрофическое повреждение мозга. Ты потерял дар речи, а всё вокруг стало выглядеть сильно искажённым и... фиолетовым. Ты слышишь шум в ушах. Критически необходимо использование мозгороста/нейростимулятора, хотя в идеале - стиратель разума... При использовании последнего трижды подумай над этим.",
         "braindamage2dsc": "Ты - овощ, едва способный мыслить разумно и оставаться в сознании. У тебя серьёзная мозговая травма. Вещи из твоих рук вываливаются, ноги несут тебя ровно в противоположном от необходимого направления, а те странные припадки стали чем-то нормальным. Ты постоянно заикаешься на полуслове, пытаясь что-нибудь сказать, что неизбежно приведёт к непониманию твоей речи другими выжившими. Настоятельно рекомендуется использование мозгороста или нейростимулятора, сам по себе мозг вряд ли восстановится.",
@@ -1175,7 +1201,12 @@
         "keratinboosterdsc": "Твои когти растут в три раза быстрее. (Осталось: <>)",
         "impendingdoomdsc": "<i>Ты чувстуешь чьё-то злобное внимание...</i> Ты чувствуешь сильный, всепоглощающий страх. Шерсть встаёт дыбом. Адреналин повышен, зрение слегка затемнено. <i>Кажется, будто всё окружение внезапно затихло...</i> Если услышишь, как к тебе кто-то копается, беги. Пока можешь.",
         "horrifieddsc": "<color=\"red\">НЕ ТОРМОЗИ. НЕ ДУМАЙ. ЗАБУДЬ ПРО ОСТАЛЬНОЕ. БЕГИ, ЕСЛИ ЖИЗНЬ ТЕБЕ ДОРОГА, ИЛИ СРАЖАЙСЯ ЗА НЕЁ!",
-        "focuseddsc": "<i>Оба из нас умрут сегодня. Просто один продержится чуть дольше другого."
+        "focuseddsc": "<i>Оба из нас умрут сегодня. Просто один продержится чуть дольше другого.",
+		"focuseddscalt": "<i>It's time to take your freedom.",
+        "prosthesisdsc": "A prosthesis is attached to you. Prosthetic limbs cannot bleed or feel pain, but need to be rebuilt with their repair material if damaged.",
+        "loosescrewsdsc": "One of your prostheses is coming loose, causing material damage while you move. This is caused by shrapnel or critical material loss.",
+        "bentprosthesisdsc": "One of your ptostheses is bent way out of shape, disabling its use and making it unable to be repaired normally. Fix it using any wrench.",
+        "materiallossdsc": "One of your prostheses has a huge crack going down the middle, disabling its use and making it prone to breaking off. Fix it using the repair material."
     },
     "other": {
         "fullmouthchars": "мхфун",
@@ -1341,6 +1372,8 @@
         "ceftriaxonedsc": "Антибиотик цефалоспоринового ряда третьего поколения, используемый для лечения инфекций. В течение некоторого времени повышает иммунитет организма, но при этом вызывает боль.",
         "reliefcream": "Обезболивающий крем",
         "reliefcreamdsc": "Смесь химикатов и медицинских препаратов, которая почти мгновенно снимает боль и дезинфицирует раны.",
+		"localanesthetic": "Local anesthetic",
+        "localanestheticdsc": "Causes absence of all sensation in the limb its injected into. This disables pain, but also makes the limb unusable. 10mL lasts for one minute.",
         "woundglue": "Клей для ран",
         "woundgluedsc": "Гемостатичная обеззараживающая субстанция. Борется с инфекциями, ускоряет заживление ран и очень эффективно замедляет кровотечение. Может вызвать повышение вязкости крови - используй с осторожностью.",
         "keratinbooster": "Кератиновый бустер",
@@ -1471,7 +1504,7 @@
         "dune": "Дюна",
         "dunetraderdsc": "Высокий, широкоплечий, внушительный, сильный, но тупоголовый. Испытывает немалые проблемы с речью, почти не использует местоимения, а построение предложений останавливается на уровне \"Я твой дом труба шатать!\" Вероятно, проблемы с интеллектом связаны с тем, что в своё время он был полностью изолирован от общества. У него есть странного вида плавники, расбросанные по всему телу, 6 шипов, торчащие сбоку от головы, и ужасающе большой рот с кучей крупных острых зубов. Похоже, что у него есть жабры. И вообще, во многом он напоминает \"рыбу-удильщика\", но без \"удочки\" и с шерстью песчаного цвета. Он не проявляет агрессию, но в основном им руководят животные инстинкты, так что его не будут волновать разные мелочи. Тебе стоит придумать хороший способ, чтобы расположить его к себе. Учитывай, что он является <color=\"red\">каннибалом</color>, не любит обнимашки, а для укрепления доверия и значительного снижения цен ты можешь дать ему откусить от тебя кусок плоти... главное, не давай ему сожрать тебя заживо полностью. Как правило, имеет в своём инвентаре много хлама и мало полезного. <i>Как правило, люди используют его, как \"пылесос для трупов\"...",
         "clicktocontinue": "Нажми (ЛКМ), чтобы продолжить...\nИли (ESC), чтобы пропустить",
-	"dunespecialtraderdsc": "Еда.",
+		"clicktocontinuealt": "Click to continue...",
         "favouriteditem": "Избранные предметы будут выделены и не будут использоваться в крафте",
         "mainhand": "Основная рука",
         "secondaryhand": "Вторая рука",
@@ -1609,8 +1642,24 @@
         "runsetoreamountdsc": "Влияет на то, как много меди и ильменита будет сгенерировано в каждом слое.",
         "runsetminigamehandshake": "Множ. интенс. тряски лап в мини-играх",
         "runsetminigamehandshakedsc": "Как сильно будет трястись лапа твоего персонажа во время мини-игр, когда ему очень больно.",
-        "runsetdebugworld": "Маленькая игровая карта",
-        "runsetdebugworlddsc": "Если включено, игровая карта будет значительно меньше (38 на 76 метров вместо 154 на 307), что ускорит генерацию и уменьшит лаги, но может сломать игру (в особенности в транзитных зонах) и спавнить трёх старших шипоспинов в одном месте. Не рекомендуется, если у тебя нет проблем с производительностью или ты не хочешь по-быстрому что-нибудь проверить.",
+        "runsetpermanentaddiction": "Permanent addiction",
+        "runsetpermanentaddictiondsc": "One way or another, you acquired an opioid addiction back in the labs. No matter how hard you try to be clean, it won't go away. You'll have to constantly search for opioids, or die.",
+        "runsetmindwiped": "Mindwiped",
+        "runsetmindwipeddsc": "...",
+        "runsetzeroskills": "Zero skills",
+        "runsetzeroskillsdsc": "You never <i>really</i> did anything in your life, other than sitting in the corner and eating your rations. Start with 0 STR/RES/INT.",
+        "runsetblind": "Blind",
+        "runsetblinddsc": "Some kind of terrible experiment left you permanently blind. No cane included.",
+        "runsetamputee": "Quadruple amputee",
+        "runsetamputeedsc": "Some kind of terrible experiment left you with no extremities. At least you have some kick-ass wooden legs and arms!",
+        "runsetimmortalsnail": "Immortal snail",
+        "runsetimmortalsnaildsc": "Some incomprehensible force has taken a special interest in you, slowly making its way to you anytime you're awake. Don't let it touch you.",
+        "rundivrunwide": "Progression settings",
+        "rundivlayer": "World settings",
+        "rundivplayer": "Player settings",
+        "rundivtrader": "Trader settings",
+        "rundivother": "Other",
+        "rundivchallenges": "Challenges",
         "tutorialwarning": "<size=200%>Секундочку...\n\n<size=100%>Ты ещё не прошёл базовую подготовку.\nТы уверен, что хочешь спускаться совершенно вслепую?\nТы будешь обречён на смерть.\nДаже если ты уже знаком с местными пещерами, освежить знания никогда не помешает.",
         "tutorialwarningyes": "Ну, давай\n(открыть обучение)",
         "tutorialwarningno": "Да я и так полностью готов!\n(пропустить)",
@@ -1646,14 +1695,14 @@
         "gamesetpixelatedsc": "Рендерит игру в более низком разрешении. Может испортить стилистику игры, задуманную разработчиком, а  акже понизить частоту кадров, если отключить.",
         "gamesetdarkerbackground": "Включить затемнение фона",
         "gamesetdarkerbackgrounddsc": "Включает затемнение заднего фона для увеличения контраста и избежания путаницы между камнями и воздухом.",
+		"gamesetfastcamera": "Simple camera",
+        "gamesetfastcameradsc": "Locks the camera to the player at all times",
         "gamesetbloom": "Шейдер свечения",
         "gamesetbloomdsc": "Делает яркие штуки более приятными для глаз. Выключение может минимально повысить производительность. Рекомендуется держать включённым.",
         "gamesetfilmgrain": "Фильтр \"шума\"",
         "gamesetfilmgraindsc": "Накладывает фильтр шума, делающий игру приятнее для восприятия.",
         "gamesetbrightness": "Яркость",
         "gamesetbrightnessdsc": "Насколько ярким будет то, что не является полностью чёрным.",
-        "gamesetquantizesteps": "Количество цветов",
-        "gamesetquantizestepsdsc": "Насколько много ращных цветов у тебя будет отображаться одновременно. Ниже значение = меньше цветов = вырвиглазней картинка.",
         "gamesetlineofsightcount": "Качество ЛЗ",
         "gamesetlineofsightcountdsc": "Насколько детальным будет шейдер Линии Зрения (когда ты видишь только то, что видит персонаж), когда тот активируется. При высоких значениях делает шейдер приятнее для глаз, но может вызвать лаги.",
         "gamesetscreenshake": "Тряска экрана",
@@ -1786,6 +1835,7 @@
         "handCrankMinigameGuide": "Вращай ручку по или против часовой стрелки, чтобы зарядить батарейку. Обрати внимание, что это будет тратить выносливость.",
         "shrapnelMinigameGuide": "Медленно извлекай осколки.\n Резкие или быстрые, а также горизонтальные движения будут причинять боль.\nИспользуй пинцет, чтобы обойти ограничение скорости.",
         "dislocationMinigameGuide": "Вправь кость в нужный паз, чтобы устранить вывих.\nДля этого нажми на неё и РЕЗКО дёрни в нужном направлении.\nИспользуй гаечный ключ, чтобы было куда менее больно.",
+		"dislocationMinigameGuideAlt": "Hit the prosthesis back into the correct spot.",
         "amputationMinigameGuide": "Разрежь конечность, чтобы ампутировать её. Не забудь остановить кровотечение после этого.\nРекомендуется по возможности вначале ввести опиаты для снижения боли и натянуть жгут на ближайшую к телу часть соответствующей конечности.",
         "aedMinigameGuide": "Следуй инструкциям снизу.",
         "manualDefibMinigameGuide": "Подбери силу разряда в прямой зависимости от интенсивности фибрилляции желудочков твоего сердца, заряди, затем разряди. Повтори, если не получилось.\nРекомендуемый диапозон (POW.EST) становится более точным при прокачке уровня <color=\"green\">ИНТ</color>.",
@@ -1796,6 +1846,7 @@
         "aedstate4": "Разряд завершён.\nНажми на кнопку для повторного разряда.",
         "aedstate5": "Разряд не рекомендован.\nНажми на кнопку для разряда.",
         "yaneponimayuorsona": "в оригинале была какая то фигня, CPR. ДА КТО ЭТОТ ВАШ CPR??? [13.05: бляяя, я три недели ломал голову, Я ТОЛЬКО СЕЙЧАС ДОПЁР, ЧТО ЭТО СЕРДЕЧНО-ЛЁГОЧНАЯ РЕАНИМАЦИЯ]",
+		"prosthesisMinigameGuide": "Reinforce the prosthesis using the bits of material shown.",
         "minigameExitGuide": "Нажми ПКМ/ESC, чтобы выйти",
         "saveexit": "Сохранить и выйти",
         "saveexitdsc": "Сохрани текущий прогресс и сделай перерыв.\nПрохождение продолжится с начала следующего слоя.",
@@ -2000,6 +2051,15 @@
         "alertcontainerstackingalt": "Ты не можешь использовать контейнер, находящийся в другом контейнере!",
         "alerttoounhappy": "Нельзя использовать неопиоидные лекарства, когда находишься в депрессии!",
         "alertlimbmissing": "У тебя отсутствует <1>, поэтому <2> теперь недоступно(а/ен)!",
+		"alertprosthesisbody": "Use the prosthesis on the thorax/abdomen to replace a missing arm/leg.",
+        "alertprosthesisarm": "None of your arms are fully dismembered! Try removing any stumps.",
+        "alertprosthesisleg": "None of your legs are fully dismembered! Try removing any stumps.",
+        "alertprosthesisfail": "You failed to attach the prosthesis (Attaching below <> INT may fail).",
+        "alertnanotechsuccess": "<spoiler>",
+        "alertnanotechfail": "<spoiler>",
+        "alertnanotechrepeat": "<spoiler>",
+        "nanotechdepth": "NANO-TECH Signature detected at this depth!",
+        "nanotechdepthinitial": "NANO-TECH Signature detected in this area...",
         "resetkeybinds": "Сбросить управление по умолчанию",
         "reloadbinds": "Перезагрузить назначение клавиш",
         "insertsample": "Вставить образец",
@@ -2011,6 +2071,7 @@
         "useterminal": "Открыть консоль терминала",
         "insertbattery": "Вставить батарею из основной руки",
         "lockpick": "Взломать",
+		"dosurgery": "Do surgery on yourself",
         "finaltravel": "Взабраться и отправиться",
         "lookcloser": "Взглянуть поближе",
         "examine": "Изучить",
@@ -2313,6 +2374,23 @@
         "tutcraft27": "Сделай мини-лазерный бур и батарейку для него. На этом мы закончим курс.",
         "tutcraft28": "Отлично!",
         "tutcraft29": "На этом мы закончим Курс по крафтингу. В целом, твоих знаний  должно хватить на то, чтобы скрафтить что угодно. Можешь вернуться в свою комнату.",
+		"tutmove1": "Welcome to the Advanced Movement Training Course. Please make your way up this shaft. Make use of the walls to ascend.",
+        "tutmove2": "You can traverse up narrow shafts the same way.",
+        "tutmove3": "You can use walls to slow your descent. Please slide down the leftmost wall.",
+        "tutmove4": "Hold down [X] and move to crawl. You can destroy blocks while prone.",
+        "tutmove5": "Crawl through these narrow tunnels. Moving your head by looking around will help you position yourself better.",
+        "tutmove6": "You can crouch mid-air to get into 3 tile high holes.",
+        "tutmove7": "You can jump off of walls while crouching as well.",
+        "tutmove8": "Attacking and throwing things pushes you back in the opposite direction. Pick up this minibarrel.",
+        "tutmove9": "How did you even get up there..? Odd. Either way, please pick up the next barrel.",
+        "tutmove10": "Charge up a throw, jump then throw the barrel downwards. Scale the wall by boosting yourself with the throw.",
+        "tutmove11": "Well done. The heavier the object thrown, the further you will be launched. Pick up the next barrel.",
+        "tutmove12": "Jump down this opening, then cancel your moment by throwing the barrel downwards before ground impact. Do not touch the walls.",
+        "tutmove13": "Nicely done.",
+        "tutmove14": "Swinging at and hitting things pushes you back in a similar fashion. Try getting up the right-most wall while swinging mostly downwards at it.",
+        "tutmove15": "Pick up this sledgehammer and repeat hit-boosting using it. You will gain significantly more height due to the sledgehammer's knockback.",
+        "tutmove16": "Now, jump and right after jumping, hit the floor right below you with the sledgehammer. You will gain more height. Make your way up the shaft.",
+        "tutmove17": "Well done! Combining these skills is key in maneuvering around the environment effectively. You may now return to your assigned room.",
         "tutclosehealthpanel": "Закрой панель здоровья.",
         "tutopenhealthpanel": "Открой панель здоровья.",
         "tutnice": "Отлично.",
@@ -4642,6 +4720,11 @@
                 "...Э-э-ээ-э... ...А что это пищит...?",
                 "...Ох. Ой. ОЙ. ОЙ! НЕТ. НЕТ-НЕТ-НЕТ. ПОГОДИ. ЗАЧЕМ? ЧТО Я НАДЕЛАЛ!?",
                 "...Э-э-э... Что-ж... Ну-у... Т-тогда п-пока..."
+            ],
+			"wwmr": [
+                "Okay... I'm here... I'm finally down here. Let's do this. The objective should be somewhere around here.",
+                "The... Objective... Should be somewhere in here... No more messing around. Let's go.",
+                "I made it... I made it..? Hmmh... It should be somewhere around here... Let's get this over with."
             ],
 			"endlessloop0": [
                 "...Ччч-ч...Чего..? Что? Какого? Что только что... Какого хрена я снова здесь..? Хнн... Что только что произошло..."
@@ -7076,137 +7159,197 @@
     ],
     "pdaNotes": [
         {
-            "Item1": "[ОТЧЁТ О БИОМЕТРИИ - 25##-11-19-18-49-58-4587]\n<>\nКЛАСС ОТЧЁТА: Биологический\nПОДКЛАСС ОТЧЁТА: Са́виан\nНАЗВАНИЕ ОТЧЁТА: Эксперимент\n<>\n[СОДЕРЖАНИЕ]\n\nБиологически-стабильная версия нашего новейшего проекта уже готова.\nПохоже, что на ментальном уровне от нашего изначального человека-добровольца ничего не осталось и не останется, не говоря уже и про остальных использованных субъектов.\nНе смотря на это, они быстро учатся и не сопротивляются.\n<>\nКомбинация ДНК вызвала необычно низкий рост Эксперимента по сравнению с людьми, а также малую мышечную и жировую массу.\nОднако, плотность его мышц и костей вышла намного выше ожидаемой. Вероятно, это приведёт к тому, что особь будет значительно лучше переносить физические травмы... И не сможет нормально плавать.\nУ него есть три отростка в задней части головы, по форме похожие на ушной хрящ. Почему-то он имеет структуру ушей наподобие той, что имеют представители птичьих - должно быть, их ДНК каким-то образом попала в ДНК Эксперимента в процессе сплайсинга.\nОн имеет тонкую шерсть, а также розовато-желтоватую плоть, что видно на ранах и внутренней части рта.\nЕго \"руки\" напоминают нечто среднее межу лапами собакообразного и руками человека. Я уверен, что одному из моих коллег понравятся эти лапы-\nПо какой-то неизвестной причине, у него остались биолюминисцентные глаза от наших более ранних прототипов. Нам ещё предстоит исследовать влияние этого на его зрение.\n<>\nВскоре мы клонируем эту особь 30 раз для проведения деструктивного тестирования на этих клонах. Мы оставим несколько особей, чтобы они могли разможаться естественным образом. В добавок, засчёт этого мы сэкономим на ресурсах.\n\n[КОНЕЦ]",
+            "Item1": "[RESEARCH MEMO, 29-1-24XX]<>\nI can still scarcely believe what I'm looking at. The subject is the size of my fist, yellow in color, and slimy in texture. By all accounts it appears to be a lump of flesh. We don't know what it's from or where, but our instruments confirm it is biological in origin, and it is completely alien to ours. It was recovered from the wreckage of the ██████ ███████, fused with the receiver plate. This represents a groundbreaking leap in our research, but a small consolation for the total loss of the device. I don't understand. Over a decade of dead-end research teleporting little more than individual particles and then this thing comes through?<>\nOut of all the universe, the odds of our experiment randomly intersecting with a creature of an unknown alien planet must be at least fifty orders of magnitude. It should be impossible, and yet here it is. We'll need to try and spin this. We can't risk losing the investor's funding, or scaring the public. Not at this juncture. At least this will give the bio team something to investigate while we rebuild the entire project from the ground up.",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 25##-12-26-14-27-52-0189]\n<>\nТЕМА: Объявление по поводу дружбы с Са́вианами\nОТ: Руководитель Проекта\nКОМУ: Всем сотрудникам\n<>\n[СОДЕРЖАНИЕ]\n\nУважаемые сотрудники,\n\nНедавно было выяснено, что один из наших сотрудников регулярно встречался с особью SAW-03 и передавал ему личную информацию. Это не просто наигрубейшее нарушение конфиденциальности, такого рода отношения с особями впринципе недопустимы. Сотрудник был уволен в кратчайшие сроки, а SAW-03 вскоре совершил самоубийство.\n\nА у ВАС есть друзья среди Са́вианов? Рано или поздно мы в любом случае об этом узнаем. Ещё не поздно одуматься и бросить дружбу. Но если мы узнаем о том, что Вы этого ещё не сделали, Вас постигнет та же участь.\n\nС уважением,\nРуководитель Проекта\n\n[КОНЕЦ]",
+            "Item1": "[RESEARCH MEMO 3-11-24XX]<>\nThe 'yellow blood' from the █████████ incident is truly remarkable. Its adaptability is unlike anything seen on Earth. Even under intense radiation it manages to repair itself almost immediately. It's a level of recombination only seen in our immune cells, and yet it covers its entire genome. When we attempted to overwrite it with our own viral vectors, it somehow integrated them into its own genetic code with no loss to itself.<>\nWe injected the alien genes into rat cells and the results made Dr. █████ fall out of his seat. It went into an overdrive of expression, grabbing DNA from whatever source it could find and integrating it into the hosts own DNA without issue. It made the past 100 years of biological research look like a joke. The host died shortly after. It acts like a scaffold, allowing DNA sequences to jump and recombine without immediately becoming cancerlike. We repeated this experiment with several genomes and even sequences from vastly different species were integrated. However, the actual results are wildly unpredictable. It feels more like a witch's brew than actual biology, but who knows the potential this holds.",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 25##-12-29-13-10-50-0119]\n<>\nТЕМА: Вы опоздали с вопросами\nОТ: Исследователь\nКОМУ: Психолог\n<>\n[СОДЕРЖАНИЕ]\n\nЯ пишу, чтобы передать вам, что все Са́вианы, устроившие беспорядок на прошлой неделе, УЖЕ были устранены, так что вы вряд ли сможете задать свои вопросы по этому поводу.\n\nОни были тщательно опрошены, и они признали, что они узнавали всё от того SAW-03, так что тайна была раскрыта. Из важного, среди пострадавших учёных были и кураторы Са́вианов, последние, к слову, признали, что они целились именно на них. \n\nТакже, я слышал, что охрана была усилена, и я надеюсь, что такого больше происходить не будет.\n\nС уважением,\nИсследователь\n\n[КОНЕЦ]",
+            "Item1": "[RESEARCH MEMO 29-7-24XX]<>\nMy efforts have finally resulted in a viable specimen! It is sedated now, but breathing on its own outside of the vat. It shows no signs of the lethal embryonic mutations that took all our previous attempts, and nor is it another grotesque mass of deregulated tissue. It is the first truly artificial sapience. It is not lost upon me that I have birthed a new race.<>\nLike the other trials, the yellow blood was introduced to the latest stable admixture and injected into a human embryo. As desired, the specimen borrows most heavily from the human genome, but it is something completely different. Its claws are almost feline, its ears avian or perhaps even reptilian. I can detect traces of canine, vulpine and rodent genes in its cranium, but the genetic stock could contain a thousand potential donors. Its eyes are even subtly bioluminescent.\nMore importantly, its intellectual capability appears to be near human level, just as desired. The doors that this opens are limitless! I will play gently with this one, but I've already begun cloning it to perform more destructive tests.\nI will designate my creation, SAW-01.",
             "Item2": ""
         },
         {
-            "Item1": "[ОТЧЁТ О БИОМЕТРИИ - 25##-04-01-15-29-18-1058]\n<>\nКЛАСС ОТЧЁТА: Биологический\nПОДКЛАСС ОТЧЁТА: Са́виан\nНАЗВАНИЕ ОТЧЁТА: Отчёт о потреблении мяса\n<>\n[СОДЕРЖАНИЕ]\n\nЦель: сокращение количества отходов\n<>\n32 Са́виана были были случайным образом отобраны со всего объекта и<corrupt:0xFFFFFF> Изначальное соотношение: 25 SAW-01, 4 SAW-03, 3 SAW-12. Особи были распределены на 8 групп по 4 в каждой. Каждая группа должна была выбрать одно из двух в трёх типах условий: употребление мяса Са́виана или Землянина, в сыром виде или в виде супа, и знание или незнание источника мяса.\n\nСамо мясо было получено после Инцидента [25##-12-30].\n<>\nВ то время, как SAW-01 и SAW-03 из всех групп, употребляя мясо Са́вианов, в независимости от знания или незнания источника, проявляли крайне негативные эмоции, со всеми SAW-12 такого не происходило. Никто из Са́вианов не проявлял негатива при потреблении мяса Землянина, вероятно, потому что, они не узнавали в нём своё собственное, хотя некоторые жаловались, что оно было сырым. Также, негатива не было при потреблении мяса в виде супа, даже если Са́вианы знали, от кого это мясо.\n\nВсем SAW-12 было совершенно всё равно на то, что им давали мясо Са́вианов, как и ожидалось. В целом, мы можем скармливать неподходящих особей всем SAW-12 на объекте.\n\n[КОНЕЦ]",
+            "Item1": "[RESEARCH MEMO 24-12-24XX]<>\nUpon repeated request, I am altering the SAW-01 genome. Their utility to this company's research was far beyond my anticipation. Originally I believed the lack of reproduction was proof of their perfection, but they are in such demand that our cloning machines can no longer keep up. I understand now the benefits of the old fashioned way.\nAs soon as I stopped suppressing sexual expression, the genes accepted the change readily. They are simultaneous hermaphrodites; the first mammals to possess both sexual organs. Actually, as they possess no mammaries, are they even mammals? I do not know if this is from Earth, or from the yellow blood, but it is beyond our terminology.<>\nIt appears they have no drive towards others of the same species, but are content with and capable of reproducing on their own. They will be capable of effectively cloning themselves for far less the cost now.",
             "Item2": ""
         },
         {
-            "Item1": "[ОТЧЁТ О БИОМЕТРИИ - 25##-04-08-09-06-08-0002]\n<>\nИНДЕКС БАЗЫ ДАННЫХ: Реестр Проекта \"Са́виан\"\nПОДИНДЕКС БАЗЫ ДАННЫХ: Виды\n<>\n[СОДЕРЖАНИЕ]\n\n[ДЛЯ ВСЕХ ВИДОВ В РЕЕСТРЕ]\n- ПЕРЕОПРЕДЕЛЕНИЕ ТИПА ОТЧЁТА: Шаблон\n- КЛАСС ОТЧЁТА: Биологический\n- ПОДКЛАСС ОТЧЁТА: Са́виан\n<>\nВИД СУЩНОСТИ: SAW-01 \"Эксперимент\"\nЧИСЛЕННОСТЬ: [Не удалось определить]\n- Финальный прототип нашего первого огромного прорыва в биоинженерии.\nОбработанная комбинация ДНК, полученная в результате сплайсинга ДНК одной из наших лабораторных крыс и сотрудника вместе с его питомцем.\nСобакообразный (Псовый). Малого роста и весьма хрупок. Труслив и пуглив. Полезен разве что в качестве пушечного мяса.\n<>\nВИД СУЩНОСТИ: SAW-02 \"Орэндж\"\nЧИСЛЕННОСТЬ: 52082\n- Мутированная версия SAW-01. Весьма крупный, грубый, с четырьмя \"руками\" и тот ещё идиот. Полезен для тупой работы и физически напряжённого тестирования, где смерть нежелательна.\n<>\nВИД СУЩНОСТИ: SAW-03 \"Милки\"\nЧИСЛЕННОСТЬ: 32184\n- Мутировавший SAW-01 со вставленной ДНК неопределённого морского животного. Крайне малого роста и высокомерен, но умён. Отлично видит в темноте. Хорош для умственной работы.\n<>\nВИД СУЩНОСТИ: SAW-04 \"Липи\"\nЧИСЛЕННОСТЬ: 2046\n- Мутировавший SAW-01 со вставленной ДНК представителя мховых. Пришлось немало помучаться, чтобы особь была хоть сколько-то жизнеспособной. Его быстроразвивающийся рак делает его бесполезным для работы. Постоянно пытается сбежать от нас.\n<>\nВИД СУЩНОСТИ: SAW-05 \"Чомпи\"\nЧИСЛЕННОСТЬ: 6084\n- Мутировавший SAW-03 со вставленной ДНК \"Акулы\"*. Водоплавающий; по типу питания - хищник. Не имеет шерсти. Что странно, он оказался дружелюбным. Хорош для решения конфликтов мирным путём. Его огромный хвост сильно мешает ему двигаться на суше, подтверждая наши давнии теории.\n*Акулы - это род, включавший в себя хищных морских рыб. Они вымерли, но их ДНК была сохранена для научных целей.\n<>\nВИД СУЩНОСТИ: SAW-06 \"Роза\"\nЧИСЛЕННОСТЬ: 7848\n- Мутировавший SAW-01 со вставленной ДНК \"Снежного Страйдера\"**. Имеет необычайно низкую температуру тела. Психически нестабильна и склонна к раздражению, но остаётся послушной и крайне дружелюбной, если ей не угрожать. Её хвост немного мешает двигаться. Имеет ярко выраженные женские черты, по видимости в результате взаимодействия ДНК Снежного Страйдера с ДНК земного животного.\n**Для подробностей о \"Снежном Страйдере\" см. <corrupt:0xFFF853>.\n\n[СТР. 1 ИЗ 2]",
+            "Item1": "[PERSONAL MEMO]\n[DR. ██████████, 6-05-24XX]<>\nI just don't understand it. I worked on the ██████ ███████ before the incident. We exhausted every avenue, checked under every rock, and now ██ years later we're repeating the same experiments already dismissed and getting wildly successful results. It's like something's changed since then, some hidden variable of the universe.\nThat's not how these things should work.<>\nFor the first time it seems that true point teleportation might be within our grasp, and yet we understand less then we did back then. I'm afraid we might be meddling with something beyond our understanding. What if instead of a small lump of flesh, we'd snagged a piece of a neutron star?\nOf course such high gravity repels the point targeting, but what else did we 'know' that's changed at the flick of a galactic switch? Give a caveman the most advanced computer we've got and they'll use it as a space heater. Are we operating on a similar level of ignorance...? We might be just kids playing with dad's gun.",
             "Item2": ""
         },
         {
-            "zametka": "бля, я не успел 15.06 перевести, так что жди следующую обнову [обновление от 19.06: гы, 4 дня лофой страдал и с рокетуссом (синитсеем) фигнёй страдал в песочнице][обновление от 01.07: пофиг уже, одну переведу. в последнее время я страдаю над переводом gs genetics, про основной руссификатор забыл, а обновить надо]",
-            "Item1": "[ОТЧЁТ О БИОМЕТРИИ - 25##-04-08-09-06-19-3953]\n<>\nИНДЕКС БАЗЫ ДАННЫХ: Реестр проекта \"Са́виан\"\nПОДИНДЕКС: Виды\n<>\n[СОДЕРЖАНИЕ]\n\n[ДЛЯ ВСЕХ ВИДОВ В РЕЕСТРЕ]\n- ПЕРЕОПРЕДЕЛЕНИЕ ТИПА ОТЧЁТА: Шаблон\n- КЛАСС ОТЧЁТА: Биологический\n- ПОДКЛАСС ОТЧЁТА: Са́виан\n<>\nВИД СУЩНОСТИ: SAW-07 \"Вояджер\"\nЧИСЛЕННОСТЬ: 3604\n- Мутировавший SAW-01 со вставленной ДНК представителя семейства Кошачьих. Говнюк тот ещё. Он без какой-либо причины ненавидит всех других Са́вианов, но нас он уважает. Весьма ловкий, но склонности к побегу не имеет. Обожает прятаться от нас, сильно мешая нашему тестированию.\n<>\nВИД СУЩНОСТИ: SAW-08 \"Барон\"\nЧИСЛЕННОСТЬ: 73\n- Мутировавший SAW-02 со вставленной ДНК <corrupt:0xFFDED0>. Невероятных размеров. Раза в два крупнее человека. Крайне сильный, но эмоционально-стабильный. Хоть, очевидно, он и не пытается сбежать, требуется более строгий протокол содержания. Его размер не позволяет ему ни нормально разможаться естественным образом, ни нам его клонировать - по возможности, старайтесь не убивать его.\n<>\nВИД СУЩНОСТИ: <corrupt:0xFFFFEA>\nЧИСЛЕННОСТЬ: 3067\n- Мутировавший SAW-03 со вставленной ДНК насекомого. Имеет трубчатые кости и по-странному розовую шерсть. Также имеет крылье-подобные отростки. Любит вести себя как идиот, хотя, по-видимому, не со зла. Его внешний вид очень привлекает других Са́вианов.\n<>\nВИД СУЩНОСТИ: SAW-10 \"Крайстал\"\nЧИСЛЕННОСТЬ: 2360\n- Мутировавшая SAW-06 со вставленной ДНК пресмыкающегося. Имеет кристалло-подобные отростки по всему телу, а также длинный и невероятной липкости язык, достаточно прочный, чтобы выдержать её вес. Судя по всему, её любимое занятие - висеть на потолке за счёт этой особенности. Психологическое тестирование ещё толком не было проведено, но, похоже, она весьма высокомерна. К слову, имеет те же женские черты, что и SAW-06.\n<>\nВИД СУЩНОСТИ: SAW-11 \"Вэлвет\"\nЧИСЛЕННОСТЬ: 158\n- Мутировавшая SAW-06 со вставленной ДНК членистоногого. Выглядит очень пауко-образно. Тестирование над ней особо не производилось, поскольку она отпугивает сотрудников как внешним видом, так и поведением. Требуется строгий протокол - был получен отчёт, что одному невезучему уборщику пришлость вступить в контакт с SAW-11. Его наполовину сожранный труп был найден через несколько часов; на всех SAW-11, заселённых в том же отделе, были видимые следы крови.\n<>\nВИД СУЩНОСТИ: SAW-12 \"Дюна\"\nЧИСЛЕННОСТЬ: 1839\n- Мутировавший SAW-05 со вставленной ДНК членистоногого. КРИТИЧЕСКИ НЕОБХОДИМ СТРОГИЙ ПРОТОКОЛ - Зарегистрированы многочисленные убийства сотрудников и Са́вианов. Входить в контакт только на расстоянии и с оружием, которого хватит, чтобы моментально прикончить его. Не дайте его внешности обмануть Вас. Он имеет склонность к канибаллизму, а его голод хрен насытишь. Невероятная умственная отсталость (по сравнению с другими Са́вианами) только усугубляет ситуацию. Почти все особи вида запланированы к депортации на <corrupt:0xFF0011> для обеспечения безопасности сотрудников, в особенности учитывая то, что отправлять всех не имеет смысла.\n<>\nВИД СУЩНОСТИ: SAW-13 \"Шелли\"\nЧИСЛЕННОСТЬ: 784\n- Мутировавшая SAW-10 со вставленной ДНК членистоногого. Вам не стоит его бояться - SAW-13 в основном спокоен и не агрессивен. Не имеет рта, питается, вероятно, фоновой радиацией. Разумеется, не способен к привычной нам речи, хотя, по-видимости, имеет сравнительно высокий уровень интеллекта. Рекомендован особый протокол: тестирование производить только тем сотрудникам, которые владеют УЯЖ. Его панцирь не даёт ему нормально размножаться естественным образом, хотя клонирование всё ещё относительно простое.\n<>\n[СТР. 2 ИЗ 2]",
+            "Item1": "Hey, big man.\nUpdate on the ████ █████. Great progress. The boys nearly powered the whole damn station off of it and the thing hardly even complained. It's the densest form of energy we've ever seen. Imagine it, whole teleporters powered by a thing you can hold in your hands. Still, strange that it's shaped like a █████. Maybe some piece of an Experiment got jammed in there, who knows. But with this, we might not need to expand our Dyson Swarm after all.\nProblem is, we can't recreate it.<>\nThe boys insist that they reproduced the experiment exactly. They were trying to pull out the spacetime conduit instead of traverse it, but this time? Nothing. It sure broke the machine like before, but no ████ █████. It's just like the ██████████ incident, but that yellow blood led us to the SAW specimens. This might be an even bigger breakthrough.\nI'll send this thing down to headquarters through the teleporter. Hopefully you can make some sense out of it. Oh... and while we're on the subject, send us up some more SAW experiments. Hard to keep enough of a stock up here in orbit.\n- Station Director ███████████",
             "Item2": ""
         },
         {
-            "Item1": "(The PDA takes a moment to load. A warning about drive integrity is the first thing you notice.)<>\n\n[INTERNAL MESSAGE]\n[PROJECT <corrupt:0xFFAFD6>]\n-----------------------------------------------------------------------\nLOCATION: <corrupt:0xFBC00F> Biometrics Division\nDATE: <corrupt:0xFFFFFF>\nDECLARED OWNER: Lead Engineer <corrupt:0xEF0AD2>\n-----------------------------------------------------------------------\n<>\nOWNERS NOTE: \n\nWe've made a breakthrough concerning the nanotechnological status chip. WE FINALLY DID IT! Testing on rats by the biological division showed that they could in fact react to their biological status and perform tasks as they reach certain biological value   <corrupt:0xFFFFFF>     <corrupt:0xFFFFFF>   mazing what human determination can accomplish with nearly unlimited funding. I honestly can't imagine how many people this tech could help keep better care of themselves. If our new Sawian program goes well, we could test the <corrupt:0xFFFD5E> on them.\n<>\nNOTED CHIP SPECIFICATIONS: \n\nThe <corrupt:0xFFFD5E> is an irregular plate wi        <corrupt:0xFFFFFF>        <corrupt:0xFFFFFF>   onstructed in such a way that it can be implemented near the brain at the back of the head. Two possible configurations have been created so far, one on the inside of the skull and one on the outside. Both variants connect to neurons via elastic conductive nanorods.\n\n<corrupt:0xFFFD5E> works by intaking certain electrical signals from the brain, boosting those signals,  processing received information, and then outputting final data to the brain's visual cortex, creating a loop allowing for direct viewing of bodily functions by the patient. This data includes heart rate, skin irritation, muscle irritation, oxygen exchang   <corrupt:0xFFFFFF>                   <corrupt:0xFFFFFF>   <corrupt:0xFFFD5E> 's power source is currently a small secured battery based on company <corrupt:0xFFBD5A> patent. Since it recharges itself using the background radiation, it should last indefinitely unless damaged.<>\n\nThe production cost is estimated to b   <corrupt:0xFFFFFF>      <corrupt:0xFFFFFF>           tion is based on the fact that most internal components and the nanoprocessor are already being produced for other unrelated products.\n\nThe <corrupt:0xFFFD5E> has modular slots for other chip attachments, leaving it easily expandable for the future.\n<>\nATTACHED CHIP BLUEP   <corrupt:0xFFFFFF>           <corrupt:0xFFFFFF>\n\n\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF ILLEGAL MEMORY ACCESS><>\n\n\n(The PDA suddenly seizes up and shuts off.)",
+            "Item1": "[INCIDENT REPORT]\n[RECOVERED AUDIO TRANSCRIPT B7-187545]\n[TELEPORTATION BAY: OSPREY]<>\n\"I've seen the specs, but... damn that thing's big.\"\n\"Of course. It's been designed to transport entire buildings after all.\"\n\"And they make it in one piece?\"\n\"We're still dialing it in, but that's why we make sure most of the payloads can take a bit of a tumble. A tumble from say... the atmosphere.\"\n<PDA FEEDBACK> \"Yes right there, just leave it right there in the center!\"\n\"What's that they're moving?\"\n\"Boy, you're green. It's that new power source management's been fawning over.\"\n\"Oh... Is it safe for them to be down there in the displacement basin, sir?\"\n\"Sure, long as you don't turn it on. Though, when it was still in development some of the testing fodder got cut clean in half. Turns out some parasitic capacitance from the spool up cycle was enough to trip the field projector, but that's why we don't service these things ourselves. Other half ended up in the employee bathroom at HQ.\"\n\"I'm sure that gave the janitor something to think about.\"\n\"That yellow blood sure stains like hell. Can still see some of it down there.\"<>\n<THUCNK>\n<RATTLING MECHANICAL ROAR>\n\"What is that!\"\n\"That's just the metamass displacer coming online! The director's on my ass about the power usage so let's make this quick! Destination?!\"\n\"Uh...! Set, sir!\"\n\"Basin?!\"\n\"Clear, sir!\"\n\"Indicators?!\"\n\"All green, sir!\"\n\"Then let 'er rip!\"\n<ALARM WAIL> \"Wha-!\"\n\"What did you do?!\"\n\"I-I didn't!\"\n\"Stabilizer's dis--solvin-g! Sh-u-u--uu-t it d-own!\"\n\"I---c-an't it-t's!\"\n<OVERLAPPING ALARM WAILS>\n\"W-hy w-oo-o-n't i---t!?\"\n\"Tr-ry---<>\n[END OF TRANSCRIPT]",
             "Item2": ""
         },
         {
-            "mnepokalen": "я пока не буду переводить этот кпк, и не потому, что я осуждаю «квас» (кто знает, тот поймёт), я не осуждаю, а отношусь нейтрально (у каждого свои вкусы, и о них не спорят), я прост не шарю за «квас»-термины и у меня там будет дофига и больше ошибок. у меня и так была проблема с гипер и гипотензией. так что жди обнову. но я клянусь, я переведу как разберусь. (мой интернет провайдер, ПРОСТИ)",
-            "Item1": "[EMAIL - 25##-12-07-11-23-10-6017]\n<>\nSUBJECT: Congratulations!!\nFROM: <corrupt:0xFF0BEA>\nTO: GROUP <corrupt:0xFC0002>\n<>\n[CONTENTS]\n\nDear scientists,\n\nThe creation of a gonosimulistic (use the term correctly) mammal capable of asexual reproduction is an astonishing breakthrough of science. This has never been seen before in nature. Not sure we can call them mammals anymore... It proves to me and to <corrupt:0x0001FC> that there is nothing this team cannot do.\n\nI wish to thank everybody who contributed to this amazing feat. It greatly reduces the cost and complexity of their production, as it is not necessary to create and organize separate male and female Sawians. The lack of sex drive also curbs overpopulation and avoids any incidents while still allowing them to reproduce.\n<>\nYou can expect a reward from me soon.\n\nYours in good faith,\n<corrupt:0xFF0BEA>\n<>\n[ATTACHMENTS]\n\nREF: [INTERNAL MEMORANDUM - 25##-12-07-09-12-40-0157]\n\nENTITY CLASS: Biological\nENTITY SUBCLASS: Sawian\n<>\n[CONTENTS]\n\nThis memorandum establishes mandatory terminology policy regarding the Sawian species and supersedes all prior documentation, annotations, and informal usage.\n\nEffective immediately, the term \"hermaphrodite\" is **banned in all corporate communications**, including scientific, operational, cultural, and casual contexts. The sole exception is explicit historical reference (e.g., quotations, legacy documentation analysis, or discussion of obsolete Earth taxonomies), which must be clearly labeled as such.\n\nThe approved descriptor for Sawian reproductive biology is \"gonosimulistic.\"  \nContext-dependent alternatives include \"cosexual\" and \"monoecious.\"\n\nUse of the term outside of these narrow historical contexts is considered inappropriate, reductive, and professionally suspect. This introduces avoidable interpretive risk and will be reviewed under the Stakeholder-Facing Language Control Framework.\n<>\nNo human naturally possesses two fully functional reproductive systems. The appropriate human medical and social term is \"intersex\", not \"hermaphrodite\". The latter term originated from the mythological figure Hermaphroditus and has long been associated with stigma, violence, and dehumanization. This includes the use of this term to refer to animals, thus equating intersex humans with animals. This has thus proven volatile in public, academic, and media-facing environments.\n<>\nThe application of this term to non-human species arose from that same framework and is therefore neither neutral nor acceptable, regardless of biological differences.\n<>\nWhile historical alternatives exist, such as \"eunuch\", \"bisexual\", and \"androgyny\", these have taken on new meanings and connotations and are not appropriate to use in this way either.\n\nDo not project human gender or sex frameworks onto Sawian subjects. Reproductive biology does not imply gender identity, presentation, orientation, or social function.\n\nReproductive terminology is not casual vocabulary and should not be treated as such.\n<>\nThis policy does not constitute a moral position, medical guidance, or cultural endorsement. Its purpose is strictly to ensure consistency, reduce ambiguity, and protect the organization from reputational exposure.\n\n[ATTACHMENTS END]\n\n[END]",
+            "Item1": "[MEETING TRANSCRIPT AA-226213]\n[██████ █████'S OFFICE]\n[DATE: 6-06-25XX]<>\nDownsize...? What do you mean!\nExactly as it sounds, Dr. █████. We're cutting back on the SAW project.\nExcuse me, but that project is what made this company what it is today. SAW specimens are pivotal to all our research. You can't cancel it.\nDo you have any idea how much it costs for me to keep wiping your ass? Half our budget goes into security alone. If anyone caught wind of what we're doing here, we'd all be lynched! We'd be lucky if they only did a tenth of what you've done.<>\nI understand, sir, but our results---<>\nHave been stagnant for years. You've solved all the easy problems. You're just playing with them now, and I'm the one footing the bill.\nWe've been making steady progress on cancers, epigenetic drift, stem-cell exhaustion... true immortality! Isn't that worth the risk?\nIt's pointless if I won't be alive to see it! We'll keep some around, but teleportation...there's a technology for the public. It's been our goal since the beginning. Picture it Dr. █████, hundreds of human worlds, all connected with OUR machines. It would be like owning the gas, the cars, and the road. We'd become untouchable.\nIt sounds wonderful, sir... but there's so many of them, some with decades of investment. How am I supposed to simply \"downsize\" it?\nI hear you're already quite adept at killing them. Get creative.",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 25##-06-21-18-20-06-1075]\n<>\nSUBJECT: <corrupt:0xFFFFFF>\nFROM: <corrupt:0xFFF0CE>\nTO: <corrupt:0xFA05F2>\n<>\n[CONTENTS]\n\nGood morning.\nAs per my last e-mail, I am highly concerned with the rate at which our manufacturing division is producing designs for plush toys. I understand that having multiple sapient designs has been good at diverting attention to our current objectives, along with confusing any attempts at leaking information, I've ran ballpark numbers and have noticed that of our current budget; 43.7% of it is going towards research and development for these toys.\n\nAs you should know, we've already been dealing with a deficit thanks to the food we've been importing for the Sawians. I understand that keeping the public in the dark about our actions is the primary agenda but when we could be spending <corrupt:0xFFFFFF> on actually feeding the specimens and avoiding any unrest within them, I see little reason to be funnelling this much money into these toys.\n<>\nRegards,\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x00000000000000>\n<corrupt:0xMEM ACCESS VIOLATION>",
+            "Item1": "[GROUP CHAT - MENTICIDE DPT.]\n      - New Message -<>\n\nHas anyone seen my coffee cup? It's the one that says, \"I'm just here for the free radicals.\" If you find it, please bring it to my office. Thanks. ",
             "Item2": ""
         },
         {
-            "Item1": "[Inventory log 11-34X]\n[On-Site Personnel Retention Measures]\n--------------------------------------------------------<>\nRR-104 Pneumatic Area Access Denier - \"Spike Trap\"\n\nA steel, sharpened rod (180 cm in length, 10 cm in diameter) attached to a launching mechanism, capable of fully extending the spike in 0.3 seconds.\nMeant to deliver disabling piercing wounds, immediately stripping the target of the ability to move. Triggered by a motion sensor.\n\n[Note: This is stupid. Those things can be seen from a mile away, and the launching mechanism requires rearming after a single use. It won’t stop anything but the most dull of escapees. Project discontinued. Trash the supply.]\n--------------------------------------------------------<>\nTG-22 Thermal-guided Projectile Distributor - \"Turret\"\n\nA 9mm caliber rifle attached to <corrupt:0xFB387A> brand mount.\nThe firing mechanism is controlled by a thermal sensor with a range of 100 meters.\nIncludes variants using higher caliber ammo for field use, but the 9mm should be sufficient for now.\n\n[Note: You stuck a gun atop a thermal camera. But it is effective. I’d recommend a higher caliber, given our recently emerged new specimens. This will not do, though. You’ve solved the problem of effectiveness, but its lethality is not a desired feature either. Both the Subjects and employees pose a security risk, but they are also not without value.]\n--------------------------------------------------------<>\nDD-6X1 Acoustic Compliance Enforcement System - \"Sound Cannon\"\n\nA modified directional speaker utilizing high-yield capacitor banks. Designed to enforce rapid compliance through acoustic stimulus.\nExposure causes immediate loss of motor control, mild to medium internal bleeding, and severe pain.\nOutput power listed in restricted documentation only.\n\n[Note: This will do.]",
+            "Item1": "[SUBJECT] Regarding Your Last Message\n[FROM]: Human Resources\n[TO]: Dr. ██████████<>\n\nThis is to inform you that your last message,\n\n    \"Which one of you FUCKERS teleported half an Experiment into the GODDAMN BATHROOM?! I'm sitting here minding my own FUCKING business and a BLEEDING SEVERED TORSO FALLS ON MY HEAD. It was still flailing around and getting its nasty blood EVERYWEHRE! I'm fucking COVERED IN IT! DISGUSTING!!! When I find out who's responsible I'm going to throw the other half into your OFFICE!\"\n\nwas determined to be inappropriate and inconsistent with our standards for professional communication. We expect all employees to communicate with colleagues respectfully and professionally.\n\nPlease ensure that future communications are consistent with these expectations.",
             "Item2": ""
         },
         {
-            "Item1": "(The PDA is damaged; the screen is cracked, and some electronics are exposed. With some work, you can get it running.)\n\n[INTERNAL MESSAGE]\n[PROJECT <corrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\nLOCATION: <corrupt:0xFBC00F> Biometrics Division\nDATE: <corrupt:0xFFFFFF>\nDECLARED OWNER: Mechanical Engineer <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\n\nMESSAGE ON INTERNAL COMMUNICATION NETWORK\n\n\nFROM: <corrupt:0xFFFFFF>\nTO:  <corrupt:0xFA05F2>\n\nI don't like this one bit. Our main task for this quarter was to develo <corrupt:0xFFF0CE> So why are we back here again. I had already planned a week's vacation with some friends and had to cancel those plans because some m <corrupt:0xFFFFFF> o wait? This current task is also sketchy as hell. I'd understand expanding our new neural platform for betterment of patients, but \"p <corrupt:0xFF0BEA> o is this for? Convicts? I mean our government, even our company wouldn't put this into a civilian package right? Maybe it's for the army? So they can give basic orders directly to soldiers and make sure that people don't leak restricted informations? Even tha <corrupt:0xFBC00F> Anyway looks like we have to find a way of allowing for better information transfer while using our base battery. Actually scratch that, They wanted this addon to be used for control with a lethal failsafe, right? Then we ca <corrupt:0xFFFFFF> s way we'll have two power sources with the ability to destabilize one of them by overcharging. I'll draw something up, let me know whe\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF ILLEGAL MEMORY ACCESS><>\n\n\n(You hear a “bzzzz” sound and can see faint smoke rising from the device.)",
+            "Item1": "[PERSONAL MEMO]\n[DR. █████, 2-11-25XX]<>\n\nDownsize... Downsize, he says!\nDoes he not understand? Does he have no appreciation for what the SAW program has done for this company? What I'VE done for this company? Our research isn't stagnant. I was just about to finish SAW-13. The right specimen would get us back on track.\n\nI won't exterminate them, but I can make him happy.<>\n\nThe planet from which they take their blood. It's their home as much as Earth. In a way, they always belonged there. I'll call it an extended experiment, an observation of how they behave away from their masters. It costs us nothing, it's free from prying eyes, and if we need more, we'll simply take them back. Everything is perfect.\n\nGo forth, then. Multiply. Hold hands, or cover them in your neighbor's blood. \nRepeat our mistakes. Run wild and free. But remember, you're all my children, and you will never be free from me.",
             "Item2": ""
         },
         {
-            "Item1": "(The PDA looks like it's barely holding on)\n\n[INTERNAL MESSAGE]\n[NEUROLOGIC <corrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\nLOCATION: <corrupt:0xFFFFFF> Surgery Bureau\nDATE: <corrupt:0xFBC00F>\nDECLARED OWNER: Designated Lab <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\nMESSAGE ON INTERNAL COMMUNICATION NETWORK\n\nFROM: <corrupt:0xFFFFFF>\nTO:  <corrupt:0xFA05F2>\n\nHey, looks like we got an update on the current assignment. We are to refrain from installing those new \"punishment\" chips i <corrupt:0xFFFFFF> ming Sawians. Leadership wants to test how they'll behave with no oversight from the company. However, they still want us to implement the platforms. Why just the platforms and not the addons? My guess is tha <corrupt:0xFA05F2> ack, some food for thought. Anyway, once you're ready with this batch come by the cafeteria, apparently today they'll be serving some <corrupt:0xFFFFFF> with <corrupt:0xFFF0CE>. Also don't worry about more subjects coming in today, apparently training grounds are locked up for the day because of some incident. Apparen\n\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FA INTERNAL STORAGE DAMAGE><>\n\n(PDA turns off.)",
+            "Item1": "[SUBJECT] It's a matter of security!\n[FROM] Operations Oversight\n[TO] All Personnel<>\n\nPlease stop saving local copies of internal emails to your personal devices. I understand that the employee email portal is annoying to use, but this is a major security risk! We've located several lost devices and almost all of them contained some sort of classified information. What would you do if one of these ended up in the wrong hands? \n\nPlease be more careful in the future!\nOperations Oversight",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 25##-1-25-9-06-42-2810]\n<>\nSUBJECT: Watch it!\nFROM: <corrupt:0xFBF010>\nTO: <corrupt:0xFF0BEA>\n<>\n[CONTENTS]\n\nBe careful how you spend company money. Uncle Sam is nosy. I had to sit through a very uncomfortable phone call because of you. All this food is making them suspicious, and I would rather admit to anything BUT what we're actually doing.\n\n<corrupt:0xFBF010>\n\n[END]",
+            "Item1": "[Neurologic Hardware Division]\n[DATE: 11-10-25XX]\n[LEAD ENGINEER ████████]<>\n\nWe've completed the latest prototype of the Digital Interoception Device (or the \"Health HUD\" as some of my engineers have taken to calling it.) After collaborating with the folks from the SAW Project, we've made several breakthrough advancements. The 'spinal delamination' issue has been almost entirely eliminated, and I dare say we are ready for human installment!<>\n\nThe actual device is a chip implanted just below the cerebellum and affixed to the medulla oblongata via conductive nanofilaments. It functions by intercepting the various visceroceptive and somatosensory signals used subconsciously for bodily regulation and amplifying them into the visual cortex via a convenient user interface.\n\nThe implant does not require a battery and instead harvests energy from circulating metabolites, so it should work indefinitely unless it's damaged somehow. With this, any user can check their exact heart rate, oxygen exchange, and internal temperature as accurately as any machine, as well as things like muscle and skin irritation and inflammation. The possibilities are endless!",
             "Item2": ""
         },
         {
-            "Item1": "(As you tap the PDA screen a few times, it starts to boot up in emergency mode.)\n\n[INTERNAL MESSAGE]\n[LAW <corrupt:0xFFFFFF>]\n-----------------------------------------------------------------------\nLOCATION: LAW FIRM O<corrupt:0xFFFFFF> \nDATE: <corrupt:0xFBC00F>\nDECLARED OWNER: Lawyer <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\nMESSAGE ON INTERNAL COMMUNICATION NETWORK\n\nFROM: <corrupt:0xFFFFFF>\nTO:  <corrupt:0xFFFFFF><>\n\nThis is insane. Recent bulk orders of different foods and ingredients, brought so much unnecessary attention to us that god da <corrupt:0xFA05F2> at us. Do you understand that if the government finds out about the hybrids we are done for? I can explain the water or bananas, hell I won't have a problem with explaining those tankers of chocolate milk. Do you want to know what won't be so easy to explain? WHY 2 FULL SEMI TRUCKS OF DOG FOOD WERE UNLOADED JUST THIS EVENING BY THE WAREHOUSES. What am I supposed to say to <corrupt:0xFA05F2>  eird orders? \"Oh don't worry, it's just because the company had declared record profits this year and wanted to stock up on food for the future\". I'm not joking, that's one of the ideas that I got fro <corrupt:0xFFFFFF> It's like those people are deaf and can't hear their own stupid ideas. What do you mean \"stock up on food\"? We have at most <corrupt:0xFFFFFF> ogs on this site, this one order would be enough to feed them, their pups and their pups pups. We'll have to improvise, tell them about bioenergy, confuse their senile executives with professional language and pretend that most of those <corrupt:0xFBC00F> reactors. We can't slip up her \n\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FE RANDOM-ACCES MEMORY FAILURE><>\n\n(The PDA turns off with unpleasant noises accompanying it.)",
+            "Item1": "[SUBJECT] RE: Questions?\n[FROM] ████████████\n[TO] Dr. █████<>\n\nI am writing to inform you that all of the SAW subjects responsible for last week's riot have already been terminated, so I'm afraid you won't be able to get your questions in.\n\nI saw to it that they were interviewed thoroughly, and they confessed that everything they knew came from that SAW-03, so the mystery is solved. Most of the scientists they killed were their own handlers, and they admitted to targeting them on purpose. I don't need a degree in psychology to guess why, so I doubt you'd accomplish much, but feel free to collect their brains.<>\n\nSecurity will be tightened up so hopefully this mess won't happen again.\n\nRegards,\nSecurity Chief ████████████",
             "Item2": ""
         },
         {
-            "Item1": "(The PDA seems to be extremely damaged)\n<>\n[RECEIVED DIRECTIVE]\n[SPACE <corrupt:0xFFFFFF>]\n-----------------------------------------------------------------------\nLOCATION: UNDER G<corrupt:0xFFFFFF> \nDATE: <corrupt:0xFFFFFF>\nDECLARED OWNER: <corrupt:0xFFFFFF>\n-----------------------------------------------------------------------\n<>\nWARNING SITE PERSONNEL\n\nAN ACCIDENT HAPPENED TODAY I <corrupt:0xFFFFFF> \n\nALL TESTS CONCERN <corrupt:0xFFFFFF> RE TO BE HALTED. \nEFFECTIVE IMMEDIATELY\n<>\nINCIDENT REPORT:\n\nOn <corrupt:0xFFFFFF> during routine tests on the drop pod capsules codename <corrupt:0xFFFFFF> there was an unexpected anomaly concerning the telepo <corrupt:0xFFFFFF>\nThe pod was teleported partially into a wall, destabilizing the tele-landing procedure and causing a brief black-hole pr <corrupt:0xFFFFFF>ecause o <corrupt:0xFFFFFF> a number of scientists and engineers suffered extreme damage caused by the implosion. The sawian occupying the pod did not survive.\n\nFrom now on all teleportation tech resear   <corrupt:0xFFFFFF>topped until further notice. Unit <corrupt:0xFFFFFF> is under lockdown until <corrupt:0xFFFFFF>\n<>\n\nAll available personnel are to report to s<corrupt:0xFFFFFF>\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x00000000000000000FF ILLEGAL MEMORY ACCESS>\n\n(There seems to be no more text except errors)",
+            "Item1": "[ALL PERSONNEL ANNOUNCEMENT]<>\n\nAn internal review identified an instance of sustained communication between an employee and a designated research asset. The employee was found to have spoofed access codes on several separate occasions to meet with a SAW-03 subject off the official record.\n\nThese unauthorized visits included the exchange of information not permitted to be shared with SAW subjects as well as inappropriate affection. This activity introduced uncontrolled behavioral variables into an ongoing experiment. The employee has been forcefully reassigned. The subject subsequently showed self-terminating behavior and is no longer viable for study.<>\n\nAll staff are reminded that any unauthorized interactions with SAW subjects materially impacts experimental integrity. If you are uncertain whether an interaction falls within protocol, consult your supervisor before proceeding.\n\nThank you for your attention,\nProject Management Office",
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-08-04-09-05-25-1057]\n[Project: \"A day in the life\"]\n----------------------------------------------<>\nSo.\nThis is my \"journal\" now. Which is apparently a written work describing one's life and experiences.\nI am not entirely sure why the coats have me doing this, but the same can be said about most things they make us do.\nStill, I got lucky today. It can get way worse than a writing exercise.\nI find this device quite fascinating, and it is a shame that I will part with it in just a few hours. But I have been given a task, and I shall complete it.<>\n\nWe usually are woken up either by eachother, or by the first food buzzer ringing. Rarely do we wake up to testing immediately.\nI'm not sure what \"hour\" this happens at... Hell, I barely understand the concept. Though, I hear the coats talking about it all the time...\n\nAnyway, we wake up and soon it's time for our very first meal of the day.\nWhat they feed us is slightly varied, which wasn't the case just a few years ago. Still mostly just nutrient bars, though. They're really bland, but I can't complain...\n\n--------------------------------------------------<>\nIt's some hours later now.\n\nThis is the time when the coats hunt.\nThey call you out by the number, and you have to come to them.\nOr they come for you. \nYou do not want that.\nSometimes, they call out multiple numbers... It's usually a good sign, though.<>\n\nWhat they'll do to you is up to chance, really.\nThe tests can be harmless, they can be terrible, or they can be beneficial.\nIt's worth noting that the coats merely TRY to do things, and while sometimes they try to help, those attempts are usually far less successful than the ones where they try to mess you up.<>\n\nTwo numbers are called, and two others stand up, their faces worried.\nOne of them is healthy. Far more likely to get hurt.\n\nThe other has four arms.\nOne on the left, and three on the right.\nWell, if you could call the weird growths arms. They look kinda close?\nThey were originally born with two. The coats decided that to be too much one day, and removed one.\nThe next day, they came back with ELEVEN arms.\nThe humans removed ten of those, only to grace them with seven new ones.\nThe next day it was five.\nToday it's four.\n\nThey are getting close now.<>\n\nThe poor fellow is called Arms. And I swear, this was their name BEFORE this whole ordeal, and it's widely believed that humans picked them because of that.\nPerhaps it's their idea of a joke?\n\n[PAGE 1 OF 2]",
+            "Item1": "[ARCHIVED CHAT, ID:LUXRJGY4]\n[DR. ██████, ENG. ████████]<>\n\n> I tell you, whoever started that plushie line has a great sense of humor. My daughter is obsessed with them. They're a lot cuter than the real things though.  Hahaha! If the shit we're doing ever gets leaked, people would be like 'What, like the plushies?' Hahaha! You think they'd even believe it? \n\n> Yea, wonder what a real stuffed SAW would look like, LMAO. Doubt your daughter would be too happy with that one.\n\n> You never know! Hahaha!",
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-08-04-09-05-25-1057]\n[Project: \"A day in the life\"]\n----------------------------------------------\n<>\nIt's quiet. Those who get lucky often just rest; sometimes they socialize. Usually, they just worry about those who got taken.\nThis concept of \"Hours\", this cycle, schedule... It's terrifying.\nI don't understand it. Why is each sleep cycle divided into 24 (?) hours? What governs such rules? Even the humans play by it.\nIs something above them controlling it?\n<>\n\nSome more hours later, the first test subjects start to trickle back in.\nBest-case scenario, they walk in on their own. Quite common, actually.\nSometimes they are carried in.\nRarely, two guards come in instead. They head straight to someone's cot and take away their things.\nIf it were your friend, and the guards are some of the nicer ones, they will let you keep a thing or two.\nI don't really have anyone to wait for anymore, so I just watch those who do. Everyone is used to this, but the nerves are always present.\n<>\n\nDinner time.\nThe meal dispensers dropped some cooked meat on my plate. Lucky. Better than breakfast, for sure.\nSome others hum approvingly, as they get similarly lucky. Others grumble as they get served the same old nutrient bars. It's really like they are feeding us with whatever they have on hand... Maybe this is a test, too?\nSometimes fights break out over the food, but that's rare. The guards are not happy anytime this happens.\n \nPeople talk. They play. They sing.\nSome nurse their wounds, or help others nurse theirs.\nIt's a calm time.\nThe coats are done for the time being.\n\nLater.\nIn about an \"hour\", our last meal of the day will be served.\nBedtime soon after that.\nThere is not much more to say, really.\n\nActually, there is one thing. Very rarely, extra tests will be called around this time. Well, the humans call them \"Relocations\" or \"Assignments.\"\n<>\nYou never come back when you get called to one of those. But they always allow you to take your things. I am not sure if it's because they are really taking you somewhere else, or they simply want to expedite the process of emptying your place by having you do it yourself.\n<>\n\nEveryone wonders what reaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\nfddda\nshit\nFroze up for a moment there. I can't remove the letters. The device won't let me. It's bery\ncrap\n<>\nmy hands are shaking its difficult to type\nthey called the tests tonight\ni dont know where those called go\nbut they called my number\ni am about to find out\n<>\nwish me luck\n\n[PAGE 2 OF 2]",
+            "Item1": "[SUBJECT] My Awesome New Invention\n[FROM] Dr. ████\n[TO] Lead Engineer ████████<>\n\nIt's called: the EXCRUCIATOR!\n\nI took the brain implant tech from the project that you've been working on, but instead of reading nerve impulses, I sent them instead. After some tweaking, it's capable of making you feel literally the most pain physically possible! I actually expected the test subjects to become desensitized to it at some point, but they never did!\n\nThis could be incredible for the criminal justice system. It's always been a problem to know if someone's suffered enough. Well now you can! I've done loads of tests on the SAWs, and simply seeing the EXCRUCIATOR applied was enough to dissuade disobedience in the whole group. \n\nCan we get this into production ASAP?",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 24##-06-25-13-51-18-1905]\n<>\nSUBJECT: Regulations Approval\nFROM: <corrupt:0xFFFFDC>\nTO: <corrupt:0xFFFF0A>\n<>\nI just got off a holocall with the national regulation board. The food teleportation systems are good to sell! Now we can really push for that single-use packaging ban - and given that our foox-boxes already resist spoilage, food waste (and our unprofitable years) will be a thing of the past. And with how lazy people are nowadays, we can certainly adapt this tech to other things.\n<>\nDon't forget to strengthen the thermal shielding of the dropbox. The failure rate is less than 1 in 500, but still... As you know, when E=mc2, and c is so large, that means just the mass of a raisin collapsing into a black hole will immediately (within 10^-25 seconds) evaporate to Hawking radiation, and generate the energy equivalent to the nuclear bomb dropped on Hiroshima. Our systems for reversing the teleportation when this happens are getting better and can take away most of that energy, but we can't let any more leak out.\n<>\nSerendipitously, this solves our abnormally high food usage problem, for now. No one will question why our food delivery department is using food.\n<>\nDo you ever wonder, in an alternate universe, we would have pursued that infinite energy idea?\n\n[END]",
+            "Item1": "[PROJECT UPDATE]<>\n\nBad news guys...\nThe EXCRUCIATOR is cancelled. The department head said that it was \"impractical\" and, \"actually deranged\" and that it would be a \"goddamned PR nightmare.\" What looks so bad about solving criminal justice??? \n\nOh well, at least we got the go ahead to use it internally.",
             "Item2": ""
         },
         {
-            "Item1": "(The PDA is heavily damaged. Countless warnings pop up on the screen, but some of the data is readable...)\n<>\n[Executive Board Meeting 542-23-145C Transcript]\n---------------------------------------------------------------\nLOCATION: Company Headquarters at <corrupt:0xFFFF43>\nDATE: 12-04-[fetch.year(): failed]\n---------------------------------------------------------------<>\n<corrupt:0xFFFFD9>: -you surely realize what we have on our hands here. The Sawians- they… they are our golden ticket! The data we have right now would be enough for a Nobel Prize for every single person in this room!\n\n<corrupt:0xFFFFF7>: Yes. That's nine prizes. If we all agreed to donate the cash from those to [<corrupt:0xFFFBc3>], we'd end up with roughly fifteen million dollars. A drop in a bucket compared to the financial black hole that is your idiotic project!<>\n\n[<corrupt:0xFFFFD9> rises from his chair.]\n\n<corrupt:0xFFFFD9>: IDIOTIC?! IDIOTIC?! WE ARE CREATING LIFE! You are a witness to the infancy of a new intelligent species! Our colleagues would *kill* for such an opportunity mere ten years ago!\n\n<corrupt:0xFFFFF7>: Kill? Sure. Pay what you ask? Hell. No.<>\n\n<corrupt:0xFFFFD9>: Is it always money with you? Fine! We are making money! Even our plushie line is more than enough to cover-\n\n<corrupt:0xFFFFF7>: Pay more than cash, you cretin! The moment this whole affair ends up on some nosy journalist's desk, we will all pay with our *lives.* Hell, our families will be lynched. Besides, the plushies do not require us to keep your colony of… talking rats alive.\n\n<corrupt:0xFFFFD9>: The Sawians are not talking rats! They are a mix of-<>\n\n<corrupt:0xFFFFF7>: OH, EXCUUUSE ME! I meant to say walking tickets to a dematerializer! OUR TICKETS! I am not ending up before the ICC, just because you are a greedy little fu-\n\n<corrupt:0xFA05F2>: Gentlemen. Please.\n\n<corrupt:0xFFFFF7>: I- Ah. Apologies <corrupt:0xFA05F2>.\n\n<corrupt:0xFA05F2>: Doctor <corrupt:0xFFFFD9>. Please make your case. Why are those creatures worth keeping?<>\n\n[Silence. <corrupt:0xFFFFD9> sits down.]\n\n<corrupt:0xFFFFD9>:  I mean... There are so many reasons to pick, I-\n\n<corrupt:0xFA05F2>: Then I trust that you will be able to pick the right one.\n\n<corrupt:0xFFFFD9>:  Uh. Right. Okay. Braingrow! We have Braingrow!\n\n<corrupt:0xFFFFF7>: Yes, the commercially available medicine that one can purchase at the corner store.<>\n\n<corrupt:0xFFFFD9>: No. Not this one. I could bash someone's head straight open. Introduce the frontal lobe to a hammer. Corner store Braingrow won't help here. Ours will have the fellow walking and talking within a WEEK. Without such an ample supply of human-like test subjects, we'd need decades to perfect the nanomachines' operational directives. Twice that for testing.\n\n<corrupt:0xFA05F2>: Of course. <corrupt:0xFFFFF7>. Your counterpoint?<>\n\n<corrupt:0xFFFFF7>: Yeah. He's got results. The moment the public finds out just HOW he got them, we are all done for. What are you going to say, [#######]? That the creatures whose likeness we sell to kids exist, and that you enjoy cracking their heads in your spare time? There will be no shifting the blame. We will answer for this; the entire Company will. They'll even lynch our goddamned janitor!\n\n[The <corrupt:0xFA05F2> nods, watching the two silently for a moment.]<>\n\n<corrupt:0xFA05F2>: I now understand why you clash with such intensity. It is not in our nature to back down when the truth is on our side. And the truth is… You are both correct.\n\n[Silence.]<>\n\n<corrupt:0xFA05F2>: The Sawians pose a risk that we cannot afford to take. They are also an opportunity that we cannot afford to let go. We have them in our grasp. And we must make sure things remain that way.\n\n<corrupt:0xFFFFD9>: But… how, <corrupt:0xFA05F2>?\n\n[<corrupt:0xFA05F2> smiles, and- \n\n<corrupt:0xA1CF43><>\n\n[Meeting summary]\n-Facility put on lockdown until further notice.\n-Sawians confined to their cells until further notice.\n-Employees are forbidden from leaving the grounds until further notice.\n-Employee contracts extended indefinitely.\n-Carrying firearms made mandatory for Security personnel\n-Facility-wide thermal remediation procedures approved and pre-authorized.",
+            "Item1": "[OPERATIONS OVERSIGHT]\n[INCIDENT REPORT, CASE ID:YVLVH4EB]\n[EVIDENCE ITEM #54]\n<>\nI can't do it anymore.\nWhat we're doing is wrong. It's evil.\n\nI've been here since before the █████████ incident. It didn't use to be like this. They only hire psychopaths now, but I wasn't any better. I used the SAW specimens like everyone else. The progress we made was so easy it was intoxicating. I told myself that it was for the good of mankind, that they weren't like us.<>\n\nI was assigned a SAW-01 for long term testing on implants. I was cold at first, but to them it was the best part of their day. They never complained. It must've been a year. Talking during our checkups slowly became normal. I invented reasons to broaden the trials. I never even knew Experiments could smile until then. They weren't very smart, but they started to help me around my office.<>\n\nI worked with them for fourteen years. Then, they were taken from me. I'd already extended the research as far as I could. I tried, I really tried. I sat in my office, refreshing the SAW ledger over and over until it happened. Their ID's status switched to deceased. All the humanity I'd suppressed tore through me like a vengeful spirit and destroyed me.<>\n\nIn this EPDA you will find all the evidence necessary to take the company down.  \nI pray this works and it finds its way into the hands of the press.\n\nI am so sorry, Mason.\nSo so sorry...\n<>\n> UPDATE CASE STATUS: <>RESOLVED",
+            "Item2": ""
+        },
+        {
+            "Item1": "[SAW PROJECT MEMO]\n[DR. █████, 1-11,25XX]<>\n\nThe benefits of the Experiments cannot be understated, but they fall short in one very important metric.\nTheir permanently pubescent intelligence makes more advanced psychological trials difficult.<>\n\nSpecializing for this, I believe this SAW-03 will perform more admirably. Its fur is milky white and soft. Perhaps some cetacean influence is responsible for its intelligence, because it has fins projecting from its back. It is much more frail than its kin, but this should not pose an issue for their intended use.",
+            "Item2": ""
+        },
+        {
+            "Item1": "[SUBJECT] Those New SAWs\n[FROM] Head of Applied Ballistics, Dr. █████████\n[TO] Dr. ██████<>\n\nI swear, Dr. █████'s team is just trying to annoy me. They know how much I hate bugs! It's got to be on purpose. I asked for a sturdier specimen for our testing, and they made me these SAW-12s. They're sturdy alright. They're also impossible to control and incredibly stupid. I know it's impossible to influence the fine details of these things but surely they could've done better than this.<>\n\nThey do have one use, however. They're great at disposing of leftover body parts from our munitions testing.",
+            "Item2": ""
+        },
+        {
+            "Item1": "[SUBJECT] Accolades For You!\n[FROM] Head of Teleportation, ████████\n[TO] Eng. ████████<>\n\nWonderful idea using the public's waste for calibration testing! We're racking up some serious credit with Uncle Sam for that stunt. Not only that, it's an incredible way of disposing of our more... sensitive objects. We're killing two birds with one stone. Or two Experiments with one syringe, Eh?\n\nAs for the issue with the targeting. Who cares if it's strangely attracted to that planet? If that's where it wants to go, why should we argue? It's not like there's any environmental nutjobs to catch us up there.<>\n\nSpeaking of, keep a close eye on the waste. Operations Oversight caught some spy tech inside a bunch of depleted fuel rods of all things! Probably a competitor trying to learn about our teleporter tech, but still, can't risk our other interests getting out.",
+            "Item2": ""
+        },
+        {
+            "Item1": "[SUBJECT] Janitors?\n[FROM] Dr. ████████████\n[TO] Dr. ███████<>\n\nI've been thinking, where do they get all these janitors from? We're all top of our fields, the security personnel are all mercs or special forces, but what about the janitors? Is there some janitorial Olympics that qualifies you for this kind of security clearance?\n\nI'd ask, but it's not a good idea to seem nosy around here...",
+            "Item2": ""
+        },
+        {
+            "Item1": "[INTERCEPTED MESSAGE]\n\n[ORIGINAL SENDER: MICHAEL WATSON, ██████████████]\n[INTENDED RECIPIENT: KATE BARLOW]\n<>\nI've already told you about some of the other crazy things they've got me working on, but this one is sketchy as hell.\n\nYou know those health chips they recently unveiled? The ones that hook into your brain stem so you can check your blood pressure and shit? Well, they've got my team working on an attachment for them. It's something that'll let you interface with one wirelessly. Like, directly into someone's brain. I mean, who is this for? Convicts? The military?<>\n\nSo, we had to up the battery capacity, as well as add a wireless transceiver. But the thing is, when I was looking at the specs they gave us, the power budget was insane. If you pinpointed the transmission beam directly at the brain at max output, the radiation could kill you! I brought this up to the project lead, but she told me it wasn't an issue.<>\n\nThe weirdest thing is, I looked into some of the biotelemetry they gave us, and all the subjects they used were less than 5 feet tall. Are they testing these things on children or something? Seems to me that you could use this thing as some sort of remote kill switch. I knew this company did some shady stuff when I applied, but this is getting too weird for me.<>\n\nBut, maybe I'm just overthinking it. What do you think?\nStill, if a position opens up at your place, let me know.\n<>\n>>> FORWARDING INTERCEPTED MESSAGE >>>\n<>\nFROM: Lead Security Officer ████████████████\nTO: Department Head ███████████████<>\n\nThis does not constitute a full breach of security, and the issue's already been dealt with, but I'd like you to release a memo on properly sanitizing data intended to be sent to low clearance employees.",
+            "Item2": ""
+        },
+        {
+            "Item1": "[PROJECT MEMO: Braingrow]\n[Dr. ████████]<>\n\nBraingrow, one of the company's most successful products. The neurologists get all the credit, but it would've been impossible without the data. \n\nFunnily enough, to learn how to repair brain damage, we first had to become experts in creating it. The most straightforward technique was to deprive the subjects of oxygen in order to create a diffuse hypoxic injury. That got us most of the way there, but more localized injuries required some creativity.<>\n\nAt first we opted to introduce their frontal lobe to a hammer, but it was difficult to get consistent results. Engineering made us a hammer swinging rig that standardized our data, however the tissue injuries were irritating to deal with. We switched to the sound cannons they use at the pens for crowd control, but ended up with the first problem again. Not enough control.<>\n\nAfter much ingenuity, the team fine-tuned the weapon until it could disrupt blood vessels on an individual level, allowing us to create a stroke anywhere we wanted. The lesson is, anything is possible with the right testing fodder, and you if don't have it, you've just got to make it.",
+            "Item2": ""
+        },
+        {
+            "Item1": "aGV5LCBvcnNvbmlrcyBoZXJlLiBzdXNoaSBpcyBteSBmYXZvdXJpdGUgZm9vZCwgeW91IHNob3VsZCB0cnkgaXQgdG9vIQ==Subacute swelling at the injection site. Heart rate is 160 BPM. Blood pressure is 157/98. Significant pain response is noted. Subject is thrashing against its restraints. Swelling has progressed to an acute edema. Blisters are erupting from the dermis. Subject had to be gagged. Reaction spreading rapidly to entire thorax. The skin is splitting at injection site. Heart rate is 198 BPM. Color is flushing from red to black. Blisters have burst and are leaking a dark fluid. The rest of the body is developing bullae the size of my fist.  Heart rate is 219. Blood pressure is 71/40. Skin is entirely black and oozing fluids. Subject is now deceased, but reaction continues. Catastrophic cellular lysis and membrane failure. Subject is melting intoaSBob3BlIHlvdSdyZSBoYXZpbmcgYSBuaWNlIGRheSBkZWNvZGluZyB0aGVzZSA6KQ==",
+            "Item2": ""
+        },
+        {
+            "Item1": "[PROJECT MEMO: Insight into Religious Thinking]\n[Psychologist, Dr. ███████]<>\n\nIt is fascinating how the rational mind attempts to create sense where there is none. We put two SAW subjects into an isolated room. They were chosen at random, and at first they seemed relieved, but after the first day they began apologizing to the camera for things they first did, and then didn't do. Food was supplied at random intervals.\n\nThe rituals of apology and pleading that they invented to an assumed audience were intriguing. They seemed to genuinely believe it affected the outcome of a random system. The portions were intentionally insufficient; we were curious to see if they would turn on each other. This did not happen.<>\n\nOn the verge of starvation, the system happened to reward them twice in a row.  They assumed their prayers had been answered. With this conditioning, the next time they were starving, instead of succumbing, they repeatedly prayed until they physically collapsed and died.\n\nI would like to repeat this experiment with different group sizes, as well as with and without the camera.",
+            "Item2": ""
+        },
+        {
+            "Item1": "[PROJECT MEMO: \"A Day in the Life\"]\n[PAGE 1 OF 2]\n[ENTRY #1]<>\n\nI was given this device and told to keep a journal. I am not sure why, but it's not a good idea to disobey, so I will tell you about my life.\n\nIt feels weird to hold one of these \"EPDAs\" since I only see you carrying them.  It lights up my face and the others are curious. It's so dark that all we can see are the glows of each other's eyes. When the lights in our room go out, we're expected to sleep. If you're not in your nook when that happens you'll usually end up tripping over something, or someone too weak to move after that day's task. None of those tonight at least.\n\nThe others are complaining about the light from the screen. I'll continue this when the lights come back on.<>\n\n[ENTRY #2]\nMost of us wake up when the lights come on, but only the ones who are really hurt sleep through the food buzzer. We crowd around the chute and wait our turn. \nIt's usually nutrient bars, but sometimes we get something really tasty. Some of us get special meals just for them. The younger ones get jealous, but I've seen the meals do weird things. If someone tries to steal or switch meals, they get punished. Not a good idea.\n\nAnd there's the buzzer!<>\n\n[ENTRY #3]\nAfter our first meal, you come to pick us up. You call us out by number, and we have to go. Then you take us away. It's scary leaving our enclosure. I sometimes see other enclosures as I'm led away. I wish I could talk to them, but they can't hear or see me through the glass. I once saw one filled with others that looked just like us, but they all seemed... empty. It really scared me. I tried to ask why they were like that, but one of you hit me.<>\n\nFour were chosen today. I was left behind this time, maybe because I'm busy with this. They were all healthy, but that means it's more likely they come back hurt. Usually the tasks are harmless, but sometimes they're really bad. They can even be good if we're lucky. I had one where they'd pull me in every day and put something in my arm. It made me feel really, really good, but then it stopped and I felt like I was dying. I hope you give me more tests like that!<>",
+            "Item2": ""
+        },
+        {
+            "Item1": "[PROJECT MEMO: \"A Day in the Life\"]\n[PAGE 2 OF 2]\n[ENTRY #4]<>\nIt's quiet. In times like this, we mostly just rest, or help the ones who are hurt. We're given a few things to help us pass the time. Sometimes the younger ones fresh from the nursery actually look forward to being chosen. The older ones don't always tell them, but they learn eventually.\n\nIt can be a really anxious time if I'm friends with any of the ones that were taken. If anyone's gone for more than a few days, it's rare that they ever come back. Then the guards come in and take away their things. Sometimes they'll let us keep one or two items if they were your friend.<>\n\n[ENTRY #5]\nIt's dinner time, and I got meat!\nI thought the others were going to fight me for it. I had to eat it really fast. I wish I had more time to savor it, but after everyone's back, we spend time talking, playing, and sometimes singing. It's rare for someone to take us away after dinner, so we get comfortable. Some people talk about what tests they were taken in for, but most of us keep it to ourselves.<>\n\n[ENTRY #6]\nI sometimes wonder what days and nights are. There's things we learn from overhearing you, or the books you give us to read. I don't know why there's 24 hours in a day. I know there's an \"outside\" and apparently it's really big. The lights come on and off just like in here, but someone other than you controls it, plus the ceiling is so high up you can't see it. Some of the older ones tell me weird things they heard, but I don't know if I believe it.<>\n\n[Entry #7]\nshit\nmy hands are shaking its difficult to type\nthey announced extra tests tonight and my number was just called<>\n\ni will write more when i get ba<>\n[END]",
             "Item2": ""
         }
     ],
     "ieshchoodnazametka":["вы меня простите, но оригинальные шуточные фразы на паузе были (в большинстве своём) гавном, так что я вставил свои (с ориентиром на gunsaw). и всё же, часть оригинальных я оставил. коммент к пробел объявляет забастовку - основано на том, что у меня эта кнопка очень часто отваливается, пока я не затыкаю fn+windows несколько раз"],
     "pauseQuotes": [
-        "На паузе.",
-        "Игра на паузе. Серьёзно!",
-        "На паузе. Только зачем?",
-        "На паузе. Наверное.",
-        "На паузе. Снова.",
-        "Ты куда собрался?",
-        "Игра не на паузе. Шутка!",
-        "Тебе пора делать домашку по окружающему миру?",
-        "Так не интересно.",
-        "Как с точки зрения лора ты объяснишь ЭТО?",
-        "мы пытались связаться с вами по поводу продления страховки на ваш автомобиль",
-		"здравствуйте, вас беспокоит служба безопасности сбербанка",
-        "И... Время остановилось.",
-        "timescale 0",
-        "Захвати-ка мне сухариков.",
-        "Ты нажал на ESC. Мощно!",
-        "Как интересно. А теперь вернись к делу.",
-        "Ну, привет!",
-        "Эта фраза несёт в себе огромную смысловую нагрузку.",
-        "Твоё положение не такое уж и плохое.",
-        "Слишком громко?",
-        "ы",
-        "[ВВЕДИТЕ ТЕКСТ]",
-        "Так нечестно!",
-        "ДА ХВАТИТ НАЖИМАТЬ НА ESC РАДИ ЭТИХ ФРАЗ!",
-        "Попробуй динамит на вкус. Тебе понравится.",
-        "Испугался?",
-        "\"Скилл ишью?\"",
-        "Если хочешь, можешь выйти. Вон, тут, кнопка с черепом.",
-        "Здесь был Я.",
-        "На это было больно смотреть.",
-        "От тебя только такое и можно было ожидать.",
-        "Пытаешься отложить неминуемое?",
-        "Не расслабляйся",
-        "Надеюсь, это просто рефлекс на то, что только что произошло.",
-        "Тебе просто стало интересно, что я ещё могу сказать?",
-        "Я всё видел.",
-        "Ты нажал ESC. Достижение разблокировано: \"Трус\"",
-        "Прямо за тобой.",
-        "Ты же в курсе о налоге на паузу? Ладно. Шучу. Пока что.",
-        "Всмысле пауза? А налоги платить кто будет?",
-        "А ты знал, что если нажать CTRL+SHIFT+ALT+WINDOWS+ПРОБЕЛ, то ничего не произойдёт?",
-	    "Пожалуйста, переверните мышь для установки связи со вселенной",
-		"В целях экономии электричества левая половина экрана временно объявляет независимость.",
-		"Клавиша ESC была создана в 1970 году для того, чтобы ты это сейчас прочитал",
-		"Если ты нажмёшь ALT+F4, то получишь крутые ресурсы.",
-		"Жми ESC в любой непонятной ситуации!",
-		"А ты хорош! Но сможешь ли ты нажать ESC ещё быстрее?",
-		"Игра приостановлена по техническим шоколадкам.",
-		"Внимание: пиксели в правом нижнем углу ушли на обед.",
-		"Стратегия \"остановить всё и молиться\" принята к исполнению.",
-		"Клавиша \"Пробел\" объявляет забастовку."
+		"normal":[
+	        "На паузе.",
+    	    "Игра на паузе. Серьёзно!",
+        	"На паузе. Только зачем?",
+        	"На паузе. Наверное.",
+        	"На паузе. Снова.",
+        	"Ты куда собрался?",
+        	"Игра не на паузе. Шутка!",
+        	"Тебе пора делать домашку по окружающему миру?",
+        	"Так не интересно.",
+        	"Как с точки зрения лора ты объяснишь ЭТО?",
+        	"мы пытались связаться с вами по поводу продления страховки на ваш автомобиль",
+			"здравствуйте, вас беспокоит служба безопасности сбербанка",
+        	"И... Время остановилось.",
+        	"timescale 0",
+        	"Захвати-ка мне сухариков.",
+        	"Ты нажал на ESC. Мощно!",
+        	"Как интересно. А теперь вернись к делу.",
+        	"Ну, привет!",
+        	"Эта фраза несёт в себе огромную смысловую нагрузку.",
+        	"Твоё положение не такое уж и плохое.",
+        	"Слишком громко?",
+        	"ы",
+        	"[ВВЕДИТЕ ТЕКСТ]",
+        	"Так нечестно!",
+        	"ДА ХВАТИТ НАЖИМАТЬ НА ESC РАДИ ЭТИХ ФРАЗ!",
+        	"Попробуй динамит на вкус. Тебе понравится.",
+        	"Испугался?",
+        	"\"Скилл ишью?\"",
+        	"Если хочешь, можешь выйти. Вон, тут, кнопка с черепом.",
+        	"Здесь был Я.",
+        	"На это было больно смотреть.",
+        	"От тебя только такое и можно было ожидать.",
+        	"Пытаешься отложить неминуемое?",
+        	"Не расслабляйся",
+        	"Надеюсь, это просто рефлекс на то, что только что произошло.",
+        	"Тебе просто стало интересно, что я ещё могу сказать?",
+        	"Я всё видел.",
+        	"Ты нажал ESC. Достижение разблокировано: \"Трус\"",
+        	"Прямо за тобой.",
+        	"Ты же в курсе о налоге на паузу? Ладно. Шучу. Пока что.",
+       	    "Всмысле пауза? А налоги платить кто будет?",
+        	"А ты знал, что если нажать CTRL+SHIFT+ALT+WINDOWS+ПРОБЕЛ, то ничего не произойдёт?",
+	    	"Пожалуйста, переверните мышь для установки связи со вселенной",
+			"В целях экономии электричества левая половина экрана временно объявляет независимость.",
+			"Клавиша ESC была создана в 1970 году для того, чтобы ты это сейчас прочитал",
+			"Если ты нажмёшь ALT+F4, то получишь крутые ресурсы.",
+			"Жми ESC в любой непонятной ситуации!",
+			"А ты хорош! Но сможешь ли ты нажать ESC ещё быстрее?",
+			"Игра приостановлена по техническим шоколадкам.",
+			"Внимание: пиксели в правом нижнем углу ушли на обед.",
+			"Стратегия \"остановить всё и молиться\" принята к исполнению.",
+			"Клавиша \"Пробел\" объявляет забастовку."
+		],
+		"dying": [
+			"placeholder"
+		],
+		"happy": [
+		    "placeholderv2.0"
+	    ],
+	    "depressed": [
+            "плыйсхолдер"
+        ],
+        "<spoiler>": [
+            "чёблядь"
+        ],
+        "<spoiler2>": [
+            "чёблядь2"
+        ],
+        "combat": [
+            "плэйсхолдер!!!"
+        ],
+        "combatelder": [
+            "плэйсхолдер ааааа"
     ]
 }
