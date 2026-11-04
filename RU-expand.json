@@ -4,7 +4,7 @@
     "name": "Русский<color=\"green\">+</color> (0.5-pre-3)",
     "komar":"komarok сменил ник на vt-2",
     "description": "Неофициальный \"расширенный\" русификатор от <color=\"yellow\">CheBuRek8176</color> и <color=#ffbbbb>Strag (он же - Вояджер)</color>, включающий в себя дополненные описания, лор игры, новые реплики персонажей и неочевидные отсылки. В тестировании участвовали <color=\"orange\">Roketuss</color>, Nagi Seishiro <color=\"green\">Day1xt</color> и <color=#ff00ff>Vt-2</color>. Свой вклад внёс: <color=#6e00ff>bibas_x2 (Монь Ферр)</color>. Переводы могут содержать неточности, минимальное искажение изначального смысла, опечатки или устареть.<color=\"orange\">\n\nТекущая версия руссификатора: </color><color=\"yellow\">0.5-pre-3</color>\n<color=\"green\">Русификатор нацелен на версию игры 1.0-Pre3</color>\n\n<color=#ff00ff>К сожалению, некоторые шрифты, которые используются игрой, не дружат с кириллицей, поэтому в некоторых местах может встречаться корявое отображение текста.</color>\n\n<size=150%><color=#ff0000>РУСИФИКАТОР НЕСОВМЕСТИМ С 7-Й ВЕРСИЕЙ!!! СКАЧАЙ БОЛЕЕ СТАРУЮ ВЕРСИЮ НА ГИТХАБЕ!!!",
-	"version": "1.0-Pre3",
+	"version": "1.0-Pre13",
     "main": {
         "bandage": "Бинт",
         "bandagedsc": "Рулон ткани, используемый для замедления кровотечения, стабилизации переломов и заживления кожи. Не влияет на целостность мышц. Немного снижает боль.",
@@ -336,6 +336,20 @@
         "dustmaskdsc": "Небольшая маска, закрывающая рот. Обеспечивает незначительную защиту головы.",
         "scarf": "Шарф",
         "scarfdsc": "Красный, тёплый и пушистый длинный шарф, немного защищает от непогоды. <i>Создаёт ощущение, будто ты наёмник...</i>",
+		"mercscarf": "M.E.R.C. scarf",
+        "mercscarfdsc": "Provides immense power to the user via its implanted chips. It needs some kind of special power source, and a long while to charge... You need to make it out of this cave, with it, alive.",
+        "regenerationchip": "REL-Hyper-Regeneration Booster chip",
+        "regenerationchipdsc": "An advanced body chip that highly boosts the users injury regeneration abilities, in exchange for increased metabolism. You won't be able to make use of it until much later.",
+        "capacitorchip": "Micro-SINGLEBTR 1CHRG capacitor",
+        "capacitorchipdsc": "An advanced nano-battery that can store and discharge a monstrous amount of energy in a short timespan. You won't be able to make use of it until much later.",
+        "swapchip": "0.2.9-Mind-Swap chip",
+        "swapchipdsc": "A mysterious body chip that links with its host, allowing them to quickly move their consciousness onto the chip and then onto a new vessel shortly post-mortem. You won't be able to make use of it until much later.",
+        "rejuvenationchip": "0.0.7-Emergency Rejuvenation chip",
+        "rejuvenationchipdsc": "A crude enhancement to the mind-swap chip that allows the host to reform into a crude newly formed vessel using base DNA stored on the device and the biomass of whatever is left of the now dead host. You won't be able to make use of it until much later.",
+        "aichip": "MINI-AI chip",
+        "aichipdsc": "A relatively simple body chip that allows a simple AI system to communicate with the host and help them with certain tasks. You won't be able to make use of it until much later.",
+        "kineticchip": "Kinetic Transmitter chip",
+        "kineticchipdsc": "An experimental chip that creates a miniature spacetime distortion localized around two points, telekinetically pushing the host and the object in any chosen direction. You won't be able to make use of it until much later.",
         "gsref": "на всякий, это официальный референс на gunsaw, крутая игра кст. ъъъ [16.09.26 - балииина, я фулл прошёл всю игру на х-ранги]",
         "blueprint": "Чертёж",
         "blueprintdsc": "На нём записан рецепт какого-то предмета. К нему прикреплён какой-то электронный чип... Используй, чтобы изучить рецепт и получить опыт <color=\"green\">ИНТ</color>. После использования куда-то исчезает...",
@@ -568,6 +582,11 @@
         "keratinboosterdsc": "100-миллилитровая бутылочка, подписанная, как лекарство для лечения ногтей (в твоём случае - когтей). Дозировка - 50 мл за раз.",
         "drillrepairkit": "Комплект для ремонта бура",
         "drillrepairkitdsc": "Небольшой набор запасных частей, предназначенных для ремонта буровых установок. Ты можешь использовать его, чтобы привести установку в рабочее состояние.",
+        "highpowereddrillpod": "High-powered drill pod",
+        "highpowereddrillpoddsc": "State of the art pod for transporting people long distances through solid ground. You'll need to get some kind of strong power source to get it to work...",
+        "highpowereddrillpoddsc2": "State of the art pod for transporting people long distances through solid ground. It's time to wave goodbye to this place.",
+        "highpowereddrillpodbroken": "Broken pod",
+        "highpowereddrillpodbrokendsc": "You really pushed that thing way beyond safe operation range. Looks like you accidentally ran through something on the way too."
         "campfire": "Костёр",
         "campfiredsc": "Разожжённый костёр. Греет и делает это место более уютным. Часто используется для крафтов в качестве источника тепла - в основном для еды. Также, греет и обсушивает тебя. Увы, но забрать его с собой не получится - несложно догадаться почему.",
         "firestarter": "Трутница",
@@ -761,6 +780,8 @@
         "crystalmetamorphic": "метаморфический",
         "crystalhealing": "лечащий",
         "crystalshy": "скрывающийся",
+        "crystalproperty": "Has property: ",
+        "crystalproperties": "Has properties: ",
         "sandrose": "Песчаная роза",
         "sandrosedsc": "По странному прекрасное растение, с немного большими, продолговатыми отростками на ней.",
         "scrapeater": "\"Пожиратель\" металлолома",
@@ -847,6 +868,10 @@
         "grabberplantdsc": "Кажется, что он ощупывает окружающую среду своим кончиком, к которому лучше не подходить. А вот около основания относительно безопасно... пока он не поймёт, где ты.",
         "grabbershroom": "Хватогриб",
         "grabbershroomdsc": "Ты изо всех сил пытаешься понять, как гриб может это делать. Что делать с ним? То же, что и с хваторостом - оставить его в покое.",
+		"scientist": "Employee",
+        "scientistdsc": "One of the white coats.",
+        "guard": "Employee",
+        "guarddsc": "One of the blue coats.",
         "terminal": "Терминал",
         "terminaldsc": "Старый компьютерный терминал.\n\n<color=\"yellow\">Совет</color>: пропиши команду <color=#ffffff>help</color>, чтобы увидеть список команд.",
 		"macrofleshrebuilder": "Макро-восстановитель плоти",
@@ -1025,6 +1050,7 @@
         "impendingdoom": "Ощущение надвигающейся гибели",
         "horrified": "В УЖАСЕ",
         "focused": "СФОКУСИРОВАН",
+        "cargo": "Cargo embedded",
         "prosthesis": "Имеет протез",
         "loosescrews": "Ослабленные крепления",
         "bentprosthesis": "Погнутый протез",
@@ -1204,6 +1230,7 @@
         "horrifieddsc": "<color=\"red\">НЕ ТОРМОЗИ. НЕ ДУМАЙ. ЗАБУДЬ ПРО ОСТАЛЬНОЕ. БЕГИ, ЕСЛИ ЖИЗНЬ ТЕБЕ ДОРОГА, ИЛИ СРАЖАЙСЯ ЗА НЕЁ!",
         "focuseddsc": "<i>Оба из нас умрут сегодня. Просто один продержится чуть дольше другого.",
 		"focuseddscalt": "<i>Пришло время обрести свободу.",
+        "cargodsc": "The look is disturbing and the feeling is monstrously uncomfortable, yet you feel empowered...",
         "prosthesisdsc": "Ты присоединил протез. Естественно, протез не может кровоточить, болеть или быть инфицированным, но тебе стоит задуматься о сборе материалов для его починки... в будущем, когда он начнёт разваливаться, времени на это не будет.",
         "loosescrewsdsc": "Протез начинает разваливаться прямо на ходу, вызывая его дальнейшее повреждение банально от попыток двигаться. Это может быть вызвано тем, что в нём что-то застряло или его серьёзным повреждением.",
         "bentprosthesisdsc": "Твой протез был сильно погнут, что делает его почти бесполезным и неремонтопригодным. Воспользуйся гаечным ключом, чтобы вернуть ему форму.",
@@ -1236,6 +1263,14 @@
         "layermodifier8": "[ЗАРАЖЕНО НАСЕКОМЫМИ]",
         "layermodifier9": "[СБРОШЕНЫ ЯДЕРНЫЕ ОТХОДЫ]",
         "layermodifier10": "[СОЛНЕЧНАЯ ВСПЫШКА]",
+        "layermodifier11": "Turbulent",
+        "layermodifier12": "Shiny",
+        "layermodifier13": "Oxygenated",
+        "layermodifier14": "Sterile",
+        "layermodifier15": "Stable",
+        "layermodifier16": "Beautiful",
+        "layermodifier17": "Unsightly",
+        "layermodifier18": "Rich",
         "layermodifier0dsc": "Это место более туманно, чем казалось.",
         "layermodifier1dsc": "Воздух тут теплее, чем казалось.",
         "layermodifier2dsc": "Воздух тут значительно жарче, чем казалось!",
@@ -1247,6 +1282,14 @@
         "layermodifier8dsc": "Тут огромная активность насекомых.",
         "layermodifier9dsc": "Сюда были сброшены ядерные отходы в виде старых бочек.",
         "layermodifier10dsc": "Солнечная вспышка вывела из строя твой чип до конца этого слоя.",
+        "layermodifier11dsc": "Some unknown force is affecting the gravity here.",
+        "layermodifier12dsc": "Strange lights permeate the area.",
+        "layermodifier13dsc": "The air here feels unusually refreshing and energizing.",
+        "layermodifier14dsc": "An airborne microorganism makes infections rarer here.",
+        "layermodifier15dsc": "This area seems to have reduced seismic activity.",
+        "layermodifier16dsc": "Something about this place strikes you as beautiful.",
+        "layermodifier17dsc": "Something about this place makes you uneasy.",
+        "layermodifier18dsc": "The terrain here seems rich in various metals.",
         "genclearingworld": "Расчищаем игровое поле...",
         "geninstantiatingchunks": "Создаём новую область...",
         "genpreprocessing": "Корректируем цвета...",
@@ -1312,6 +1355,7 @@
         "mantle": "Мантия",
         "crimsongrass": "Багровая трава",
         "mush": "Гриб",
+        "indestructiblealloy": "Indestructible alloy",
         "lrdserum": "Сыворотка У.М.Р.",
         "lrdserumdsc": "Специальная смесь, используемая в Устройстве Местной Реанимации. Не оказывает никакого действия при введении другими инструментами. Как ни странно, воздействие на организм зависит от того, насколько хорошо было собрано У.М.Р.",
         "cleanwater": "Чистая вода",
@@ -1506,7 +1550,9 @@
         "dunetraderdsc": "Высокий, широкоплечий, внушительный, сильный, но тупоголовый. Испытывает немалые проблемы с речью, почти не использует местоимения, а построение предложений останавливается на уровне \"Я твой дом труба шатать!\" Вероятно, проблемы с интеллектом связаны с тем, что в своё время он был полностью изолирован от общества. У него есть странного вида плавники, расбросанные по всему телу, 6 шипов, торчащие сбоку от головы, и ужасающе большой рот с кучей крупных острых зубов. Похоже, что у него есть жабры. И вообще, во многом он напоминает \"рыбу-удильщика\", но без \"удочки\" и с шерстью песчаного цвета. Он не проявляет агрессию, но в основном им руководят животные инстинкты, так что его не будут волновать разные мелочи. Тебе стоит придумать хороший способ, чтобы расположить его к себе. Учитывай, что он является <color=\"red\">каннибалом</color>, не любит обнимашки, а для укрепления доверия и значительного снижения цен ты можешь дать ему откусить от тебя кусок плоти... главное, не давай ему сожрать тебя заживо полностью. Как правило, имеет в своём инвентаре много хлама и мало полезного. <i>Как правило, люди используют его, как \"пылесос для трупов\"...",
         "clicktocontinue": "Нажми (ЛКМ), чтобы продолжить...\nИли (ESC), чтобы пропустить",
 		"clicktocontinuealt": "Click to continue...",
+        "favourite": "Favourite item",
         "favouriteditem": "Избранные предметы будут выделены и не будут использоваться в крафте",
+        "customizeitem": "Customize item",
         "mainhand": "Основная рука",
         "secondaryhand": "Вторая рука",
         "mouth": "Рот",
@@ -1540,7 +1586,7 @@
         "char1quirks": "[НАРКОЛЕПТИК] - Твой цикл сна/бодрствания намного короче нормального, однако твою спину не будет волновать поверхность сна.\n[НИЗКИЙ_РОСТ] - Ты совсем небольшой!\n[НОЧНОЕ_ЗРЕНИЕ] - Ты видишь в темноте намного лучше, а источники света светят дальше.\n[ПОЛУТРАВОЯДНОЕ] - Тебе тяжелее переваривать мясо - оно будет давать тошноту, а также не так эффективно насыщать.\n[СЛАБАК] - Ты зарабатываешь в 2 раза меньше опыта <color=\"green\">СИЛ</color>.\n[СТРЕЛОК] - Ты можешь использовать кнопки на клавиатуре для взаимодействия с огнестрелом.\n[СТАЛЬНЫЕ_НЕРВЫ] - Тебя не так легко сломить. В смысле, на ментальном уровне. Тебе не особо нравится с кем-либо обниматься, если тебе это не настолько необходимо.\n[СОБАКООБРАЗНОЕ] - Твой живот вряд ли подружится с теобромином и кофеином.",
         "char2name": "[SAW-12] \"Дюна\"",
         "char2desc": "[СЕМЕЙСТВО] \"Насекомоподобное\"\n[ПОСЛ._ЗАП._ЦИТАТА] \"Хрррн... Дю-на время ити..?\"\n[ПРИБЛ._ШАНС_УСПЕХА] \"0.001%\"\n[ПРИМЕЧАНИЕ] \"Фуу! Ну и слюнявчик!\"",
-        "char2quirks": "<spoiler>",
+        "char2quirks": "[AQUATIC] - You can breathe underwater and like sleeping there.\n[FURLESS] - The lack of fur leaves you vulnerable to the ambient temperature. You dry off a lot faster. Groundwater and other liquids will stabilize your body temperature.\n[CANNIBAL] - You can eat raw meat and destroy corpses with no repercussions. You are generally immune to food poisoning.\n[CARNIVORE] - Eating fruit will cause you to vomit it right back out.\n[MUSCLE_FOR_BRAINS] - You don't <i>do</i> thinking. All INT gain is halved.\n[UNFEELING] - Mood is dampened by one third. You can't hug or haggle. You don't find killing people a significant event.\n[CHITINOUS] - Chitinous growths make you resilient to physical trauma.",
         "characterunlock": "[ДОСТУП_ОТКЛОНЁН]",
         "characterunlockdsc": "Заверши забег с предыдущим персонажем для разблокировки",
         "presetnormal": "Стандарт",
@@ -1608,6 +1654,8 @@
         "runsetforcesleepdsc": "Отключится ли твой персонаж при падении энергии до нуля.",
         "runsetbraindamagefx": "Эффекты от повреждения мозга",
         "runsetbraindamagefxdsc": "Будет ли тебя \"накрывать лоботомией\" при повреждении мозга.",
+        "runsetcrushdepth": "Crush depth damage",
+        "runsetcrushdepthdsc": "Determines if you eventually start taking damage below crush depth",
         "runsetlowmoodevents": "Включить события при низк. настроении",
         "runsetlowmoodeventsdsc": "Будет ли персонаж совершать особые действия при критически низком настроении. КРАЙНЕ РЕКОМЕНДУЕТСЯ выключить, если ты психически не можешь выдержать эти \"особые действия\" (ты также можешь их заменить на рвоту в настройках игры).",
         "runsetliquidpushing": "Включить течение жидкостей",
@@ -1726,6 +1774,13 @@
         "gamesetskipintrodsc": "<i>Потому что ты видел её так много раз...",
         "gamesetrpc": "Discord Rich Presence",
         "gamesetrpcdsc": "Активирует Discord Rich Presence. Позволяет отображать в твоём профиле, что ты занят исследованием пещер.",
+        "gamesethidemenuprogression": "Hide menu progression",
+        "gamesethidemenuprogressiondsc": "If on, disable special trinkets that appear in the main menu as you complete certain endings. Use if you want to avoid spoiling someone",
+        "gamesetunits": "Measurement units",
+        "gamesetunitsdsc": "What units to display distance/temperature/weight as",
+        "gamesetunitsmetric": "Metric",
+        "gamesetunitsimperial": "Imperial",
+        "gamesetunitsburger": "Cheeseburger",
         "gamesetmastervolume": "Общая громкость",
         "gamesetmastervolumedsc": "Общая громкость включает в себя громкость музыки и всех звуков.",
         "gamesetmusicvolume": "Громкость обычной музыки",
@@ -1753,6 +1808,7 @@
         "gamesetwoundview": "Перекл. панель здоровья",
         "gamesetcraft": "Перекл. меню крафта",
         "gamesetfavourite": "Сделать предм. избранным",
+        "gamesetcustomizeitem": "Customize item",
         "gamesettoggleinventory": "Перекл. инвентарь",
         "gamesetspeed1": "Скорость x1",
         "gamesetspeed2": "Скорость x5",
@@ -2056,11 +2112,12 @@
         "alertprosthesisarm": "Ни одна из твоих рук не ампутированна полностью! Попробуй отрезать остатки от руки.",
         "alertprosthesisleg": "Ни одна из твоих ног не ампутированна полностью! Попробуй отрезать остатки от ноги.",
         "alertprosthesisfail": "Тебе не удалось прикрепить протез (Попытка с <color=\"green\">ИНТ</color> ниже <>-го ур. может провалиться).",
-        "alertnanotechsuccess": "<spoiler>",
-        "alertnanotechfail": "<spoiler>",
-        "alertnanotechrepeat": "<spoiler>",
+        "alertnanotechsuccess": "<color=\"green\">You came up with a new recipe...",
+        "alertnanotechfail": "<color=\"red\">The writing is incomprehensible...\nMaybe try another time?",
+        "alertnanotechrepeat": "You already read this. Keep the scanner on you and watch for any signals.",
         "nanotechdepth": "Обнаружены признаки НАНО-ТЕХНИКИ на этой глубине!",
-        "nanotechdepthinitial": "Обнаружены признаки НАНО-ТЕХНИКИ в этой области...",
+        "nanotechdepthinitialleft": "NANO-TECH Signature detected in this area, to the left...",
+        "nanotechdepthinitialright": "NANO-TECH Signature detected in this area, to the right...",
         "resetkeybinds": "Сбросить управление по умолчанию",
         "reloadbinds": "Перезагрузить назначение клавиш",
         "insertsample": "Вставить образец",
@@ -2138,15 +2195,17 @@
         "endscreenstatus": "ОТЧЁТ О СТАТУСЕ МИС-ГРУЗ",
         "endscreenunresolved": "ПРОВАЛ",
         "endscreenresolved": "УСПЕХ",
+        "endscreenescape": "MORE INFO AT MEETING",
         "endscreenfailure": "КАТАСТРОФИЧЕСКИЙ ПРОВАЛ",
         "endscreencasualties": "ПОТЕРЯННЫХ:",
         "endscreenunknown": "НЕИЗВЕСТНО",
+		"endscreenmerc": "UNKNOWN - POTENTIAL ISSUE",
         "endscreenphysical": "ФИЗИЧЕСКОЕ СОСТОЯНИЕ:",
         "endscreendeceased": "ПОГИБ",
         "endscreenexamination": "ЖИВ, НА ОСМОТРЕ",
         "endscreenmental": "ПОСЛЕДНЕЕ ЗАРЕГ. ПСИХ. СОСТ.:",
         "endscreendepth": "ДОСТИГНУТА ГЛУБИНА:",
-        "endscreendepthres": " М. ЗА ",
+        "endscreendepthres": " ЗА ",
         "endscreentime": "ЗАТР. ВРЕМЕНИ:",
         "endscreencalories": "КАЛОРИЙ ЗАТРАЧЕНО:",
         "endscreenmainmenu": "ВЕРНУТЬСЯ В ГЛ. МЕНЮ",
@@ -2341,6 +2400,8 @@
         "tutcraft4": "Твоим заданием будет создание определённых предметов из выданных материалов.",
         "tutcraft5": "Ты уже знаешь о самом базовом крафте. Сделай сумку из листвы из соответствующих материалов. Нажми на кнопку сброса, если ошибёшься.",
         "tutcraft6": "Что-ж, первые шаги сделаны. И весьма неплохо. Получение контейнера должно всегда быть твоей первой целью.",
+        "tutcraft6a": "You can label items for organizational purposes. Press [N] on the bag you made, and color it green (the third swatch from the left).",
+        "tutcraft6b": "Nice. You can also rename the item here. Close this menu when you're done.",
         "tutcraft7": "Довольно важным является то, что ты можешь использовать для крафта не только предметы из инвентаря, но и выброшенные предметы рядом с тобой. Гавкни на меня с помощью (B), как переваришь всю информацию.",
         "tutcraft8": "Давай попробуем ещё раз из тех же ресурсов. На этот раз сделай полноценный бинт. Заметь, что если ты перетащишь предмет на кнопку крафта, то ты увидишь, в каких рецептах он используется.",
         "tutcraft9": "Неплохо. Бинты и повязки не очень сложны в крафте, при этом крайне важны в выживании. Они должны стать твоим приоритетом после получения контейнера.",
@@ -2384,11 +2445,38 @@
         "tutclosehealthpanel": "Закрой панель здоровья.",
         "tutopenhealthpanel": "Открой панель здоровья.",
         "tutnice": "Отлично.",
+        "endsc1": "...Greetings, #<>. We see you have succesfully retrieved th-",
+        "endsc2": "Huh..? Uhm, #<>, please explain. Why is the objective...lodged inside of your abdomen?",
+        "endsc3": "...Okay. Well...that does change our plans slightly, but...either way.",
+        "endsc4": "Your achievement is highly impressive and we will study you further. Here's what's going to happen...",
+        "endsc5": "To ease your concerns upfront, you will get to live. However, we must first examine your body and mental state. You will be free to roam around the facility after and you will not be subject to our usual testing procedures.",
+        "endsc6": "We may discuss additional benefits later down the line...",
+        "endsc7": "...And, as for the objective...this must be looked into further. It will have to be removed from your body, one way or another.",
+        "endsc8": "Now...do you have any questions? We would like to continue as soon as possible.",
+        "endsc9": "...Very well. First, your body must go under close examination. Please proceed through the door to your right.",
+        "endsc10": "What's the hold up? Please proceed through the door to your right.",
+        "endsc11": "The door behind you. Go through it.",
+        "endsc12": "We don't have all day. Come on. Door to your right.",
+        "endsc13": "Ugh. Why do I always get the stubborn ones..?",
+        "escapealert": "Attention all site personnel. A type W-2 incident has occured. All security personnel is to arm. Please remain calm while the situation is resolved.",
+        "cargosurgery1": "Hurry. I need to inject that anesthetic into my abdomen.",
+        "cargosurgery2": "Guards are coming. I need to use that big surgical device.",
+        "cargosurgery3": "I need to put these clamps into the marked spots.",
+        "cargosurgery4": "I need to pull the cargo out of body.",
+        "cargosurgery5": "I need to put these tubes over the wound.",
+        "cargosurgery6": "I need to go.",
+        "endsctip": "Get your shit together. I need to murder him. Now.",
 		"outdatedwarning": "<size=200%>Внимание!<size=100%>\nТекущая версия русификатора (0.5-pre-3) несовместима с текущей версией игры! Вероятен отсутствующий текст переводов и сломанное отображение текста (типа \"itemnamedsc\").\nПроверь репозиторий <color=\"yellow\">CheBuRek8176</color> или страницу на Nexus Mods - там наверняка уже лежит крупное обновление!",//о да, намекать на нексус, которого нету, моя супер-способность
-        "surfacebreachnote": "<spoiler>",
-        "labenternote": "<spoiler>",
-        "biopodnote": "<spoiler>",
-		"biopodnotealt": "<spoiler>",
+        "surfacebreachnote": "As you breach through the final few layers of gravel and rock that separate you from the wide open air, a blinding light unveils itself through the cracks.<>\n\nYou've travelled through hell and back, surpassed thousands of, what are now corpses, and have become the first and only one to complete your assigned objective.<>\n\nYou step foot on the cold gravel. Buildings, mountains and various groups of people appear in the horizon. You have breached the surface.",
+        "labenternote": "Soon after, you see a flash in the sky accompanied by an unrecognizable loud beeping.<>\n\nA few minutes pass while you appreciate your newfound surroundings, before some kind of pod loudly crashes into the ground a short distance away.<>\n\nWhile you've seen hundreds of lifepods during your journey, this one looks nothing like the ones before. You figure this one is meant for you.<>\n\nA significant part of you wants to rebel and run far, far away, however...<>\nIt feels as if with every moment you spend in the sunlight, the object lodged in your abdomen wriggles around painfully and vibrates with progressively higher force.<>\n\nFearing the likely catastrophic failure of the hearts structural integrity approaching at a rapid pace, you board the lifepod with a defeated look on you.\nSoon after you do, you are thrown to the floor by a sudden jolt. The pod is ascending.<>\n\nWhile you don't know where you're going, you are slightly reassured by the fact that whoever sent this vessel down probably does. You decide to hunker down and make yourself comfortable while you wait.<>\n\nSuddenly, a bright flash overwhelms your vision. You feel an indescribable physical sensation shooting through you - the very same one you felt when first arriving here.\n\nAfter it dies down, you look outside the pod to find yourself surrounded by a hazy, blue sky above what appears to be a green forest with some kind of huge facility in the midst of it.<>\n\nThe vessel slowly descends into some kind of hatch inside of said facility. Soon, the pod locks in place, the steel door opens, revealing the sight of...",
+        "biopodnote": "Trying to rebel against your captors with an explosive chip in your head is equivalent to suicide. The weird object lodged in your torso also seems dangerous to keep inside you for too long. With no better options at your disposal, you follow the orders given to you.<>\n\nYou are soon escorted by a group of armed guards into a room with a large capsule filled with fluid. You have seen some of your kind inside of these before. You know what that entails.<>\n\nYou have completed your objective, yet it only brought you back to this prison. Simply used as a pawn by the corporation. You are at least comforted by the fact that, since the mission is now complete, no more unaware souls will be sent to their deaths in the caves.<>\n\nThis thought calms you as you reluctantly give up all the gadgets that you've found on your journey and prepare to enter the bio-pod. The cargo seems to be stabilizing...<>\n\nAs you slowly submerge in the liquid, with various tubes and wires now attached to your body, you think about what the scientist said. At least you'll live a better life here. More privilege, more freedom, better food, no risk of being hurt by the various tests conducted here... A faint smile appears on you as your consciousness fades into a deep sleep.",
+        "biopodnotealt": "You are quickly taken away, restrained, stripped of your gear and resuscitated to avoid any more signifcant damage to the brain and the rest of your body.\n\nSome time later, you are escorted by a group of armed guards into a room with a large capsule filled with fluid. You have seen some of your kind inside of these before. You know what that entails.<>\n\nYou have completed your objective, yet it only brought you back to this prison. Simply used as a pawn by the corporation. You are at least comforted by the fact that, since the mission is now complete, no more unaware souls will be sent to their deaths in the caves.<>\n\nThis thought calms you as you prepare to enter the bio-pod. The cargo seems to be stabilizing...<>\n\nAs you slowly submerge in the liquid, with various tubes and wires now attached to your body, you think about what the scientist said. At least you'll live a better life here. More privilege, more freedom, better food, no risk of being hurt by the various tests conducted here... A faint smile appears on you as your consciousness fades into a deep sleep.",
+        "biopodnotealt2": "You are quickly restrained, taken away, stripped of everything and resuscitated to avoid any more signifcant damage to the brain and the rest of your body.\n\nA significant amount of time later, you are moved by a group of armed guards into a room with a large capsule filled with fluid. You have seen some of your kind inside of these before. You know what that entails.<>\n\nYou tried so hard to get out of this prison, yet it brought you nowhere. A meaningless attempt. You are at least comforted by the fact that, since the mission is now complete, no more unaware souls will be sent to their deaths in the caves.<>\n\nThis thought calms you as you prepare to enter the bio-pod.<>\n\nAs you slowly submerge in the liquid, with various tubes and wires now attached to your body, you think about your failure. So close to tasting freedom, to getting the ultimate revenge on your captors... And yet, it fell flat. If only you tried a little harder... A frown appears on you as your consciousness fades into a deep sleep.",
+        "escapenote1": "A bright shine radiates from the end of the corridor. You hear what sounds like wind blowing outside.\n<>\nThis is the end of the road. You have denied your captors with a skill and stubbornness no other being ever has.\n<>\nHurt, exhausted, yet determined, you walk into the light.",
+        "escapenote2": "...So, that's what they were hiding from you all this time.\n<>\nWhile you admire the beauty of your newfound surroundings, the loud sounds coming from where you just came out of remind you that you still need to move.\nWithout much choice, you run into what looks like a field of tall, green plants with large brown stalks.\n<>\nYou run.<>\nYou keep running.<>\nYou run far, far away, until your legs give out.\n<>\n...\n<>\nSilence. Nothing but what sounds like chirping and the sound of blowing wind. You can't even see the buildings on the horizon anymore.\n<>\n...\n<>\nYou have achieved your freedom.",
+        "mercnote1": "You breach through the final few layers of gravel and rock that separate you from the wide open air.<>\n\nYou've travelled through hell and back, surpassed thousands of, what are now corpses, and have become the first one to complete your assigned objective...\n...And yet, you feel like this is only the start of something greater.<>\n\nYou step foot on the cold gravel. Buildings, mountains and various groups of people appear in the horizon. You have breached the surface.",
+        "mercnote2": "Suddenly, you see a flash in the sky accompanied by an unrecognizable loud beeping.<>\n\nA few minutes pass while you appreciate your newfound surroundings, before some kind of pod loudly crashes into the ground a short distance away.<>\n\nWhile you've seen hundreds of lifepods during your journey, this one looks nothing like the ones before. You figure this one is meant for you...\n...But, you refuse to board it. Not after what they've done to you and so, so many others.<>\n\nThe captors must pay. The captors must die. You will not become another one of their pawns to be used for whatever deeds they want done. You're not coming back wherever they are until you can absolutely ruin everything they've built up over all these years.<>\n\nA bright hatred burns inside of you. They will not get away with any of this. To hell with their pod, to hell with their mission, to hell with whatever they want you to do.<>\n\nSo you stay.<>\n\n...<>\n\nYou've noticed the cargo inside of you has begun wriggling erratically ever since you came out into the sunlight.\nYou hesitate. Something is clearly up with the object lodged in your body, and it's getting worse by the minute. You fear something bad will happen if you just stay out here...<>\n\n...But you can't go back.\n\nYour scarf. You recall one of the body chips you found on the way had something about \"rejuvenation\" written on it. Maybe you'll be fine?<>\n\n...<>\n\nIt hurts. It hurts so much. Something is horribly wrong with the cargo. Your chest feels like it's burning. Your entire body feels like it's being electrocuted. You can't even stand up straight anymore. It hurts.\n\nThe pod's beeping gets louder. You realize, if you don't crawl your way onto it soon, you will die. Your mind starts racing. Do you really want to potentially throw away your life over some petty revenge?<>\n\nBut you can't move. The pain is too much. It hurts. It hurts. It hurts. It hu ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████",
+        "mercnote3": "...<>\n\n...<>\n\n..?<>\n\nWhat..?<>\n\nWhere am I..?\n\nWhy...<>\n\nIt hurts...<>\n\n...<>\n\nWhat happened...?<>\n\nThis scarf... I...<>\n\n...<>\n\n...I remember.<>\n\n...I know what needs to be done.",
         "startlorenote": "Год 25XX \n<>\nЧеловечество достигло значительного технологического прогресса. То, что казалось невозможным ранее, стало совершенно обыденным.\n<>\nВ центре всего этого стояла одна компания. Их успехи кажутся невероятными, но свои деяния они держат в строжайшем секрете.\n<>\nНесколькими годами ранее они создали новый биологический вид: существо, комбинирующее ДНК человека и животных, которое было названо \"Экспериментом.\"\n<>\nЭти Эксперименты стали идеальным расходником для тестирования, достаточно близким к людям, но и достаточно отличающихся от них. Учёные долго бились над ними, издеваясь над их биологическими чертами, чтобы они подходили под нужды компании, и спустя долгое время, численность этих существ достигла значительных размеров.\n\nНикто из Экспериментов даже не покидал территорию лаборатории и не видел внешний мир.\n<>\nТеперь же, учёные перевели свой взгляд с Земли. Вместе с недавно ими изобретённой технологией телепортации, они нацелились на \"Серую Планету\" с процветающей жизнью.\n<>\nВскоре, тонны различного хлама и мусора было отправлено туда.\n<>\nИз-за проблем с настройкой калибровки огромная часть груза навеки осталась либо на поверхности, либо в глубине пещерной системы Планеты, но даже так проект медленно двигался вперёд.\n<>\nИ так было, пока учёные не допустили критическую ошибку. Одна неверно поставленная запятая, и крайне важная для компании научная технология застряла на глубине нескольких километров, без возможности легко вернуть её обратно. Создать ещё одну точно такую же технологию было почти невозможно и крайне дорого.\n<>\nНаконец, у учёных созрел план. План с небольшим риском для них самих.\n<>\nШансы на успех были малы, но пушечного мяса у них было в избытке.\n<>\nТы - один из невезучих Экспериментов.\nСопротивление бесполезно.",
         "jsonthing": "помогите, меня (чебурека) держит рокетусс в заложниках и требует пельмени (шутка, я просто задолжал 3 пачки пельменей «красная цена»(или не шутка?))",
 
@@ -4932,6 +5020,21 @@
                 "The... Objective... Should be somewhere in here... No more messing around. Let's go.",
                 "I made it... I made it..? Hmmh... It should be somewhere around here... Let's get this over with."
             ],
+			"cargo1": [
+                "I... I think this... Is... it..?"
+            ],
+            "cargo2": [
+                "That... Is not a batt....wh... W-what's it... Doing..?"
+            ],
+            "cargoimpale": [
+                "AAAGHH! WHAT THE HELL!? WHY?"
+            ],
+            "cargoimpale2": [
+                "H-hmm... Well... I... I do feel... Empowered by this..? I feel... L-lighter."
+            ],
+            "cargoimpale3": [
+                "I... I r-really did it... Well... I'll... Let's not get too confident... I think I can use that pod to return. Let's get to the surface."
+            ],
 			"endlessloop0": [
                 "...Ччч-ч...Чего..? Что? Какого? Что только что... Какого хрена я снова здесь..? Хнн... Что только что произошло..."
             ], 
@@ -4939,13 +5042,63 @@
                 "...Дела идут далеко не так, как я надеялся... Я без понятия, что мне ещё делать... Что-ж. Э-э-э. В третий раз вниз, мда..?"
             ],
             "endlessloop2": [
-                "<spoiler>"
+                "UUUGGGHHHHH!! WHAT AM I SUPPOSED TO BE DOING!? Damn this... To hell with that heart... Grrrhh...I need to go down to survive anyway. What a shitshow."
             ], 
             "endlessloop3": [
                 "Я вас понял! Раз я отсюда не выберусь... что-ж... Мне нужно привыкать к этому."
             ],
             "endlessloopdefault": [
                 "Ох, и снова, снова... я попал обратно наверх..."
+            ],
+			"endpodexamine": [
+                "C-cargo... First..."
+            ],
+            "ascententer": [
+                "Looks like thats as far as it'll go... The only way's up. Let's go."
+            ],
+            "labenter": [
+                "(I'll comply for now... Trying to go against them would get me killed. Maybe I'll find an opportunity...)"
+            ],
+            "labresponse": [
+                "(...Like hell I'm talking to them. Not after...that.)"
+            ],
+            "labthink1": [
+                "(This is the moment... If... If I had a gun, or something...)"
+            ],
+            "labthink2": [
+                "(I could... Kill him. Shoot that thing on the ceiling... Go through that grate. Escape..?)"
+            ],
+            "labthink2chip": [
+                "(I could... No. I can't. They'd kill me with the chip. Damn it.)"
+            ],
+            "labshoot": [
+                "NNGGRRAAAAHHHH!! FUCK YOU!!! I'M NOT TAKING ANY MORE OF YOUR SHIT!!!"
+            ],
+            "labcommentcalm": [
+                "Nghh... Grrh... They'll pay...",
+                "They'll pay for this...",
+                "Sufffer...the consequences...",
+                "So done. With. This. SHIT!",
+                "Go to hell. Go to hell. All of you...",
+                "It's the end.",
+                "Fuckers. Fuckers. Fuckers. Dipshits.",
+                "No one will care when they go missing.",
+                "(Nothing can stop me.)",
+                "Win stupid fucking prizes..."
+            ],
+            "labcommentcombat": [
+                "FUCK YOU!! FUCK YOU!!!! FUCK ALL OF YOU!!!!",
+                "I'LL WATCH THE LIFE DRAIN OUT OF YOUR EYES!!!",
+                "TO HELL WITH YOU!!!",
+                "NO MORE OF THIS SHIT!!",
+                "I'M DONE WITH THESE GAMES!!",
+                "GRRRAAHHHHH!!",
+                "WHO DO YOU THINK YOU FUCKING ARE!?",
+                "NO ONE WILL REMEMBER YOU!!",
+                "YOU'LL ALL PAY FOR WHAT YOU'VE DONE!!",
+                "I'M NOT GOING DOWN!!",
+                "YOU COATED FUCKS!!",
+                "GO TO HELL!!!!"
             ],
             "vomitresponse": [
                 "Ээээ-эммм... С тобой точно всё хорошо..?",
@@ -5774,7 +5927,25 @@
                 	"Ой, а, что, почему, ЗА ЧТО!? ОСТАНОВИ ЭТО! Я НИЧЕМ НЕ ЗАСЛУЖИЛ ТАКОГО! БЕЗДАРНЫЙ ТЫ УБЛЮДОК!",
                 	"О, что-то пищит. Интересно, что это значит?"
             ],
-	    "endlessloop0": [
+			"wwmr": [
+                "All according to plan. It appears the objective is within reach. I must focus."
+            ],
+            "cargo1": [
+                "...Odd."
+            ],
+            "cargo2": [
+                "At long last, I have... H-H... What..?"
+            ],
+            "cargoimpale": [
+                "T-this... Was... Not in my... L-list of expectations..."
+            ],
+            "cargoimpale2": [
+                "Ghh... I-it is... Really... Lodged inside... Yet... It is relieving..."
+            ],
+            "cargoimpale3": [
+                "Hh. Focus. Very well. It is only logical that this was an intended part of the plan. I shall proceed into this drill pod and head upwards."
+            ],
+	        "endlessloop0": [
                 "...Хм. Хмммм... Мммхххмммхх... Хххммм... Ла-адно. Это... Н-не то. Что я. О-ожидал. Наверняка я что-то где-то запорол. Мне с-стоит вернуться и сделать по-нормальному."
             ],
             "endlessloop1": [
@@ -5788,6 +5959,53 @@
             ],
             "endlessloopdefault": [
                 "......*вздыхает*"
+            ],
+			"endpodexamine": [
+                "It is unpowered. I likely would be able to start it with medium effort."
+            ],
+            "ascententer": [
+                "The pod has ceased to function. It is time to ascend on foot. There is little distance left."
+            ],
+            "labenter": [
+                "(I feel strong resentment for the coats... Yet, I cannot act now. I must continue with a level head.)"
+            ],
+            "labresponse": [
+                "(...Huh. That was NOT part of their plan?)"
+            ],
+            "labthink1": [
+                "(The time is now. They will not see it coming.)"
+            ],
+            "labthink2": [
+                "(Shoot the coat. Shoot the turret. Go through grate. It will be difficult, but I cannot let myself comply with these monsters.)"
+            ],
+            "labthink2chip": [
+                "(Shoot the......No. This chip will not allow me to go against them. I have failed. To them, I have succeeded.)"
+            ],
+            "labshoot": [
+                "TO HELL WITH YOU!!! YOU WILL PAY FOR WHAT YOU'VE DONE!!!"
+            ],
+            "labcommentcalm": [
+                "They will...pay...",
+                "No more games.",
+                "Go hell with everyone involved...",
+                "..Grrhh...",
+                "(I'm taking my freedom.)",
+                "They all deserve this.",
+                "(I'm scared.)",
+                "Ggh...dipshits...",
+                "(No one will miss them when they're gone.)"
+            ],
+            "labcommentcombat": [
+                "NNGRRAAHHH! DIE!",
+                "TO HELL WITH ALL OF YOU!!!",
+                "YOU'RE GOING DOWN WITH ME!!",
+                "YOU'VE GOTTEN AWAY WITH THIS FOR TOO LONG!!",
+                "CALL FOR BACKUP!! I DARE YOU!!",
+                "I WILL FUCKING DEVOUR YOU!!",
+                "DIE!!",
+                "SCREAM FOR HELP!!! COME ON!!",
+                "YOU THINK YOU CAN STOP ME!?",
+                "YOUR TIME HAS COME!!"
             ],
             "tradermeetnormal": [
                 "Приветствую.",
@@ -6571,6 +6789,24 @@
             "selfdestruct": [
                 "Ооооррхнн! Дю-на новый звуг? Хооохх..."
             ],
+			"wwmr": [
+                "Hooohh... Pla-ce... Glo-wy... Du-ne clo-se..?"
+            ],
+            "cargo1": [
+                "Du-ne see... Thin-g..."
+            ],
+            "cargo2": [
+                "Foo-d...? Hhoooohhhh....hhhooh..?"
+            ],
+            "cargoimpale": [
+                "GGRRRAAAAAHHHHHHHHHCCNNNKKKK!!!!! GGRRHHHAAAAGGHHHH!!!"
+            ],
+            "cargoimpale2": [
+                "GGHHHRRAAaaaahhh....hhnnnh...nnnh...n..?"
+            ],
+            "cargoimpale3": [
+                "Hhr...n..mmm...du-ne can lea-ve..."
+            ],
             "endlessloop0": [
                 "...Мммргхнннн... Нггхх......сно-ва?"
             ],
@@ -6585,6 +6821,45 @@
             ],
             "endlessloopdefault": [
                 "Нрррг! Уии-иии! Дю-на пабидить!"
+            ],
+			"endpodexamine": [
+                "Lea-ve ti-me?"
+            ],
+            "ascententer": [
+                "Oooo! Re-d..."
+            ],
+            "labenter": [
+                "(Du-ne back ho-me... Du-ne care-ful...)"
+            ],
+            "labresponse": [
+                "No-t kno-w."
+            ],
+            "labthink1": [
+                "(Hungry...)"
+            ],
+            "labthink2": [
+                "(Du-ne see food. Du-ne get. Du-ne lea-ve.)"
+            ],
+            "labthink2chip": [
+                "(Du-ne not get food. Du-ne sad.)"
+            ],
+            "labshoot": [
+                "NNNGGGRRRAAUUUGHHH!!!!! NGGRRRAAHHHGHHH!!! GRRRRAAAAAAAAAAHHHHHH!!!"
+            ],
+            "labcommentcalm": [
+                "Grrhh....ngrhhr...",
+                "Ngrrhhh...",
+                "Food...food...come...",
+                "Du-ne...kill...all...",
+                "Fee-st...co-me..."
+            ],
+            "labcommentcombat": [
+                "NNGRRAAHHHHH!",
+                "GGRAAGHHH! GRRRRRHHH!!!",
+                "NNRRUUAAAAARRGHHHH!!",
+                "DE-ATH CO-ME!!!",
+                "CO-ME TO DU-NE!!!",
+                "DU-NE FE-AST ON F-LESH!!!"
             ],
             "tradermeetnormal": [
                 "М-м-м... Преве-ед....",
@@ -7548,11 +7823,11 @@
 			"Твой конец неминуем. Просто пока тебе всё кажется нормальным",
 			"Тьма надвигается..."
         ],
-        "<spoiler>": [
-            "чёблядь"
+        "cargoembedded": [
+            "плейсхолдер1"
         ],
-        "<spoiler2>": [
-            "чёблядь2"
+        "labescape": [
+            "плейсхолдер2"
         ],
         "combat": [
             "Серьёзно??",
