@@ -2446,26 +2446,26 @@
         "tutopenhealthpanel": "Открой панель здоровья.",
         "tutnice": "Отлично.",
         "endsc1": "...Ну, здравствуй, #<>. Видим, что ты успешно доставил ту-",
-        "endsc2": "А..? Эмм, #<>, можешь объяснить один момент. Почему твоя цель...находится внутри твоего живота?",
+        "endsc2": "А..? Эмм, #<>, можешь объяснить один момент. Каким образом твоя цель...оказалась внутри твоего живота?",
         "endsc3": "...Ладно. Что-ж...это немного меняет наши планы, но...так или иначе.",
         "endsc4": "Твоё достижение реально впечатляет, и мы дальше будем изучать тебя. По поводу того, что мы будем делать...",
         "endsc5": "Сразу успокоим тебя: мы дадим тебе пожить. Однако, нам нужно изучить твоё тело и психическое состояние. Дальше - ходи куда хочешь в нашей лаборатории, в качестве пушечного мяса для наших стандартных тестов мы тебя не будем использовать.",
-        "endsc6": "We may discuss additional benefits later down the line...",
-        "endsc7": "...And, as for the objective...this must be looked into further. It will have to be removed from your body, one way or another.",
-        "endsc8": "Now...do you have any questions? We would like to continue as soon as possible.",
-        "endsc9": "...Very well. First, your body must go under close examination. Please proceed through the door to your right.",
-        "endsc10": "What's the hold up? Please proceed through the door to your right.",
-        "endsc11": "The door behind you. Go through it.",
-        "endsc12": "We don't have all day. Come on. Door to your right.",
-        "endsc13": "Ugh. Why do I always get the stubborn ones..?",
-        "escapealert": "Attention all site personnel. A type W-2 incident has occured. All security personnel is to arm. Please remain calm while the situation is resolved.",
-        "cargosurgery1": "Hurry. I need to inject that anesthetic into my abdomen.",
-        "cargosurgery2": "Guards are coming. I need to use that big surgical device.",
-        "cargosurgery3": "I need to put these clamps into the marked spots.",
-        "cargosurgery4": "I need to pull the cargo out of body.",
-        "cargosurgery5": "I need to put these tubes over the wound.",
-        "cargosurgery6": "I need to go.",
-        "endsctip": "Get your shit together. I need to murder him. Now.",
+        "endsc6": "Чуть позже можем ещё обсудить, что тебе можно...",
+        "endsc7": "...И, насчёт цели...нужно будет изучить твой случай. Так или иначе, но нам нужно будет извлечь эту штуку из тебя.",
+        "endsc8": "Что-ж...у тебя остались ещё вопросы? Нам нужно продолжать, и желательно побыстрее.",
+        "endsc9": "...Хорошо-с. Сперва, нам нужно будет внимательно изучить твоё тело. Пройди в дверь справа.",
+        "endsc10": "Чего застрял? Пройди в дверь справа.",
+        "endsc11": "Дверь сзади. Пройди через неё.",
+        "endsc12": "У нас время не резиновое. Давай уже. Дверь справа.",
+        "endsc13": "Угх. Ну почему вы все такие упрямые..?",
+        "escapealert": "Внимание всему персоналу. Произошёл инциндент типа W-2. Требование к охране вооружиться и быть наготове. Просьба сохранять спокойствие, пока ситуация не будет разрешена.",
+        "cargosurgery1": "Быстрее. Мне нужно вколоть анестетик в живот.",
+        "cargosurgery2": "Охрана на подходе. Мне нужно то хирургическое устройство.",
+        "cargosurgery3": "Надо вставить эти зажимы в помеченные места.",
+        "cargosurgery4": "Теперь вытащить тот \"груз\" из живота...",
+        "cargosurgery5": "...И наложить эти трубки поверх раны.",
+        "cargosurgery6": "Нужно валить отсюда.",
+        "endsctip": "Ты меня заебал. Мне придётся грохнуть его. Прямо сейчас.",
 		"outdatedwarning": "<size=200%>Внимание!<size=100%>\nТекущая версия русификатора (0.5-pre-4) несовместима с текущей версией игры! Вероятен отсутствующий текст переводов и сломанное отображение текста (типа \"itemnamedsc\").\nПроверь репозиторий <color=\"yellow\">CheBuRek8176</color> или страницу на Nexus Mods - там наверняка уже лежит крупное обновление!",//о да, намекать на нексус, которого нету, моя супер-способность
         "surfacebreachnote": "As you breach through the final few layers of gravel and rock that separate you from the wide open air, a blinding light unveils itself through the cracks.<>\n\nYou've travelled through hell and back, surpassed thousands of, what are now corpses, and have become the first and only one to complete your assigned objective.<>\n\nYou step foot on the cold gravel. Buildings, mountains and various groups of people appear in the horizon. You have breached the surface.",
         "labenternote": "Soon after, you see a flash in the sky accompanied by an unrecognizable loud beeping.<>\n\nA few minutes pass while you appreciate your newfound surroundings, before some kind of pod loudly crashes into the ground a short distance away.<>\n\nWhile you've seen hundreds of lifepods during your journey, this one looks nothing like the ones before. You figure this one is meant for you.<>\n\nA significant part of you wants to rebel and run far, far away, however...<>\nIt feels as if with every moment you spend in the sunlight, the object lodged in your abdomen wriggles around painfully and vibrates with progressively higher force.<>\n\nFearing the likely catastrophic failure of the hearts structural integrity approaching at a rapid pace, you board the lifepod with a defeated look on you.\nSoon after you do, you are thrown to the floor by a sudden jolt. The pod is ascending.<>\n\nWhile you don't know where you're going, you are slightly reassured by the fact that whoever sent this vessel down probably does. You decide to hunker down and make yourself comfortable while you wait.<>\n\nSuddenly, a bright flash overwhelms your vision. You feel an indescribable physical sensation shooting through you - the very same one you felt when first arriving here.\n\nAfter it dies down, you look outside the pod to find yourself surrounded by a hazy, blue sky above what appears to be a green forest with some kind of huge facility in the midst of it.<>\n\nThe vessel slowly descends into some kind of hatch inside of said facility. Soon, the pod locks in place, the steel door opens, revealing the sight of...",
@@ -5021,19 +5021,19 @@
                 "I made it... I made it..? Hmmh... It should be somewhere around here... Let's get this over with."
             ],
 			"cargo1": [
-                "I... I think this... Is... it..?"
+                "Я... Я думаю, это оно... Это... точно оно..?"
             ],
             "cargo2": [
-                "That... Is not a batt....wh... W-what's it... Doing..?"
+                "Это... Это не батт....чт... Что оно... делает..?"
             ],
             "cargoimpale": [
-                "AAAGHH! WHAT THE HELL!? WHY?"
+                "АААГХ! КАКОГО ХУЯ!? ЗА ЧТО?"
             ],
             "cargoimpale2": [
-                "H-hmm... Well... I... I do feel... Empowered by this..? I feel... L-lighter."
+                "Х-хмм... Что-ж... Я... Я чувствую... Что эта штука меня заряжает..? Я ч-чувствую себя... Л-легче."
             ],
             "cargoimpale3": [
-                "I... I r-really did it... Well... I'll... Let's not get too confident... I think I can use that pod to return. Let's get to the surface."
+                "Я... Я п-правда сделал это... Что-ж... Я, наверное... Ладно, не будем расслаблятся... Я думаю, что можно воспользоваться этой капсулой, чтобы вернуться. Пора возвращаться наверх."
             ],
 			"endlessloop0": [
                 "...Ччч-ч...Чего..? Что? Какого? Что только что... Какого хрена я снова здесь..? Хнн... Что только что произошло..."
@@ -5042,7 +5042,7 @@
                 "...Дела идут далеко не так, как я надеялся... Я без понятия, что мне ещё делать... Что-ж. Э-э-э. В третий раз вниз, мда..?"
             ],
             "endlessloop2": [
-                "UUUGGGHHHHH!! WHAT AM I SUPPOSED TO BE DOING!? Damn this... To hell with that heart... Grrrhh...I need to go down to survive anyway. What a shitshow."
+                "ААААРГГХХ!! ДА ЧТО Я ДОЛЖЕН СДЕЛАТЬ!? Да ну нахуй всё это... Пошла та штука к херам... Гррхх...Так или иначе, мне надо тут выжить. Что за пиздец."
             ], 
             "endlessloop3": [
                 "Я вас понял! Раз я отсюда не выберусь... что-ж... Мне нужно привыкать к этому."
@@ -5051,54 +5051,54 @@
                 "Ох, и снова, снова... я попал обратно наверх..."
             ],
 			"endpodexamine": [
-                "C-cargo... First..."
+                "Г-груз... Сперва его..."
             ],
             "ascententer": [
-                "Looks like thats as far as it'll go... The only way's up. Let's go."
+                "Похоже, выше я не поднимусь... Остался один путь наверх. Пошли, что ещё делать..."
             ],
             "labenter": [
-                "(I'll comply for now... Trying to go against them would get me killed. Maybe I'll find an opportunity...)"
+                "(Мне стоит пока их слушать... Иначе они меня убьют. Возможно, у меня есть шанс...)"
             ],
             "labresponse": [
-                "(...Like hell I'm talking to them. Not after...that.)"
+                "(...Мне пиздец как не хочется говорить с ним. Хотя бы не после...всего произошедшего.)"
             ],
             "labthink1": [
-                "(This is the moment... If... If I had a gun, or something...)"
+                "(Это тот момент... Если бы... Если бы у меня при себе был бы огнестрел или что-то ещё...)"
             ],
             "labthink2": [
-                "(I could... Kill him. Shoot that thing on the ceiling... Go through that grate. Escape..?)"
+                "(Я могу... Убить его. Стрельнуть в ту хрень на потолке... Залезть через решётку туда. И выбраться..?)"
             ],
             "labthink2chip": [
-                "(I could... No. I can't. They'd kill me with the chip. Damn it.)"
+                "(Я могу... Нет. Я не могу. Они убьют меня моим же чипом. Вот пиздец.)"
             ],
             "labshoot": [
-                "NNGGRRAAAAHHHH!! FUCK YOU!!! I'M NOT TAKING ANY MORE OF YOUR SHIT!!!"
+                "НННГГРРРРАААААХХХХХ!! ПОШЁЛ ТЫ НАХУЙ!!! Я НЕ СОБИРАЮСЬ БОЛЬШЕ ТЕРПЕТЬ ВСЮ ЭТУ ХУЙНЮ!!!"
             ],
             "labcommentcalm": [
-                "Nghh... Grrh... They'll pay...",
-                "They'll pay for this...",
-                "Sufffer...the consequences...",
-                "So done. With. This. SHIT!",
-                "Go to hell. Go to hell. All of you...",
-                "It's the end.",
-                "Fuckers. Fuckers. Fuckers. Dipshits.",
-                "No one will care when they go missing.",
-                "(Nothing can stop me.)",
-                "Win stupid fucking prizes..."
+                "Нгхх... Грхх... Они поплатятся за всё...",
+                "Они поплатятся за содеянное...",
+                "Вы получите...то, чего добивались...",
+                "Меня. Так. Достала. Вся. Эта. ХУЙНЯ!",
+                "Сгорите в аду. Сгорите. Вы все...",
+                "Это конец.",
+                "Тупые. Блядь. Уёбки. Грёбанные.",
+                "Никого их внезапная пропажа беспокоить не будет.",
+                "(Ничто меня не остановит.)",
+                "Получите, блядь, от меня \"подарочек\"..."
             ],
             "labcommentcombat": [
-                "FUCK YOU!! FUCK YOU!!!! FUCK ALL OF YOU!!!!",
-                "I'LL WATCH THE LIFE DRAIN OUT OF YOUR EYES!!!",
-                "TO HELL WITH YOU!!!",
-                "NO MORE OF THIS SHIT!!",
-                "I'M DONE WITH THESE GAMES!!",
-                "GRRRAAHHHHH!!",
-                "WHO DO YOU THINK YOU FUCKING ARE!?",
-                "NO ONE WILL REMEMBER YOU!!",
-                "YOU'LL ALL PAY FOR WHAT YOU'VE DONE!!",
-                "I'M NOT GOING DOWN!!",
-                "YOU COATED FUCKS!!",
-                "GO TO HELL!!!!"
+                "ПОШЛИ ВЫ НАХУЙ!! ПОШЛИ НАХУЙ!!!! ВЫ ВСЕ!!!!",
+                "Я БЫ ПОСМОТРЕЛ, КАК ЖИЗНЬ ВЫТЕКЛА ИЗ ВАШИХ ГЛАЗ!!!",
+                "ПОШЛИ ВЫ К ХУЯМ!!!",
+                "ХВАТИТ ВСЕЙ ЭТОЙ ХЕРНИ!!",
+                "МЕНЯ ЗАЕБАЛИ ЭТИ ВАШИ ИГРЫ!!",
+                "ГРРАААХХХХ!!",
+                "КЕМ ВЫ СЕБЯ, БЛЯДЬ, ВОЗОМНИЛИ!?",
+                "НИКАТО ВАС ПОМНИТЬ НЕ БУДЕТ!!",
+                "ВЫ ВСЕ ПОЛУЧИТЕ ЗА ВСЁ СОДЕЯННОЕ!!",
+                "Я НЕ СОБИРАЮСЬ СДАВАТЬСЯ!!",
+                "ВЫ БЛЯДИ В ХАЛАТАХ!!",
+                "СГОРИТЕ В АДУ!!!!"
             ],
             "vomitresponse": [
                 "Ээээ-эммм... С тобой точно всё хорошо..?",
@@ -5618,7 +5618,7 @@
                 	"Меня этим уже не удивить.",
                 	"Здрасте.",
                 	"Как великодушно с вашей стороны.",
-                	"Меньше народу — больше кислороду.",
+                	"Меньше народу - больше кислороду.",
                 	"О санитарности и речи нет.",
                 	"Как невежливо с твоей стороны умереть.",
                 	"Слабак.",
@@ -5928,22 +5928,22 @@
                 	"О, что-то пищит. Интересно, что это значит?"
             ],
 			"wwmr": [
-                "All according to plan. It appears the objective is within reach. I must focus."
+                "Всё идёт по плану. Похоже, цель миссии где-то неподалёку. Мне нужно сфокусироваться."
             ],
             "cargo1": [
-                "...Odd."
+                "...Не понял."
             ],
             "cargo2": [
-                "At long last, I have... H-H... What..?"
+                "Наконец-то, Я нашёл... Э-э... Чего..?"
             ],
             "cargoimpale": [
-                "T-this... Was... Not in my... L-list of expectations..."
+                "Э-это... Не... Было в моих... В-возможных ожиданиях..."
             ],
             "cargoimpale2": [
-                "Ghh... I-it is... Really... Lodged inside... Yet... It is relieving..."
+                "Гхх... Э-эта штука... Правда... Застряла внутри... Но... Оно хотя бы облегчает..."
             ],
             "cargoimpale3": [
-                "Hh. Focus. Very well. It is only logical that this was an intended part of the plan. I shall proceed into this drill pod and head upwards."
+                "Хх. Сфокусируйся. Кажется, я допёр. Единственный логичный вариант - это то, чо так оно и должно быть. Мне нужно залезть в эту буровую установку."
             ],
 	        "endlessloop0": [
                 "...Хм. Хмммм... Мммхххмммхх... Хххммм... Ла-адно. Это... Н-не то. Что я. О-ожидал. Наверняка я что-то где-то запорол. Мне с-стоит вернуться и сделать по-нормальному."
@@ -5961,10 +5961,10 @@
                 "......*вздыхает*"
             ],
 			"endpodexamine": [
-                "It is unpowered. I likely would be able to start it with medium effort."
+                "Она не запитана. Мне стоит попробовать приложить немного усилий."
             ],
             "ascententer": [
-                "The pod has ceased to function. It is time to ascend on foot. There is little distance left."
+                "Установка сдохла. Пришло время к подъёму на своих двоих. Там осталось чуть-чуть."
             ],
             "labenter": [
                 "(I feel strong resentment for the coats... Yet, I cannot act now. I must continue with a level head.)"
