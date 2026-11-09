@@ -1,10 +1,10 @@
 {
     "zametka1488": "[ВЕЛИКИЙ АВТОРСКИЙ КОММЕНТАРИЙ (18.01.26)] признаюсь честно, я (чебурек), немного спёр переводы из гитхаба и плейграунда, в основном - из того, что делали takashi wolf, deimos w, noctis, kimki и feks под v5pt5, но примерно 75% (в частности - почти все реплики Экспи (в плане игрового перса, не торгаша) [обновление от 28.01: уже и торгаша, а ещё Милки]) делал сам ввиду корявости их переводов, скоро постараюсь сам дочистить и самостоятельно перевести то, что спёр. ещё я пару строк спёр у перевода от takashi wolf и fluffy. [обновление от 25.02: основная причина «воровства» - моя НЕВЕРОЯТНАЯ лень, в особенности - касательно перевода больших стен текста (вроде Э-КПК и заметок), порой они ВООБЩЕ не поддаются хоть сколько-то осмысленному переводу. но почти все те заметки, что были добавлены с 5.0.1 по 5.1, я переводил сам] [обновление от 13.05.26: всё-таки, я решился перевести весь этот свиздец. по большей части я ориентировался на свои (не)знания английского и лишь В ИСКЛЮЧИТЕЛЬНЫХ случаях подсматривал (но не воровал) чужие переводы (с официального репо)] большое спасибо рокетуссу за тест на ошибки (их было МНОГО, первая версия запустилась только с 4(!) раза. я уже промолчу про тот, что был под v5.0.3 - 8, сука, попыток... 8!!!) и поиск оЧеПяток. также спс дэй1икст и комару за те же заслуги. изначально, руссификатор должен был выйти чуть ли ни под v5pt4, но в октябре-ноябре у меня почти не было времени из-за подготовки к экзаменам, делал где-то с середины октября 25-го + я делал ВЕСЬ руссификатор с телефона (кстати, очень древнего, LeEco Le2 аж 2016 года) через редактор в цх проводнике, из-за кривого сенсора я допускал дофигище опечаток, а затем весь декабрь-январь фиксил их. а затем орсон в середине февраля ФИГАК - обнова 5.0.1. спс за понимание. если чё, мой ник в тг @CheBuRek8176,если есть вопросы, пиши, не стесняйся))",
     "poshalkopodskazka": "крч, я (чебурек) вместе с рокетуссом по приколу по всему русификатору запихал пасхалки - в игре их не встретишь, только тута))",
-    "name": "Русский<color=\"green\">+</color> (0.5-pre-4)",
-    "komar":"komarok сменил ник на vt-2",
-    "description": "Неофициальный \"расширенный\" русификатор от <color=\"yellow\">CheBuRek8176</color> и <color=#ffbbbb>Strag (он же - Вояджер)</color>, включающий в себя дополненные описания, лор игры, новые реплики персонажей и неочевидные отсылки. В тестировании участвовали <color=\"orange\">Roketuss</color>, Nagi Seishiro <color=\"green\">Day1xt</color> и <color=#ff00ff>Vt-2</color>. Свой вклад внёс: <color=#6e00ff>bibas_x2 (Монь Ферр)</color>. Переводы могут содержать неточности, минимальное искажение изначального смысла, опечатки или устареть.<color=\"orange\">\n\nТекущая версия руссификатора: </color><color=\"yellow\">0.5-pre-4</color>\n<color=\"green\">Русификатор нацелен на версию игры 1.0-Pre-13</color>\n\n<color=#ff00ff>К сожалению, некоторые шрифты, которые используются игрой, не дружат с кириллицей, поэтому в некоторых местах может встречаться корявое отображение текста.</color>\n\n<size=150%><color=#ff0000>РУСИФИКАТОР НЕСОВМЕСТИМ С 7-Й ВЕРСИЕЙ!!! СКАЧАЙ БОЛЕЕ СТАРУЮ ВЕРСИЮ НА ГИТХАБЕ!!!",
-	"version": "1.0-Pre13",
+    "name": "Русский<color=\"green\">+</color>",
+    "komar":"komarok сменил ник на tvm",
+    "description": "Неофициальный \"расширенный\" русификатор от <color=\"yellow\">CheBuRek8176</color> и <color=#ffbbbb>Strag (он же - Вояджер)</color>, включающий в себя дополненные описания, лор игры, новые реплики персонажей и неочевидные отсылки. В тестировании участвовали <color=\"orange\">Roketuss</color>, Nagi Seishiro <color=\"green\">Day1xt</color> и <color=#ff00ff>TvM</color>. Свой вклад внёс: <color=#6e00ff>bibas_x2 (Монь Ферр)</color>. Переводы могут содержать неточности, минимальное искажение изначального смысла, опечатки или устареть.<color=\"orange\">\n\nТекущая версия руссификатора: </color><color=\"yellow\">0.5-pre-5</color>\n<color=\"green\">Русификатор нацелен на версию игры 1.0</color>\n\n<color=#ff00ff>К сожалению, некоторые шрифты, которые используются игрой, не дружат с кириллицей, поэтому в некоторых местах может встречаться корявое отображение текста.</color>\n\n<size=150%><color=#ff0000>РУСИФИКАТОР ЕЩЁ НЕМНОГО НЕДОДЕЛАН, И В НЁМ ОСТАЛИСЬ НЕПЕРЕВЕДЁННЫЕ УЧАСТКИ! Рекомендуется регулярно проверять репозиторий на наличие обновлений - их будет много.",
+	"version": "1.0",
     "main": {
         "bandage": "Бинт",
         "bandagedsc": "Рулон ткани, используемый для замедления кровотечения, стабилизации переломов и заживления кожи. Не влияет на целостность мышц. Немного снижает боль.",
@@ -1230,7 +1230,7 @@
         "horrifieddsc": "<color=\"red\">НЕ ТОРМОЗИ. НЕ ДУМАЙ. ЗАБУДЬ ПРО ОСТАЛЬНОЕ. БЕГИ, ЕСЛИ ЖИЗНЬ ТЕБЕ ДОРОГА, ИЛИ СРАЖАЙСЯ ЗА НЕЁ!",
         "focuseddsc": "<i>Оба из нас умрут сегодня. Просто один продержится чуть дольше другого.",
 		"focuseddscalt": "<i>Пришло время обрести свободу.",
-        "cargodsc": "Выглядит отвратительно, и заставляет чувствовать себя до ужаса некомфортно, однако ты чувствуешь себя заряженным...",
+        "cargodsc": "Выглядит отвратительно, и заставляет чувствовать себя до ужаса некомфортно, однако ты чувствуешь себя заряженным... Пока ты не вспомнишь, что он застрял в твоём животе.",
         "prosthesisdsc": "Ты присоединил протез. Естественно, протез не может кровоточить, болеть или быть инфицированным, но тебе стоит задуматься о сборе материалов для его починки... в будущем, когда он начнёт разваливаться, времени на это не будет.",
         "loosescrewsdsc": "Протез начинает разваливаться прямо на ходу, вызывая его дальнейшее повреждение банально от попыток двигаться. Это может быть вызвано тем, что в нём что-то застряло или его серьёзным повреждением.",
         "bentprosthesisdsc": "Твой протез был сильно погнут, что делает его почти бесполезным и неремонтопригодным. Воспользуйся гаечным ключом, чтобы вернуть ему форму.",
@@ -1493,8 +1493,8 @@
         "waterdsc": "Слегка загрязнённая вода. В основном безопасна для питья, но может вызвать лёгкую тошноту.",
         "dirtywater": "Грязная вода",
         "dirtywaterdsc": "По крайней мере, она больше не на твоём теле. Небезопасна для питья, вызывает сильную тошноту, а иногда - рвоту.",
-        "algae": "Вода со светорослями",
-        "algaedsc": "Вода с густыми биолюминесцентными водорослями. Очень плавучая. Не рекомендуется к употреблению. Восстанавливает как голод, так и жажду, но вызывает сильную тошноту и может стать причиной рвоты.",
+        "lumalgae": "Вода со светорослями",
+        "lumalgaedsc": "Вода с густыми биолюминесцентными водорослями. Очень плавучая. Не рекомендуется к употреблению. Восстанавливает как голод, так и жажду, но вызывает сильную тошноту и может стать причиной рвоты.",
         "redsludge": "Красная слякоть",
         "redsludgedsc": "До ужаса отвратительно. Что-то вроде месива из плоти и крови. Пахнет не лучше, чем выглядит.",
         "magma": "Магма",
@@ -1547,7 +1547,7 @@
         "milky": "Милки",
         "milkytraderdsc": "Необычайно низкорослое, пушистое белое существо с плоской мордой и короткими белыми рожками. Также, как и ты, является собакообразным. Как ни странно, не имеет видимого носа, хотя, если хорошо вглядется, можно увидеть две ноздри. В какой-то степени водоплавающее, судя по плавникам на спине. Кажется довольно умным и слегка высокомерным; скорее всего, владеет каким-то огнестрелом для компенсации слабых физических характеристик. Весьма психически устойчив, редко страдает глубокой депрессией, но доводить, всё же, его не стоит. На порядок более ловкий, чем Эксперимент. Его когти намного короче, чем твои, что намного облегчает мелкую моторику... рук?... лап?... Впрочем, неважно. Он не склонен к физической привязанности; скорее всего, потребуется заслужить его доверия, чтобы обнять.",
         "dune": "Дюна",
-        "dunetraderdsc": "Высокий, широкоплечий, внушительный, сильный, но тупоголовый. Испытывает немалые проблемы с речью, почти не использует местоимения, а построение предложений останавливается на уровне \"Я твой дом труба шатать!\" Вероятно, проблемы с интеллектом связаны с тем, что в своё время он был полностью изолирован от общества. У него есть странного вида плавники, расбросанные по всему телу, 6 шипов, торчащие сбоку от головы, и ужасающе большой рот с кучей крупных острых зубов. Похоже, что у него есть жабры. И вообще, во многом он напоминает \"рыбу-удильщика\", но без \"удочки\" и с шерстью песчаного цвета. Он не проявляет агрессию, но в основном им руководят животные инстинкты, так что его не будут волновать разные мелочи. Тебе стоит придумать хороший способ, чтобы расположить его к себе. Учитывай, что он является <color=\"red\">каннибалом</color>, не любит обнимашки, а для укрепления доверия и значительного снижения цен ты можешь дать ему откусить от тебя кусок плоти... главное, не давай ему сожрать тебя заживо полностью. Как правило, имеет в своём инвентаре много хлама и мало полезного. <i>Как правило, люди используют его, как \"пылесос для трупов\"...",
+        "dunetraderdsc": "Высокий, широкоплечий, внушительный, сильный, но тупоголовый. Испытывает немалые проблемы с речью, почти не использует местоимения, а построение предложений останавливается на уровне \"Я твой дом труба шатать!\" Вероятно, проблемы с интеллектом связаны с тем, что в своё время он был полностью изолирован от общества. У него есть странного вида плавники, расбросанные по всему телу, 6 шипов, торчащие сбоку от головы, и ужасающе большой рот с кучей крупных острых зубов. Похоже, что у него есть жабры. И вообще, во многом он напоминает \"рыбу-удильщика\", но без \"удочки\" и с песчано-жёлтой кожей почти без шерсти. Он не проявляет агрессию, но в основном им руководят животные инстинкты, так что его не будут волновать разные мелочи. Тебе стоит придумать хороший способ, чтобы расположить его к себе. Учитывай, что он является <color=\"red\">каннибалом</color>, не любит обнимашки, а для укрепления доверия и значительного снижения цен ты можешь дать ему откусить от тебя кусок плоти... главное, не давай ему сожрать тебя заживо полностью. Как правило, имеет в своём инвентаре много хлама и мало полезного. <i>Как правило, люди используют его, как \"пылесос для трупов\"...",
         "clicktocontinue": "Нажми (ЛКМ), чтобы продолжить...\nИли (ESC), чтобы пропустить",
 		"clicktocontinuealt": "Нажми (ЛКМ), чтобы продолжить...",
         "favourite": "Избранный предмет",
@@ -2446,12 +2446,12 @@
         "tutopenhealthpanel": "Открой панель здоровья.",
         "tutnice": "Отлично.",
         "endsc1": "...Ну, здравствуй, #<>. Видим, что ты успешно доставил ту-",
-        "endsc2": "А..? Эмм, #<>, можешь объяснить один момент. Каким образом твоя цель...оказалась внутри твоего живота?",
+        "endsc2": "А..? Эмм, #<>, можешь объяснить один момент. Каким образом груз...оказался внутри твоего живота?",
         "endsc3": "...Ладно. Что-ж...это немного меняет наши планы, но...так или иначе.",
         "endsc4": "Твоё достижение реально впечатляет, и мы дальше будем изучать тебя. По поводу того, что мы будем делать...",
         "endsc5": "Сразу успокоим тебя: мы дадим тебе пожить. Однако, нам нужно изучить твоё тело и психическое состояние. Дальше - ходи куда хочешь в нашей лаборатории, в качестве пушечного мяса для наших стандартных тестов мы тебя не будем использовать.",
         "endsc6": "Чуть позже можем ещё обсудить, что тебе можно...",
-        "endsc7": "...И, насчёт цели...нужно будет изучить твой случай. Так или иначе, но нам нужно будет извлечь эту штуку из тебя.",
+        "endsc7": "...И, насчёт груза...нужно будет изучить твой случай. Так или иначе, но нам нужно будет извлечь эту штуку из тебя.",
         "endsc8": "Что-ж...у тебя остались ещё вопросы? Нам нужно продолжать, и желательно побыстрее.",
         "endsc9": "...Хорошо-с. Сперва, нам нужно будет внимательно изучить твоё тело. Пройди в дверь справа.",
         "endsc10": "Чего застрял? Пройди в дверь справа.",
@@ -2466,9 +2466,9 @@
         "cargosurgery5": "...И наложить эти трубки поверх раны.",
         "cargosurgery6": "Нужно валить отсюда.",
         "endsctip": "Ты меня заебал. Мне придётся грохнуть его. Прямо сейчас.",
-		"outdatedwarning": "<size=200%>Внимание!<size=100%>\nТекущая версия русификатора (0.5-pre-4) несовместима с текущей версией игры! Вероятен отсутствующий текст переводов и сломанное отображение текста (типа \"itemnamedsc\").\nПроверь репозиторий <color=\"yellow\">CheBuRek8176</color> или страницу на Nexus Mods - там наверняка уже лежит крупное обновление!",//о да, намекать на нексус, которого нету, моя супер-способность
-        "surfacebreachnote": "As you breach through the final few layers of gravel and rock that separate you from the wide open air, a blinding light unveils itself through the cracks.<>\n\nYou've travelled through hell and back, surpassed thousands of, what are now corpses, and have become the first and only one to complete your assigned objective.<>\n\nYou step foot on the cold gravel. Buildings, mountains and various groups of people appear in the horizon. You have breached the surface.",
-        "labenternote": "Soon after, you see a flash in the sky accompanied by an unrecognizable loud beeping.<>\n\nA few minutes pass while you appreciate your newfound surroundings, before some kind of pod loudly crashes into the ground a short distance away.<>\n\nWhile you've seen hundreds of lifepods during your journey, this one looks nothing like the ones before. You figure this one is meant for you.<>\n\nA significant part of you wants to rebel and run far, far away, however...<>\nIt feels as if with every moment you spend in the sunlight, the object lodged in your abdomen wriggles around painfully and vibrates with progressively higher force.<>\n\nFearing the likely catastrophic failure of the hearts structural integrity approaching at a rapid pace, you board the lifepod with a defeated look on you.\nSoon after you do, you are thrown to the floor by a sudden jolt. The pod is ascending.<>\n\nWhile you don't know where you're going, you are slightly reassured by the fact that whoever sent this vessel down probably does. You decide to hunker down and make yourself comfortable while you wait.<>\n\nSuddenly, a bright flash overwhelms your vision. You feel an indescribable physical sensation shooting through you - the very same one you felt when first arriving here.\n\nAfter it dies down, you look outside the pod to find yourself surrounded by a hazy, blue sky above what appears to be a green forest with some kind of huge facility in the midst of it.<>\n\nThe vessel slowly descends into some kind of hatch inside of said facility. Soon, the pod locks in place, the steel door opens, revealing the sight of...",
+		"outdatedwarning": "<size=200%>Внимание!<size=100%>\nТекущая версия русификатора (0.5-pre-5) несовместима с текущей версией игры! Вероятен отсутствующий текст переводов и сломанное отображение текста (типа \"itemnamedsc\").\nПроверь репозиторий <color=\"yellow\">CheBuRek8176</color> - там наверняка уже лежит крупное обновление!",
+        "surfacebreachnote": "Как только ты пробиваешь последние несколько слоёв гравия и камня, которые отделяли тебя от поверхности, тебя ослепляет яркий свет, проходящий через трещины.<>\n\nТы прошёл через весь этот ад и вернулся, пройдя мимо тысяч тех, кто теперь уже являются трупами, и стал первым и единственным, кто завершил поставленную цель.<>\n\nТы, наконец, ступаешь на холодный гравий. Здания, горы и группы других Савианов открываются перед тобой. Ты выбрался на поверхность.",
+        "labenternote": "Вскоре, ты увидел в небе яркую вспышку, которую сопровождало непонятное громкое пищание.<>\n\nНе прошло и пары минут со знакомства с новым окружением, как какая-то капсула упала неподалёку от тебя.<>\n\nТы уже видел сотни таких за своё путешествие, и эта ничем не отличалась от других. Ты понял, что эта предназначена именно для тебя.<>\n\nВ твоей голове мелькает мысль просто взять и бежать отсюда...<>\nНо, похоже, пока ты находишься под звёздным светом, груз в твоём животе дёргается и вибрирует всё сильнее и сильнее, причиняя боль.<>\n\nБоясь катастрофического повреждения всех внутренних органов, которое надвигается с кажой секундой, ты входишь в спасательную капсулу с поражённым выражением морды.\nВскоре тебя прижимает к полу внезапным толчком. Капсула начала взлетать.<>\n\nТы не знаешь, куда тебя вновь отправляют, и тебя пугает факт, что всё может пойти по второму кругу. Ты садишься поудобнее и начинаешь ждать.<>\n\nВнезапно, очень яркая вспышка полностью ослепляет тебя. Ты чувствуешь воздействие невероятной физической силы - почти такой же, какой она была, когда ты впервые оказался здесь.\n\nЧерез время всё стихает, ты выглядываешь наружу и видишь туманное голубое небо над чем-то вроде зелёного леса, посреди которого возвышается какой-то гигантский комплекс.<>\n\nКапсула, наконец, приземляется на одну из частей комплекса. Затем, она фиксируетя на месте, стальные двери открываются и ты выглядываешь наружу...",
         "biopodnote": "Trying to rebel against your captors with an explosive chip in your head is equivalent to suicide. The weird object lodged in your torso also seems dangerous to keep inside you for too long. With no better options at your disposal, you follow the orders given to you.<>\n\nYou are soon escorted by a group of armed guards into a room with a large capsule filled with fluid. You have seen some of your kind inside of these before. You know what that entails.<>\n\nYou have completed your objective, yet it only brought you back to this prison. Simply used as a pawn by the corporation. You are at least comforted by the fact that, since the mission is now complete, no more unaware souls will be sent to their deaths in the caves.<>\n\nThis thought calms you as you reluctantly give up all the gadgets that you've found on your journey and prepare to enter the bio-pod. The cargo seems to be stabilizing...<>\n\nAs you slowly submerge in the liquid, with various tubes and wires now attached to your body, you think about what the scientist said. At least you'll live a better life here. More privilege, more freedom, better food, no risk of being hurt by the various tests conducted here... A faint smile appears on you as your consciousness fades into a deep sleep.",
         "biopodnotealt": "You are quickly taken away, restrained, stripped of your gear and resuscitated to avoid any more signifcant damage to the brain and the rest of your body.\n\nSome time later, you are escorted by a group of armed guards into a room with a large capsule filled with fluid. You have seen some of your kind inside of these before. You know what that entails.<>\n\nYou have completed your objective, yet it only brought you back to this prison. Simply used as a pawn by the corporation. You are at least comforted by the fact that, since the mission is now complete, no more unaware souls will be sent to their deaths in the caves.<>\n\nThis thought calms you as you prepare to enter the bio-pod. The cargo seems to be stabilizing...<>\n\nAs you slowly submerge in the liquid, with various tubes and wires now attached to your body, you think about what the scientist said. At least you'll live a better life here. More privilege, more freedom, better food, no risk of being hurt by the various tests conducted here... A faint smile appears on you as your consciousness fades into a deep sleep.",
         "biopodnotealt2": "You are quickly restrained, taken away, stripped of everything and resuscitated to avoid any more signifcant damage to the brain and the rest of your body.\n\nA significant amount of time later, you are moved by a group of armed guards into a room with a large capsule filled with fluid. You have seen some of your kind inside of these before. You know what that entails.<>\n\nYou tried so hard to get out of this prison, yet it brought you nowhere. A meaningless attempt. You are at least comforted by the fact that, since the mission is now complete, no more unaware souls will be sent to their deaths in the caves.<>\n\nThis thought calms you as you prepare to enter the bio-pod.<>\n\nAs you slowly submerge in the liquid, with various tubes and wires now attached to your body, you think about your failure. So close to tasting freedom, to getting the ultimate revenge on your captors... And yet, it fell flat. If only you tried a little harder... A frown appears on you as your consciousness fades into a deep sleep.",
@@ -2830,7 +2830,7 @@
        "krokosha_coop_mmsb_lobbyhidepass": "Скрыть запароленные",
        "krokosha_coop_mmsb_sort_layer": "По слою",
        "krokosha_coop_ruleschanged": "Изменены правила:",
-       "krokosha_coop_rulesdefault": "Установлены правила по умолчанию"?
+       "krokosha_coop_rulesdefault": "Установлены правила по умолчанию",
 
 		"nado":"всё, что ниже, относится к новой версии мульта; мне пока лень переводить",
 
@@ -5967,16 +5967,16 @@
                 "Установка сдохла. Пришло время к подъёму на своих двоих. Там осталось чуть-чуть."
             ],
             "labenter": [
-                "(I feel strong resentment for the coats... Yet, I cannot act now. I must continue with a level head.)"
+                "(Мне так хочется отомстить людям в халатах... Но я не могу. Мне нужно идти дальше за главой.)"
             ],
             "labresponse": [
-                "(...Huh. That was NOT part of their plan?)"
+                "(...Хах. Это НЕ было частью их плана, да?)"
             ],
             "labthink1": [
-                "(The time is now. They will not see it coming.)"
+                "(Время пришло. Они даже не заметят.)"
             ],
             "labthink2": [
-                "(Shoot the coat. Shoot the turret. Go through grate. It will be difficult, but I cannot let myself comply with these monsters.)"
+                "(Выстрелить в человека в халате. Выстрелить по турели. Пройти через решётку. Это будет сложно, но я не собираюсь подчиняться этим тварям.)"
             ],
             "labthink2chip": [
                 "(Shoot the......No. This chip will not allow me to go against them. I have failed. To them, I have succeeded.)"
@@ -6382,7 +6382,7 @@
                 	"Дю-на... Ва-ды... ЖЫВО!",
                 	"Ггххррааагхх! Пи-ить! Щас..!"
             ],
-            "commentus":["меня напрягает limb с большой буквы. не, я понимаю, фикс регистра, т.к. он принудительно в нижний идёт в случае с limb и с верхнего в Limb, но у меня и так есть моё шедеварорешение"],
+            "commentus":["меня напрягает limb с большой буквы. не, я понимаю, фикс регистра, т.к. он принудительно в нижний идёт в случае с limb и с верхнего в Limb, но у меня и так есть моё шедеварорешение [09/11 бля, это была очепятка орсона]"],
             "limbmuscle": [
                 "Сво-<limb> ни дви-игаца...",
                 "Дю-на св<limb> пир-ристать р-работоть..?",
@@ -7087,6 +7087,7 @@
     "notes": [
         [
             {
+                "zametka": "ПРИМЕЧАНИЕ ДЛЯ ТЕХ, КТО ИЩЕТ ОПЕЧАТКИ: в заметках эксперимента и дюны НАРОЧНО допущены ошибки (у первого - пропущенные дефисы (например, из за, как то и т.д.), у другого всё вообще хреново)",
                 "Item1": "это ужасно. здесь так много трупов... мне страшно. почему они послали сюда так много наших? я не понимаю. я правда не понимаю. они усыпили меня каким-то дротиком и запихнули в капсулу, чтобы отправить сюда. я ненавижу эту планету.",
                 "Item2": "",
                 "Item3": "experiment"
@@ -7617,22 +7618,22 @@
                 "Item3": "dune"
             },
             {
-                "Item1": "I brought over a small amount of these odd shifting cores from the previous biome I was in. It seems by letting them transform into a \"manifestation\", I am able to use them as a source of infinite nutrition and hydration, as one core turns into two upon manifesting. Quite useful.",
+                "Item1": "Я притащил несколько зародышей из предыдущего участка пещеры. Похоже, давая им превратится в то, что я называю \"воплощениями\", я получаю бесконечную еду и воду, поскольку один зародыш даёт сразу два воплощения. Весьма полезно.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "found some kind of weird alien looking ball out of some kind of drone... it said something about \"cryo\" on it? i didnt have a use for it so i threw it into a pool of those melted rocks... and it solidified them..?",
+                "Item1": "нашёл странный, на вид инопланетный шар, оставшийся от чего то типа дрона... на нём написано что то типа \"крио\"? я не нашёл ему применение и кинул его в расплавленный камень... и он заставил его стать твёрдым..?",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "keep getting burns on my paws from these heated stones. im scared itll get infected... though, those glowy orange vines did give me a bit of relief when i wrapped them around the wound. i made the mistake of touching my eyes afterwards without cleaning my hands. ow.",
+                "Item1": "я постоянно обжигаю свои лапы об эти горячие камни. я очень боюсь подцепить инфекцию из за этого... однако, те оранжевые светящиеся лианы немного облегчают боль, когда я их накладываю на ожоги. а ещё я допустил ошибку, прикоснувшись г своим глазам не помыв их. ай.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "I have found an odd hole residing on the wall next to me. After peering inside, out of said hole came out an odd, dry tentacle, which proceeded to briefly attach itself to me, make some kind of sucking motion, then disappear back into its den. While I was quite afraid after that occurence, I appear to be fine.<>\nI saw no noticeable change in the \"Health Panel\", though it is entirely possible I have missed something. Whatever this creature is, it does not seem to pose any significant danger to passers by.",
+                "Item1": "Я нашёл странную дыру в какой-то из стен. Я заглянул туда, и там оказалось странное сухое щупальце, которое тут же прикрепилось ко мне, сделало какое-то движение, будто оно пыталось что-то из меня высосать, а затем вернулось обратно в дыру. Я, конечно, испугался, но в остальном я был в порядке.<>\nНа \"Панели Здоровья\" вроде ничего не изменилось, хотя я наверняка что-то пропустил. Кем бы ни было то существо, оно вроде как не представляет угрозы проходящим мимо.",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -7757,7 +7758,7 @@
         }
     ],
     "ieshchoodnazametka":["вы меня простите, но оригинальные шуточные фразы на паузе были (в большинстве своём) гавном, так что я вставил свои (с ориентиром на gunsaw). и всё же, часть оригинальных я оставил. "],
-    "pauseQuotes": [
+    "pauseQuotes": {
 		"normal":[
 	        "На паузе.",
     	    "Игра на паузе. Серьёзно!",
@@ -7770,7 +7771,7 @@
         	"Как с точки зрения лора ты объяснишь ЭТО?",
         	"И... Время остановилось.",
         	"timescale 0",
-        	"Захвати-ка мне сухариков.",
+        	"Захвати-ка мне сухариков, раз отошёл.",
         	"Ты нажал на ESC. Мощно!",
         	"Как интересно. А теперь вернись к делу.",
         	"Ну, привет!",
@@ -7814,7 +7815,7 @@
 			"Игра приостановлена по техническим шоколадкам.",
 			"Внимание: пиксели в правом нижнем углу ушли на обед.",
 			"Клавиша \"Пробел\" объявляет забастовку.", //основано на том, что у меня эта кнопка очень часто отваливается, пока я не затыкаю fn+windows несколько раз
-			"Пожалуйста, подключите ████████████████ к ███████████, чтобы успешно инициализировать связь с подпольным китайцем" //грех не воспользоваться этими квадратами)
+			"Пожалуйста, подключите ████████████████ к ███████████, чтобы успешно инициализировать связь с подпольным китайцем." //грех не воспользоваться этими квадратами)
 	    ],
 	    "depressed": [
             "Ты, я смотрю, собираешься сдаться? Я не против",
@@ -7824,10 +7825,16 @@
 			"Тьма надвигается..."
         ],
         "cargoembedded": [
-            "плейсхолдер1"
+            "О, ты нашёл эту штуку?",
+            "Ну, удачи дотащить обратно.",
+            "Подъём будет тяжелее спуска.",
+            "Серьёзно? Ты три километра тащился ради этой херни?! Мог бы меня попросить. Хоть сотню тебе сделал. Наверное.",
+            "Делаю ставку, что ты наложаешь, пока будешь тащить обратно."
         ],
         "labescape": [
-            "плейсхолдер2"
+            "Будь с ними поаккуратней",
+            "Думаешь, сможешь сбежать? Ну, удачи.",
+            "Да, я всё ещё смотрю на твои страдания."
         ],
         "combat": [
             "Серьёзно??",
@@ -7842,4 +7849,5 @@
 			"Даже мне немного страшно смотреть на это",
 			"Удачи."
     ]
+}
 }
